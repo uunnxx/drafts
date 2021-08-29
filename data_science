@@ -1,0 +1,28 @@
++ Data Mining
+  + Web
+  + DB
+    + create
+    + insert
+    - select
+
+- Data Processing
+- Data Visualization
+- Data Analysis
+- Data Wragling
+    Turning messy data into useful statistics
+
+- Data Modeling
+- Model Deployment
+
+- Modules:
+  + beautiful soup
+  - matplotlib
+  - numpy
+  - pandas
+  - postgresql
+  - requests
+    + get
+    - post
+  - scrapy
+  - seaborn
+  - sqlite3

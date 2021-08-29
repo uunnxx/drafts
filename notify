@@ -1,0 +1,6 @@
+pkill dunst && dunst -conf $HOME/.config/dunst/dunstrc
+echo "Dunst restarted, loaded config from $HOME/.config/dunst/dunstrc"
+
+notify-send -u critical "Notification Title" "Notification Messagesa"
+notify-send -u low "Notification Title" "Notification Messagesa"
+notify-send -u normal "Notification Title" "Notification Messagesa"

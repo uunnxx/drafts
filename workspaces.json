@@ -1,0 +1,19 @@
+[
+  {"visible":false, "focused":false, "output":"DVI-D-0","urgent":false},
+  {"visible":false, "focused":false, "output":"DVI-D-0","urgent":false},
+  {"visible":false, "focused":false, "output":"DVI-D-0","urgent":false},
+  {"visible":false, "focused":false, "output":"DVI-D-0","urgent":false},
+  {"visible":false, "focused":false, "output":"DVI-D-0","urgent":false},
+  {"visible":false, "focused":false, "output":"DVI-D-0","urgent":false},
+  {"visible":true,  "focused":true,  "output":"DVI-D-0","urgent":false},
+  {"visible":true,  "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false},
+  {"visible":false, "focused":false, "output":"HDMI-A-0","urgent":false}
+]
