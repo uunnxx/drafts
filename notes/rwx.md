@@ -65,13 +65,6 @@ __SHELL:__
 
 
 
-__ANIME / MANGA:__
-- Aharen-san wa Hakarenai
-- The Greatest Demon Lord Is Reborn as a Typical Nobody
-- The moment you fall in love
-
-
-
 
 IPC - Inter-process communication
 
