@@ -1,0 +1,1 @@
+pactl list sinks | tr , '\n' |  grep 'rear-left: ' | awk '{print $4}'

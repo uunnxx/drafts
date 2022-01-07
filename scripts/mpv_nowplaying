@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+socket="$HOME/.mpv/socket"
+CURRENT=$(echo '{ "command": ["get_property", "filename"] }' | socat - $socket | jq -r ".data" | sed -E 's/\-([A-Za-z0-9_\-]){11}\.\w+//g')
+
+
+while true ; do
+
+  check_filename=$(echo '{ "command": ["get_property", "filename"] }' | socat - $socket | jq -r ".data" | sed -E 's/\-([A-Za-z0-9_\-]){11}\.\w+//g')
+
+  if [[ "$CURRENT" == "$check_filename" ]]; then
+    sleep 5
+  else
+    CURRENT=$check_filename
+    notify-send -u normal "NOW PLAYING:" "$CURRENT"
+  fi
+
+done
