@@ -57,15 +57,6 @@ __TOOLS / APPS:__
     - look       : linux
 
 
-
-__SHELL:__
-- tar -xvjf filename.tar.bz2
-- tar -xvzf filename.tar.gz
-
-
-
-
-
 IPC - Inter-process communication
 
 - nand2tetris
