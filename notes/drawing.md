@@ -1,0 +1,3 @@
+- Daisuke Richard
+  - https://www.parkablogs.com/content/book-review-suiso-daisuke-richard-making-works
+- noellemonade
