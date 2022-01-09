@@ -4,8 +4,9 @@ __ANIME / MANGA:__
 - The moment you fall in love
 
 
-| Title                 | Planned | Watched |
-|-----------------------|---------|---------|
-| HenNoko               |         | 5 of 12 |
-| Kaichou wa Maid-sama! |         | 2 of 27 |
+| Title                 | want to watch | watched | watching | dropped |  notes  |
+|-----------------------|:-------------:|:-------:|:--------:|:-------:|:-------:|
+| HenNoko               |               |         |     x    |         | 5 of 12 |
+| Kaichou wa Maid-sama! |               |         |     x    |         | 2 of 27 |
+
 

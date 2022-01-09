@@ -1,3 +1,10 @@
+- 100 days of Rust
+    - Books:
+    - Sites:
+        - Graphical depiction of ownership and borrowing in Rust https://rufflewind.com/2017-02-15/rust-move-copy-borrow
+    - Notes:
+
+
 Course:
 
 The Rust Programming Language

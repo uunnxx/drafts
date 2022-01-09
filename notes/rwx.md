@@ -1,41 +1,3 @@
-- 100 days of Ruby
-- Books:
-    - Books:
-    - Site:
-        - RubyAPI https://rubyapi.org/
-        - Rubymonk https://rubymonk.com/
-
-    - Notes:
-        - Literals %q,a,i,x https://docs.ruby-lang.org/en/3.0.0/doc/syntax/literals_rdoc.html#label-Percent+Strings
-        - Literals %q,a,i,x https://ruby-china.org/topics/18512
-        - Array Manipulations
-            a = [2, 3, 7, 8]; b = [2, 7, 9]
-            print a & b => 2, 7 => and
-            print a | b => 2, 3, 7, 8, 9 => or
-        - Array Ranges
-            nums = [6, 3, 7, 8, 9]
-            print nums[1..3] => 3, 7, 8
-
-- 100 days of Python
-    - Books:
-    - Sites:
-    - Notes:
-
-- 100 days of JavaScript
-    - Books:
-    - Sites:
-    - Notes:
-
-- 100 days of Rust
-    - Books:
-    - Sites:
-        - Graphical depiction of ownership and borrowing in Rust https://rufflewind.com/2017-02-15/rust-move-copy-borrow
-    - Notes:
-
-
-- Design Patterns
-
-
 __TOOLS / APPS:__
 - rake
     - https://github.com/ruby/rake
@@ -225,23 +187,24 @@ carry: 0001 1000
 | 1     | 1 | 1 | 11     |
 
 
-7 3 9 9 9 1 1 7
-9 3 6 0 5 0 1 7
-7 1 1 9 9 9 3 7
-7 1 0 5 0 6 3 9
+73999117
+93605017
+71199937
+71050639
 
-7 3 1 5 3 6 9 0
-9 0 9 6 9 5 9 3          79 77 79 91 71 39 73 39
-9 0 3 9 1 1 7 7          33 11 30 07 06 53 69 91
-1 7 7 1 7 9 1 0          96 10 19 37 31 79 76 73
-                         90 95 56 91 19 07 79 73
-                         95 90 39 17 35 60 01 97
-7 0 3 1 3 9 9 7          10 96 65 19 99 99 15 11
-1 6 1 9 5 9 1 1          11 33 99 71 91 70 09 15
-3 5 7 0 6 9 7 1          77 79 03 70 71 17 00 99
-9 3 9 7 0 9 0 7
+73153690
+90969593          7977799171397339
+90391177          3311300706536991
+17717910          9610193731797673
+                  9095569119077973
 
-7 6 7 7 0 1 0 0
-3 9 6 9 1 5 9 0
-3 9 7 7 9 1 1 9
-9 1 3 3 7 1 5 9
+                  9590391735600197
+70313997          1096651999991511
+16195911          1133997191700915
+35706971          7779037071170099
+93970907
+
+76770100
+39691590
+39779119
+91337159

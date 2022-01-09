@@ -1,4 +1,5 @@
-# Articles
+# ARTICLES:
+
 - How do I reverse a string with Vim script https://vi.stackexchange.com/questions/4944/how-do-i-reverse-a-string-with-vim-script
     - ex-command :%! rev
     - !!rev
@@ -12,7 +13,7 @@
 - :h shada
 
 
-# MAPS
+# MAPS:
 
 => [operator] [count] [motion]
 :h operator
