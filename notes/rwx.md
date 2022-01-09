@@ -10,10 +10,10 @@ __TOOLS / APPS:__
     - zathura
     - gv
 - spell check
-    - write-good : npm package
-    - aspell     : linux
-    - spell      : linux
-    - look       : linux
+    - write-good  `npm package`
+    - aspell      `linux`
+    - spell       `linux`
+    - look        `linux`
 
 -------------------------------------------------------------
 
