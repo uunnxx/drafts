@@ -3,21 +3,19 @@ __TOOLS / APPS:__
     - https://github.com/ruby/rake
 - bake
     - https://github.com/ioquatix/bake
-
 - ceedling
     Ruby/Rake-based build and test system for C projects
     - https://github.com/ThrowTheSwitch/Ceedling
-
 - PDF reader:
     - zathura
     - gv
-
 - spell check
     - write-good : npm package
     - aspell     : linux
     - spell      : linux
     - look       : linux
 
+-------------------------------------------------------------
 
 IPC - Inter-process communication
 
@@ -41,27 +39,27 @@ __read, write, execute__
 
 | r | w | x | - | - | - | --- |
 |---|---|---|---|---|---|-----|
-| 0 | 0 | 0 | - | - | - | 000 |
-| 0 | 0 | 1 | - | - | x | 001 |
-| 0 | 1 | 0 | - | w | - | 002 |
-| 0 | 1 | 1 | - | w | x | 003 |
-| 1 | 0 | 0 | r | - | - | 004 |
-| 1 | 0 | 1 | r | - | x | 005 |
-| 1 | 1 | 0 | r | w | - | 006 |
-| 1 | 1 | 1 | r | w | x | 007 |
+| `0` | `0` | `0` | `-` | `-` | `-` | `000` |
+| `0` | `0` | `1` | `-` | `-` | `x` | `001` |
+| `0` | `1` | `0` | `-` | `w` | `-` | `002` |
+| `0` | `1` | `1` | `-` | `w` | `x` | `003` |
+| `1` | `0` | `0` | `r` | `-` | `-` | `004` |
+| `1` | `0` | `1` | `r` | `-` | `x` | `005` |
+| `1` | `1` | `0` | `r` | `w` | `-` | `006` |
+| `1` | `1` | `1` | `r` | `w` | `x` | `007` |
 
 
 | User | Group | Other | --- |
 |------|-------|-------|-----|
-| rwx  | rwx   | rwx   | 777 |
-| rwx  | ---   | ---   | 700 |
-| rwx  | ---   | rwx   | 707 |
-| rw-  | r--   | r--   | 644 |
-| r-x  | ---   | rwx   | 507 |
-| r--  | ---   | ---   | 400 |
-| --x  | --x   | --x   | 111 |
-| --x  | ---   | ---   | 100 |
-| ---  | ---   | ---   | 000 |
+| `rwx`  | `rwx`   | `rwx`   | `777` |
+| `rwx`  | `---`   | `---`   | `700` |
+| `rwx`  | `---`   | `rwx`   | `707` |
+| `rw-`  | `r--`   | `r--`   | `644` |
+| `r-x`  | `---`   | `rwx`   | `507` |
+| `r--`  | `---`   | `---`   | `400` |
+| `--x`  | `--x`   | `--x`   | `111` |
+| `--x`  | `---`   | `---`   | `100` |
+| `---`  | `---`   | `---`   | `000` |
 
 ``````
 chmod
@@ -77,19 +75,19 @@ __File Types:__ (ls -lah)
 
 | File Type | User | Group | Other | Note                                       |
 |-----------|------|-------|-------|--------------------------------------------|
-| -         | rwx  | rwx   | rwx   | - :Regular file                            |
-| b         | rwx  | rwx   | rwx   | b :Block special file                      |
-| c         | rwx  | rwx   | rwx   | c :Character special file                  |
-| C         | rwx  | rwx   | rwx   | C :High performance (contiguous data) file |
-| d         | rwx  | rwx   | rwx   | d :Directory                               |
-| D         | rwx  | rwx   | rwx   | D :Door (Solaris 2.5 and up)               |
-| l         | rwx  | rwx   | rwx   | l :Symbolic link                           |
-| M         | rwx  | rwx   | rwx   | M :Off-line (migrated) file (Cray DMF)     |
-| n         | rwx  | rwx   | rwx   | n :Network special file (HP-UX)            |
-| p         | rwx  | rwx   | rwx   | p :FIFO (name pipe)                        |
-| P         | rwx  | rwx   | rwx   | P :Port (Solaris 10 and up)                |
-| s         | rwx  | rwx   | rwx   | s :Socket                                  |
-| ?         | rwx  | rwx   | rwx   | ? : Some other filetype                    |
+| `-`         | `rwx`  | `rwx`   | `rwx`   | `-` :Regular file                            |
+| `b`         | `rwx`  | `rwx`   | `rwx`   | `b` :Block special file                      |
+| `c`         | `rwx`  | `rwx`   | `rwx`   | `c` :Character special file                  |
+| `C`         | `rwx`  | `rwx`   | `rwx`   | `C` :High performance (contiguous data) file |
+| `d`         | `rwx`  | `rwx`   | `rwx`   | `d` :Directory                               |
+| `D`         | `rwx`  | `rwx`   | `rwx`   | `D` :Door (Solaris 2.5 and up)               |
+| `l`         | `rwx`  | `rwx`   | `rwx`   | `l` :Symbolic link                           |
+| `M`         | `rwx`  | `rwx`   | `rwx`   | `M` :Off-line (migrated) file (Cray DMF)     |
+| `n`         | `rwx`  | `rwx`   | `rwx`   | `n` :Network special file (HP-UX)            |
+| `p`         | `rwx`  | `rwx`   | `rwx`   | `p` :FIFO (name pipe)                        |
+| `P`         | `rwx`  | `rwx`   | `rwx`   | `P` :Port (Solaris 10 and up)                |
+| `s`         | `rwx`  | `rwx`   | `rwx`   | `s` :Socket                                  |
+| `?`         | `rwx`  | `rwx`   | `rwx`   | `?` : Some other filetype                    |
 
 
 __DECIMAL TO HEX:__
@@ -102,7 +100,7 @@ __DECIMAL TO HEX:__
 | 30      | 16  | 1      | 14  | E   |
 | 1       | 16  | 0      | 1   | 1   |
 
-__Result:__ 1E240
+__Result:__ `1E240`
 
 | Decimal   | Div | Output    | Rem | Hex |
 |-----------|-----|-----------|-----|-----|
@@ -115,7 +113,7 @@ __Result:__ 1E240
 | 222       | 16  | 13        | 14  | E   |
 | 13        | 16  | 0         | 13  | D   |
 
-__Result:__ DEADBEEF
+__Result:__ `DEADBEEF`
 
 
 | Decimal | Div | Output | Rem | Binary |
@@ -125,7 +123,7 @@ __Result:__ DEADBEEF
 | 3       | 2   | 1      | 1   | 1      |
 | 1       | 2   | 0      | 1   | 1      |
 
-(14)v10 : (1110)v2
+`(14)v10 : (1110)v2`
 
 
 | Decimal | Div | Output | Rem | Binary |
@@ -186,6 +184,8 @@ carry: 0001 1000
 | 1     | 0 | 1 | 10     |
 | 1     | 1 | 0 | 10     |
 | 1     | 1 | 1 | 11     |
+
+
 
 73999117
 93605017
