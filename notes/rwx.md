@@ -14,6 +14,9 @@ __TOOLS / APPS:__
     - aspell      `linux`
     - spell       `linux`
     - look        `linux`
+- version control
+    - git
+    - fossil
 
 -------------------------------------------------------------
 

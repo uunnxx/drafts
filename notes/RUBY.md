@@ -3,6 +3,7 @@
 - Site:
     - RubyAPI https://rubyapi.org/
     - Rubymonk https://rubymonk.com/
+- RSpec
 
 - Notes:
     - Literals %q,a,i,x https://docs.ruby-lang.org/en/3.0.0/doc/syntax/literals_rdoc.html#label-Percent+Strings
