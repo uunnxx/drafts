@@ -1,10 +1,10 @@
-### Books:
+# Books:
+
 - Security Engineering: A guide to building dependable distributed system.
 - Influence: The Psychology of Persuasion, Revised Edition Revised Edition.
-- a (MIND/for) = NUMBERS ==> With purple color and Picture of a tree and includes (pattern): * to excel at * and
-    science.
+- a (MIND/for) = NUMBERS ==> With purple color and Picture of a tree and includes (pattern): * to excel at * and science.
 
-### Uncategorized:
+## Uncategorized:
 - The School of Life.
 - How a missed up childhood affects you in adulthood.
 
@@ -20,3 +20,33 @@
 - A Random Walk In Science, An Anthology Compiled by R. L. Weher, edit by R. Mendoza.
 - HTTP Developer's Handbook.
 - SSL and TLS Designing and Building Secure System.
+
+----------------------------
+
+- Эрих Мария Ремарк
+    - [ ] На Западном фронте без перемен
+- Кэндзи Мизядзава
+    - [ ] Ночь в поезде на Серебряной реке
+- Джека Лондона
+    - [ ] «Морской волк» — роман  написанный им в 1904 году.
+- Chris Voss
+    - [ ] Never Split The Difference: Negotiating As If Your Life Depended On It
+
+----------------------------
+
+
+- Над пропастью во ржи (Щегол - Донна Тартт)
+- Марсианские хроники (Рей Бредбери)
+    Уж лучше быть, чем только слыть дурным,
+    Упрекам подвергаться понапрасну.
+    Ведь даже радость превратиться в дым,
+    Когда не сам признал её прекрасной.
+- Похититель детей (Бром)
+- Выноваты звезды (Джон Грин)
+- Мастер и Маргарита (М. Булгаков)
+- Три товарища (Эрих Мария Ремарк)
+- Отцы и дети (И. С. Тургенев)
+- Танцы на снегу (С. Лукьяненко)
+
+
+
