@@ -16,6 +16,8 @@
 - [ ] Filter Pattern
 - [ ] Flyweight Pattern
 - [ ] Front Controller Pattern
+- [ ] Interactor Pattern
+    - https://github.com/collectiveidea/interactor
 - [ ] Intercepting Filter Pattern
 - [ ] Interpreter Pattern
 - [ ] Iterator Pattern

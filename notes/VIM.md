@@ -12,6 +12,21 @@
 
 - :h shada
 
+## Plugins
+- https://github.com/tpope/vim-surround
+- https://github.com/cohama/lexima.vim Auto close parentheses and repeat by dot dot dot...
+- https://github.com/skanehira/translate.vim
+- https://github.com/google/vim-searchindex
+
+
+- https://habr.com/ru/post/586808/ Как я переписывал vim конфиг в init.lua
+- https://github.com/nvim-lualine/lualine.nvim
+- https://github.com/neovim/nvim-lspconfig
+-
+
+
+
+
 
 # MAPS:
 

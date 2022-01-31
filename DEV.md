@@ -1,7 +1,9 @@
 # Dev notes
-
 - [What is a Higher-Order Function?]( https://typeofnan.dev/what-is-a-higher-order-function/)
 - http://www-graphics.stanford.edu/~seander/bithacks.html#ParityParallel Bit Twiddling Hacks
+- https://loup-vaillant.fr/articles/classes-as-syntactic-sugar
+- https://loup-vaillant.fr/articles/classes-suck
+
 
 
 ## Ruby
@@ -10,6 +12,22 @@
 - https://github.com/dry-rb/dry-monads
 - https://www.toptal.com/developers/blog/tags/ruby
 - https://longliveruby.com/
+
+
+
+## Ruby Gems
+- https://roda.jeremyevans.net/
+- https://github.com/ruby-grape/grape
+- https://github.com/hanami/router
+- https://github.com/patriciomacadden/hobbit
+- https://github.com/ch1c0t/hobby
+- https://github.com/mje113/newark
+- https://github.com/boazsegev/plezi
+- https://github.com/rack/rack
+- https://github.com/rack-app/rack-app
+- https://github.com/rails/rails
+- https://github.com/guilleiguaran/rambutan
+- https://github.com/AlexWayfer/flame
 
 
 
@@ -32,8 +50,13 @@
 
 ## Rust
 - https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
+- https://github.com/tokio-rs/mio MIO
+    - https://docs.rs/mio/latest/mio/
+- https://tokio.rs/
 
 
+## JS
+- https://github.com/degacth/js-on-knee
 
 
 ## Other
@@ -41,7 +64,6 @@
 - https://github.com/MythicAgents/Medusa
 - https://www.toptal.com/scala/writing-an-interpreter
 - https://habr.com/ru/company/timeweb/blog/645593/ Ещё 20+ игр, которые прокачивают логику, алгоритмы и радуют умный мозг [по следам комментариев на Habr]
-
 - Закон Деметры
   - https://zen.yandex.ru/media/nuancesprog/hitrosti-obektnoorientirovannogo-programmirovaniia-chast-1-iskusstvo-razdeleniia-komand-i-zaprosov-5e20e75d3f548700aed1f2e5
   - https://zen.yandex.ru/media/nuancesprog/hitrosti-obektnoorientirovannogo-programmirovaniia-chast-2-zakon-demetry-5e20eea08f011100ae67ac20

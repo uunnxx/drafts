@@ -21,3 +21,18 @@
 - Organize
 - Prioritize
 
+
+## To watch
+- https://www.youtube.com/c/ComputerScienceLessons/
+
+
+## IO Language
+- https://iolanguage.org/
+
+
+
+## Computer Science Related
+
+- https://gmplib.org/ The GNU Multiple Precision Arithmetic Library (GMP Arithmetic without limitations)
+- Read about PhantomOS
+    - Object oriented OS

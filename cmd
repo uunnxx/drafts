@@ -22,3 +22,15 @@ echo "All processes have completed";
 
 
 # parallel_commands "cmd arg1 arg2" "cmd1 arg1 arg2"
+
+
+hey -n 20000 -c 50 http://127.0.0.1:8080
+
+# get ip
+dig +short myip.opendns.com @resolver1.opendns.com
+
+# get ip
+myip="$(dig +short myip.opendns.com @resolver1.opendns.com)"
+echo "My WAN/Public IP address: ${myip}"
+
+

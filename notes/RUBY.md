@@ -17,7 +17,7 @@
         print nums[1..3] => 3, 7, 8
 
 
-# Ruby Articles
+## Ruby Articles
 
 What's the difference between include and extend in Ruby?
   - https://stackoverflow.com/questions/156362/what-is-the-difference-between-include-and-extend-in-ruby#5008349
@@ -27,3 +27,14 @@ What's the difference between include and extend in Ruby?
 |-----------------|---------------|
 | Student         | Study         |
 | Exam            | Pass          |
+
+
+## Ruby Gems
+
+- https://github.com/sinatra/sinatra Sinatra
+- https://roda.jeremyevans.net/index.html Roda
+- https://github.com/pete/watts Resource-oriented, Rack-based, minimalist web framework.
+- https://github.com/soveran/syro Simple router for web applications
+- https://github.com/jeremyevans/roda Routing Tree Web Toolkit 
+- https://github.com/ruby/typeprof
+

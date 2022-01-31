@@ -47,10 +47,6 @@ Beautiful Handwriting Styles, Lettering and Calligraphy
 
 
 
-- https://loup-vaillant.fr/articles/classes-as-syntactic-sugar
-- https://loup-vaillant.fr/articles/classes-suck
-
-
 ## Russian Language
 
 В русском языке 6 падежей. Вот как изменяется личное местоимение ты: падеж
@@ -63,3 +59,17 @@ Examples: У тебя есть яблоки. Тебе нравится ябло�
 
 > ТЕБЯ - Genitive case
 ТЕБЯ - genitive and accusative cases
+
+
+
+
+
+
+#### Frames:
+
+frame1: fixed_center
+frame2: nonfixed
+frame3: 1+night_mode
+frame4: 2+night_mode
+
+

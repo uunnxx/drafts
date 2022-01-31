@@ -10,3 +10,7 @@ To be interesting, be interested
 
 It is better to know how to learn than to know. (Лучше знать, как учиться, чем просто знать.)
   -- Dr. Seuss
+
+
+https://e-student.org/feynman-technique/ Feynman Technique: A Complete Beginner’s Guide
+https://habr.com/ru/company/getmeit/blog/646085/ Как научиться чему угодно с помощью техники Фейнмана
