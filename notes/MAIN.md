@@ -29,10 +29,18 @@
 ## IO Language
 - https://iolanguage.org/
 
+## KVM
+- https://www.christitus.com/vm-setup-in-linux
 
 
 ## Computer Science Related
 
-- https://gmplib.org/ The GNU Multiple Precision Arithmetic Library (GMP Arithmetic without limitations)
-- Read about PhantomOS
-    - Object oriented OS
+- Read about PhantomOS (Object oriented OS)
+    - http://phantomos.org/
+    - https://phantomdox.readthedocs.io/en/latest/#
+    - https://github.com/dzavalishin/phantomuserland/wiki/ByteCode
+- CapROS: The Capability-based Reliable Operating System
+    - http://www.capros.org/
+
+
+

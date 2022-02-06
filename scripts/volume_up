@@ -1,0 +1,3 @@
+pactl set-sink-volume @DEFAULT_SINK@ +1000 && \
+pactl set-source-output-volume $(current_output_source) $(current_volume); \
+dunstify -r 2222 -u low "Volume: $(current_volume)"

@@ -4,6 +4,8 @@
     - ex-command :%! rev
     - !!rev
 
+--------------------------------------------------------------------------------------
+
 - Unable to replace a space with a new line in Vim: https://stackoverflow.com/questions/1048639/unable-to-replace-a-space-with-a-new-line-in-vim
     - %s/ /Ctrl+v Return/g [Ctrl+Q (Windows version of Ctrl+v)]
     - :1,$s/\ /\n/g [:1,$s/\ /\r/g for windows]
@@ -18,15 +20,18 @@
 - https://github.com/skanehira/translate.vim
 - https://github.com/google/vim-searchindex
 
+--------------------------------------------------------------------------------------
 
 - https://habr.com/ru/post/586808/ Как я переписывал vim конфиг в init.lua
 - https://github.com/nvim-lualine/lualine.nvim
 - https://github.com/neovim/nvim-lspconfig
--
 
+--------------------------------------------------------------------------------------
 
+- Neovim, LaTeX and Zathura in perfect harmony
+    - https://dev.to/preciouschicken/neovim-latex-and-zathura-in-perfect-harmony-4d7d
 
-
+--------------------------------------------------------------------------------------
 
 # MAPS:
 

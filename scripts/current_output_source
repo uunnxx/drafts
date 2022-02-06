@@ -1,0 +1,1 @@
+pactl list source-outputs | grep -B16 'OBS' | head -n1 | awk '{print $3}' | sed 's/#//'

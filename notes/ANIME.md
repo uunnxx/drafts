@@ -29,6 +29,8 @@ __ANIME / MANGA:__
 | Mo Dao Zu Shi                                                     |               |   `x`   |          |         |         |   `x`   |
 | Mo Dao Zu Shi 2                                                   |               |   `x`   |          |         |         |   `x`   |
 | Tate no Yuusha no Nariagari                                       |               |   `x`   |          |         |         |   `x`   |
+| Aharen-san wa Hakarenai                                           |      `x`      |         |          |         |         |         |
+| Baraou no souretsu                                                |          `x`     |         |          |         |         |         |
 
 
 

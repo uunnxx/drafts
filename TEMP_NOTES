@@ -73,3 +73,8 @@ frame3: 1+night_mode
 frame4: 2+night_mode
 
 
+
+### CS:GO
+Binds
+      - Bind c "incrementvar cl_radar_scale 0.45 0.8 0.35"
+

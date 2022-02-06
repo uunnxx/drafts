@@ -5,6 +5,10 @@
 - https://loup-vaillant.fr/articles/classes-suck
 
 
+## Idoamatics
+- https://www.programming-idioms.org/
+
+
 
 ## Ruby
 - https://reposhub.com/ruby
@@ -16,6 +20,7 @@
 
 
 ## Ruby Gems
+- https://bundler.io/
 - https://roda.jeremyevans.net/
 - https://github.com/ruby-grape/grape
 - https://github.com/hanami/router
@@ -45,6 +50,11 @@
 - http://geekhmer.github.io/blog/2015/03/14/ruby-dsl-domain-specific-language/
 
 
+## Ruby Notes
+- https://nikodunk.com/a-node-js-developer-discovers-rails/
+- 10 ошибок в Ruby https://habr.com/ru/post/250007/
+
+
 
 
 
@@ -70,4 +80,13 @@
   - https://ru.stackoverflow.com/questions/524401/%D0%A7%D0%B8%D1%81%D1%82%D1%8B%D0%B9-%D0%BA%D0%BE%D0%B4-%D0%9D%D0%B5%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D0%94%D0%B5%D0%BC%D0%B5%D1%82%D1%80%D1%8B
   - https://habr.com/ru/post/319652/
 
+
+Recursion vs Dynamic Programming -- Fibonacci
+  - https://towardsdatascience.com/dynamic-programming-i-python-8b20387870f5
+
+## Resources
+- https://habr.com/ru/company/JetBrains-education/blog/547768/
+
+## Libs
+- https://gmplib.org/ The GNU Multiple Precision Arithmetic Library (GMP Arithmetic without limitations)
 
