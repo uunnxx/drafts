@@ -1,2 +1,4 @@
-yard gems
+#!/usr/bin/env bash
+
+yard gems && \
 solargraph scan -v
