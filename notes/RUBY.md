@@ -37,4 +37,6 @@ What's the difference between include and extend in Ruby?
 - https://github.com/soveran/syro Simple router for web applications
 - https://github.com/jeremyevans/roda Routing Tree Web Toolkit 
 - https://github.com/ruby/typeprof
+- https://github.com/ruby-formatter/rufo The Ruby Formatter
+- https://github.com/seattlerb/ruby_parser Ruby Parser
 
