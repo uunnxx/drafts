@@ -1,6 +1,6 @@
 ## TOOLS
 
-- valgrind --tool=cachegrind ls -l
+- `valgrind --tool=cachegrind ls -l`
     ```
     Valgrind is an instrumentation framework for building dynamic analysis tools.
     There are Valgrind tools that can automatically detect many memory management and threading bugs,
