@@ -32,7 +32,9 @@ __ANIME / MANGA:__
 | Aharen-san wa Hakarenai                                           |      `x`      |         |          |         |         |         |
 | Baraou no souretsu                                                |      `x`      |         |          |         |         |         |
 | Inari, Konkon, Koi Iroha                                          |      `x`      |         |          |         |         |         |
+| Getsuyoubi no Tawawa                                              |      `x`      |         |          |         |         |         |
 
-
+Kinsou no Vermeil
+Квест на фоне сакуры (2017)
 
 

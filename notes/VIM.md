@@ -20,6 +20,7 @@
 - https://github.com/skanehira/translate.vim
 - https://github.com/google/vim-searchindex
 
+
 --------------------------------------------------------------------------------------
 
 - https://habr.com/ru/post/586808/ Как я переписывал vim конфиг в init.lua

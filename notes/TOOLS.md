@@ -41,14 +41,12 @@
 
 
 ## USEFUL
-- https://github.com/francoischalifour/todo-cli (Command-line tool to manage Todo lists)
-- https://github.com/codito/habito (Simple commandline habits tracker.)
-- Google Translator CLI
-      `wget git.io/trans`
-      `chmod +x ./trans`
 
 -------------------------------------
 
 - https://github.com/nerdypepper/dijo (scriptable, curses-based, digital habit tracker)
 - https://github.com/chubin/wttr.in
     > The right way to check the weather (curl wttr.in)
+
+- tui file manager with vim-like key mapping
+  - https://github.com/kyoheiu/felix

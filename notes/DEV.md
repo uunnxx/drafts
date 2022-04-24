@@ -1,4 +1,5 @@
 # Dev notes
+- [Recipes](https://code.activestate.com/recipes/)
 - [What is a Higher-Order Function?]( https://typeofnan.dev/what-is-a-higher-order-function/)
 - Bit Twiddling Hacks http://www-graphics.stanford.edu/~seander/bithacks.html#ParityParallel
 - https://loup-vaillant.fr/articles/classes-as-syntactic-sugar
@@ -6,6 +7,7 @@
 - https://bournetocode.com/projects/AQA_A_Theory/index.html
   - https://bournetocode.com/projects/GCSE_Computing_Fundamentals/index.html
   - Fundamentals of programming https://bournetocode.com/projects/AQA_A_Theory/pages/OOP.html
+- [Write down the problem. Think real hard. Write down the solution.(note: worthy of attention)](https://marquis08.github.io/)
 
 
 ## Idoamatics
@@ -19,6 +21,8 @@
 - https://github.com/dry-rb/dry-monads
 - https://www.toptal.com/developers/blog/tags/ruby
 - https://longliveruby.com/
+
+
 
 
 
@@ -56,6 +60,8 @@
 ## Ruby Notes
 - https://nikodunk.com/a-node-js-developer-discovers-rails/
 - 10 ошибок в Ruby https://habr.com/ru/post/250007/
+- [Transform your plain text into static websites and blogs.](https://jekyllrb.com/)
+  - [Minimal mistake theme](https://github.com/mmistakes/minimal-mistakes)
 
 
 
@@ -92,6 +98,10 @@ Recursion vs Dynamic Programming -- Fibonacci
 
 ## Libs
 - The GNU Multiple Precision Arithmetic Library (GMP Arithmetic without limitations) https://gmplib.org/
+
+
+## Github Pages
+- https://ansohxxn.github.io/blog/category/#1%EF%B8%8F%E2%83%A3-%ED%8F%AC%EC%8A%A4%ED%8C%85%EC%8B%9C-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%93%B1%EB%A1%9D
 
 
 

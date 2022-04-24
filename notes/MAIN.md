@@ -38,12 +38,65 @@
 
 ## Computer Science Related
 
-- Read about PhantomOS (Object oriented OS)
-  - http://phantomos.org/
-  - https://phantomdox.readthedocs.io/en/latest/#
-  - https://github.com/dzavalishin/phantomuserland/wiki/ByteCode
-- CapROS: The Capability-based Reliable Operating System
-  - http://www.capros.org/
+### OS
+- [Read about PhantomOS (Object oriented OS)](http://phantomos.org/)
+- [CapROS: The Capability-based Reliable Operating System](http://www.capros.org/)
+
+#### Android
+- [GrapheneOS](https://grapheneos.org/install/)
 
 
 
+## Useful packages
+  - [Naive linter for English prose](https://github.com/btford/write-good/)
+
+
+## Apps
+- [Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn)
+
+
+
+
+
+
+Latin: Scientia Est Potentia
+  Knowledge is Power
+
+
+Не смотря на то, что в курсе используется язык C, нужно понимать, что язык программирования, как в обучении, так и в разработке - это не цель, а всего лишь средство для ее достижения.
+
+You can't hide a bad architecture with a great interface Bob Martin ?
+
+
+- Аль-Хорезми
+- Аль-Фараби
+
+
+
+## Input methods
+- https://rime.im/ as fcixt5-rime
+- mozc as fcixt5-mozc
+
+
+
+## Archives:
+- tar
+- tar.gz
+- gz
+- lzx
+- bz2
+- zip
+- rar
+- 7z
+- xz
+
+
+
+
+
+# Sh H
+12-13.04.22 I-ni, CH-ni tm. (ich. qas. sab.)
+16-17.04.22 Musiq O' tm.
+
+12-13.04.22 bo'ldi (1000 afsslrk)
+24-25.04.22 bo'ldi (1000 afsslrk)

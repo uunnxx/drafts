@@ -9,6 +9,8 @@ __TOOLS / APPS:__
 - PDF reader:
     - zathura
     - gv
+- EPUB reader:
+    - com.github.johnfactotum.Foliate
 - spell check
     - write-good  `npm package`
     - aspell      `linux`
@@ -17,6 +19,20 @@ __TOOLS / APPS:__
 - version control
     - git
     - fossil
+
+
+-------------------------------------------------------------
+- Pomotroid
+
+
+-------------------------------------------------------------
+
+
+- https://github.com/francoischalifour/todo-cli (Command-line tool to manage Todo lists)
+- https://github.com/codito/habito (Simple commandline habits tracker.)
+- Google Translator CLI
+      `wget git.io/trans`
+      `chmod +x ./trans`
 
 -------------------------------------------------------------
 

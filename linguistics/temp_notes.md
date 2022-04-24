@@ -68,3 +68,45 @@ __Тебе__ - это когда дать что либо.
 
 
 
+  Список английских слов на тему "Морфология"
+
+Имя существительное – Noun
+Имя прилагательное – Adjective
+Имя числительное – Numeral
+Наречие – Adverb
+Местоимение – Pronoun
+Глагол – Verb
+Герундий – Gerund
+Причастие — Participle
+Предлог – Preposition
+Союз – Conjunction
+Междометие – Interjection
+
+Части предложения:
+Подлежащее – Subject
+Сказуемое – Predicate
+Дополнение — Object (бывает прямое direct, косвенное – indirect и предложное — prepositional)
+Обстоятельство — Adverbial Modifier
+Определение – Attribute
+
+Глагол:
+Инфинитив, начальная форма глагола – Infinitive
+Время – Tense
+Правильный глагол – Regular Verb
+Неправильный глагол – Irregular Verb
+Слова относящиеся к существительному:
+Исчисляемое существительное – Countable
+Неисчисляемое существительное – Uncountable
+Имя собственное – Proper name
+Имя нарицательное — Common Name
+Род – Gender
+Единственное число – Singular
+Множественное число – Plural
+Падеж – Case
+
+Части слова:
+Корень – Root
+Суффикс – Suffix
+Приставка — Prefix
+Основа слова – Stem
+Окончание – Ending

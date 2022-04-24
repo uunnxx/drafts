@@ -18,3 +18,8 @@ https://github.com/gaogaotiantian/viztracer
 
 pip install viztracer
 viztracer filename.py
+
+
+
+# Notes
+- [Induction, Recursion, and Reduction](https://marquis08.github.io/pythonalgorithms/chapter4-part1/)
