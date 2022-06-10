@@ -1,3 +1,8 @@
+# Notes
+
+- ActivityPub
+- Zero Trust Architecture
+    based on the principle of `never trust, always verify` as opposed to the traditional `trust, but verify`
 ## Unsorted notes
 
 - [The Choice We All Have, But Only a Few Apply It | Jordan Peterson](https://www.youtube.com/watch?v=dJyz6iK8VXE) (located at ~/Videos)
@@ -95,8 +100,56 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 
 
 # Sh H
-12-13.04.22 I-ni, CH-ni tm. (ich. qas. sab.)
-16-17.04.22 Musiq O' tm.
+----------------------------- 12.04.22 --------------------------------|
+12-13.04.22 I-ni, Ch-ni tm. (ich. qas. sab.)                           |
+-                                                                      |
+-                                                                      |
+01 - 13.04.22 bo'ldi (1000 afsslrk) - 0                                |
+02 - 25.04.22 bo'ldi (1000 afsslrk) - 12                               |
+03 - 28.04.22 bo'ldi (1000 afsslrk) - 3                                |
+-                                                                      |
+-                                                                      |
+----------------------------- 01.05.22 --------------------------------|
+-                                                                      |
+-                                                                      |
+01 - 01.05.22 bo'ldi (1000 afsslrk) - 3                                |
+02 - 02.05.22 bo'ldi (1000 afsslrk) - 1                                |
+03 - 02.05.22 bo'ldi (1000 afsslrk) - 0                                |
+04 - 03.05.22 bo'ldi (1000 afsslrk) - 1                                |
+05 - 04.05.22 bo'ldi (1000 afsslrk) - 1                                |
+06 - 05.05.22 bo'ldi (1000 afsslrk) - 1                                |
+07 - 07.05.22 bo'ldi (1000 afsslrk) - 2                                |
+08 - 09.05.22 bo'ldi (1000 afsslrk) - 2                                |
+09 - 10.05.22 bo'ldi (1000 afsslrk) - 1                                |
+10 - 10.05.22 bo'ldi (1000 afsslrk) - 0                                |
+11 - 11.05.22 bo'ldi (1000 afsslrk) - 1                                |
+12 - 12.05.22 bo'ldi (1000 afsslrk) - 1                                |
+13 - 13.05.22 bo'ldi (1000 afsslrk) - 1                                |
+14 - 16.05.22 bo'ldi (1000 afsslrk) - 3                                |
+15 - 17.05.22 bo'ldi (1000 afsslrk) - 1                                |
+16 - 19.05.22 bo'ldi (1000 afsslrk) - 2                                |
+17 - 22.05.22 bo'ldi (1000 afsslrk) - 3 LAST                           |
+-                                                                      |
+-                                                                      |
+----------------------------- 01.06.22 --------------------------------|
+-                                                                      |
+-                                                                      |
+[->] 00 - 00.06.22 bo'ldi (1000 afsslrk)                               |
+-                                                                      |
+-                                                                      |
+----------------------------- 01.07.22 --------------------------------|
 
-12-13.04.22 bo'ldi (1000 afsslrk)
-24-25.04.22 bo'ldi (1000 afsslrk)
+# UI & UX
+- https://pinafore.social/community
+
+
+A wise ruler keeps the minds of his people empty and their bellies full.
+Try to learn something about everything and everything about something.
+
+sens: 2.8
+
+
+
+# VPN
+- https://mullvad.net
+- https://protonvpn.com

@@ -81,3 +81,38 @@ Binds
 
 
 
+"Смерть, от которой вы убегаете, настигнет вас, после чего вы вернетесь к Ведающему сокровенное и явное, и Он сообщит вам о том, что вы совершали". (Коран 62:8)
+
+112:1. Скажи: «Он — Аллах Единый,
+112:2. Аллах Самодостаточный.
+112:3. Он не родил и не был рожден,
+112:4. и нет никого равного Ему».
+
+
+- HackTheBox
+- TryHackMe
+- VulnHub
+- root-me
+- OverTheWire
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+    5 Useful Git Commands for Devs
+We are wrapping up project week for my bootcamp and it has been a lot of fun. I really feel like the best way to learn how to code it to build something from scratch and to work with a team. One thing we did not take advantage of us much as we could have is the use of various git commands. That inspired me to write this blog so I could learn more and leverage more git commands for future projects. Here are 5useful git commands that I would like to use more in the future.
+
+- 1. Git Revert
+Git Revert is a useful command that safely undoes commits. The user must first type ‘git log-oneline’ to reference their commit history. After that they will be given a hash code and the user has to specify which commit they want reverted. An example of a command would be ‘git revert 323145’. The command will create a new commit with out deleting the older one. This is useful because you can still see all reverted commits in history.
+
+- 2. Git Branch
+Branches are a useful tool when working with a team of fellow devs. Several devs can work on their respective branches locally and merge them (see #5) when they are ready to go on the main branch. You can create, list, and delete branches with this command. This was the main command that inspired this blog as it is a must when working on bigger projects.
+
+- 3. Git Status
+Git status is command gives the user all important info about the current branch they are in. The user can figure out if the branch is up to date or if there is anything to commit. These are just a couple of the many things a user can learn when using git status
+
+- 4. Git Checkout
+To work in a branch, first you need to switch to it. Git Checkout is used mostly for switching from one branch to another. We can also use it for checking out files and commits. Two steps are required for this command; the first changes in current branch must be committed or stashed and second the branch you want to switch to should be local.
+
+- 5. Git Merge
+Git merge is used when the user has completed work in his/her branch and is ready to merge it back to the parent branch. It injects your branch and all of its features into the main. In our project I wish we utilized the git branch/git merge combination more and is definitely something I will look to utilize moving forward.

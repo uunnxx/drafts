@@ -1,6 +1,4 @@
 __ANIME / MANGA:__
-- Aharen-san wa Hakarenai
-- The Greatest Demon Lord Is Reborn as a Typical Nobody
 
 | Title                                                             | want to watch | watched | watching | dropped |  notes  | lovely? |
 |-------------------------------------------------------------------|:-------------:|:-------:|:--------:|:-------:|:-------:|:-------:|
@@ -33,8 +31,12 @@ __ANIME / MANGA:__
 | Baraou no souretsu                                                |      `x`      |         |          |         |         |         |
 | Inari, Konkon, Koi Iroha                                          |      `x`      |         |          |         |         |         |
 | Getsuyoubi no Tawawa                                              |      `x`      |         |          |         |         |         |
+| Kawaii dake ja Nai Shikimori-san                                  |               |         |    `x`   |         | 8 of 12 |         |
 
 Kinsou no Vermeil
 Квест на фоне сакуры (2017)
-
-
+Heavy Object
+Koutetsujou no Kabaneri
+Yama no Susume: Next Summit
+Aharen-san wa Hakarenai
+The Greatest Demon Lord Is Reborn as a Typical Nobody

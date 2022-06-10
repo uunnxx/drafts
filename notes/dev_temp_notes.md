@@ -1,0 +1,1 @@
+- Implementing [Raft consensus](https://raft.github.io/) algorithm in go

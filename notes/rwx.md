@@ -20,10 +20,16 @@ __TOOLS / APPS:__
     - git
     - fossil
 
+## Checkout
+- [https://github.com/terminalforlife/Extra](Projects written in Bourne Shell)
 
 -------------------------------------------------------------
 - Pomotroid
+- ncdu
+- cod
+- Bitwise
 
+- [xowa Offline wiki Application](https://github.com/gnosygnu/xowa)
 
 -------------------------------------------------------------
 

@@ -7,3 +7,12 @@
 
 - fail2ban
   - https://www.tecmint.com/install-fail2ban-rocky-linux-almalinux/
+
+
+## Links
+https://github.com/sinedoke/eudyptula
+
+- [](https://ops.tips/)
+
+- [Strace в Linux: история, устройство и использование](https://habr.com/ru/company/badoo/blog/493856/)
+- [Using C to inspect Linux syscalls](https://ops.tips/gists/using-c-to-inspect-linux-syscalls/)
