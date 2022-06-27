@@ -40,3 +40,4 @@ Koutetsujou no Kabaneri
 Yama no Susume: Next Summit
 Aharen-san wa Hakarenai
 The Greatest Demon Lord Is Reborn as a Typical Nobody
+Nerawareta Gakuen

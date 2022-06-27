@@ -100,6 +100,7 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 
 
 # Sh H
+```
 ----------------------------- 12.04.22 --------------------------------|
 12-13.04.22 I-ni, Ch-ni tm. (ich. qas. sab.)                           |
 -                                                                      |
@@ -131,20 +132,33 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 17 - 22.05.22 bo'ldi (1000 afsslrk) - 3 LAST                           |
 -                                                                      |
 -                                                                      |
------------------------------ 01.06.22 --------------------------------|
+-----------------------------------------------------------------------|
+-----------------------------------------------------------------------|
+-----------------------------------------------------------------------|
+-----------------------------------------------------------------------|
+-----------------------------------------------------------------------|
+----------------------------- 01.06.00 --------------------------------|
 -                                                                      |
 -                                                                      |
-[->] 00 - 00.06.22 bo'ldi (1000 afsslrk)                               |
+~15 - 16.06.22 bo'ldi (1000 afsslrk)                                   |
+~16 - 20.06.22 bo'ldi (1000 afsslrk) - 4                               |
+-                              pred. ~ 10                              |
+~17 - 24.06.22 bo'ldi (1000 afsslrk) - 4                               |
+-                              pred. ~ 10                              |
+~18 - 25.06.22 bo'ldi (1000 afsslrk) - 1                               |
 -                                                                      |
 -                                                                      |
 ----------------------------- 01.07.22 --------------------------------|
+```
 
 # UI & UX
 - https://pinafore.social/community
 
+------------------------------------------------------------------------
 
 A wise ruler keeps the minds of his people empty and their bellies full.
 Try to learn something about everything and everything about something.
+Don't judge someone you don't care about.
 
 sens: 2.8
 
@@ -153,3 +167,6 @@ sens: 2.8
 # VPN
 - https://mullvad.net
 - https://protonvpn.com
+
+
+### Thoughts

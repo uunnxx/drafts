@@ -116,3 +116,16 @@ To work in a branch, first you need to switch to it. Git Checkout is used mostly
 
 - 5. Git Merge
 Git merge is used when the user has completed work in his/her branch and is ready to merge it back to the parent branch. It injects your branch and all of its features into the main. In our project I wish we utilized the git branch/git merge combination more and is definitely something I will look to utilize moving forward.
+
+
+
+
+Having people running the system who have  never gotten their hands dirty is a very dangerous thing . Didn't someone say: "Give academics everything they want except power"
+
+¯\_(ツ)_/¯
+
+
+- Кумулятивный эффект
+
+
+- Data gathering
