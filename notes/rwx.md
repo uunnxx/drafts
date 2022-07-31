@@ -1,53 +1,8 @@
-__TOOLS / APPS:__
-- rake
-    - https://github.com/ruby/rake
-- bake
-    - https://github.com/ioquatix/bake
-- ceedling
-    Ruby/Rake-based build and test system for C projects
-    - https://github.com/ThrowTheSwitch/Ceedling
-- PDF reader:
-    - zathura
-    - gv
-- EPUB reader:
-    - com.github.johnfactotum.Foliate
-- spell check
-    - write-good  `npm package`
-    - aspell      `linux`
-    - spell       `linux`
-    - look        `linux`
-- version control
-    - git
-    - fossil
-
-## Checkout
-- [https://github.com/terminalforlife/Extra](Projects written in Bourne Shell)
-
--------------------------------------------------------------
-- Pomotroid
-- ncdu
-- cod
-- Bitwise
-
-- [xowa Offline wiki Application](https://github.com/gnosygnu/xowa)
-
--------------------------------------------------------------
-
-
-- https://github.com/francoischalifour/todo-cli (Command-line tool to manage Todo lists)
-- https://github.com/codito/habito (Simple commandline habits tracker.)
-- Google Translator CLI
-      `wget git.io/trans`
-      `chmod +x ./trans`
-
--------------------------------------------------------------
-
 IPC - Inter-process communication
 
 - nand2tetris
 
-
-__ASSEMBLER:__
+## ASSEMBLER
 
 ArmV7 - one of a family of CPUs based on the RISC (reduce instruction set computer) architecture
 developed by Advanced RISC Machines (ARM)
@@ -57,6 +12,8 @@ ebp - base pointer
 esi - source index
 edi - destination index
 
+
+------------------------------------------------------------------------
 
 
 __FILE PERMISSION:__

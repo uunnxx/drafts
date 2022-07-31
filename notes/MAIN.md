@@ -146,9 +146,13 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 ~17 - 24.06.22 bo'ldi (1000 afsslrk) - 4                               |
 -                              pred. ~ 10                              |
 ~18 - 25.06.22 bo'ldi (1000 afsslrk) - 1                               |
+~19 - 27.06.22 bo'ldi (1000 afsslrk) - 2                               |
+~20 - 29.06.22 bo'ldi (1000 afsslrk) - 2                               |
 -                                                                      |
 -                                                                      |
 ----------------------------- 01.07.22 --------------------------------|
+01 - 01.06.22 bo'ldi (1000 afsslrk) - 2                                |
+----------------------------- 01.08.22 --------------------------------|
 ```
 
 # UI & UX
@@ -170,3 +174,19 @@ sens: 2.8
 
 
 ### Thoughts
+
+### Alternative
+|            | alternative          |
+| github.com | codeberg.org (gitea) |
+
+
+
+
+___________________________________________________________________________________
+| Init   | Sender | Receiver   | Amount      | Date     | Comment   
+| Me     | Zorin  | Me         | 2000        |          | Bobon     
+| Me     | Zorin  | Me         | 400         |          | Inet      
+| Me     | Zorin  | Me         | 3500        |          | Router    
+| Me     | Zorin  | Me         | 500         |          | Inet      
+| Me     | Zorin  | Me         | 400         | 11.07.22 | Inet      
+

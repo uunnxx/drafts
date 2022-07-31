@@ -38,6 +38,14 @@ Kinsou no Vermeil
 Heavy Object
 Koutetsujou no Kabaneri
 Yama no Susume: Next Summit
-Aharen-san wa Hakarenai
 The Greatest Demon Lord Is Reborn as a Typical Nobody
 Nerawareta Gakuen
+Magimoji Rurumo
+Suzumiya Haruhi no Yuuutsu
+Warau Arsnotoria Sun
+Engage Kiss
+Sayonara no Asa ni Yakusoku no Hana o Kazarou
+Fukumenkei Noise
+Alice to Zouroku
+Ssss.Dynazenon
+The Last Summoner

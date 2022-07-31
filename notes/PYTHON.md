@@ -47,3 +47,12 @@ viztracer filename.py
 
 # Resources
 - [Manim Animations](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
+
+
+### Articles
+- [Фильтр нецензурной лексики за 5 минут](https://habr.com/ru/sandbox/145868/)
+- [Если вы решили перейти с PHP на Python](https://habr.com/ru/company/lesta_studio/blog/221035/)
+
+--------------------------------------------------------------------
+`list({*arr1, *arr2})`
+

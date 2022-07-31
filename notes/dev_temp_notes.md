@@ -7,3 +7,10 @@ add = -> (a, b) { a + b }
 add.curry.(1)
 (f_a.(f_b.(a+b)))(1) which can be reduced to (f_b.(1+b))
 ```
+
+
+
+x & 1 odd?
+
+
+crystal tool hierarchy
