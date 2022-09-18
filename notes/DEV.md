@@ -94,8 +94,10 @@ Recursion vs Dynamic Programming -- Fibonacci
 
 
 ## Languages
-- [Zig is a general-purpose programming language](https://ziglang.org/)
-- [Nim is a statically typed compiled systems programming language](https://nim-lang.org/)
+- [Zig is a general-purpose programming language](https://ziglang.org)
+- [Nim is a statically typed compiled systems programming language](https://nim-lang.org)
+- [IO](https://iolanguage.org)
+- [Carbon](https://github.com/carbon-language/carbon-lang)
 
 
 
@@ -108,3 +110,20 @@ PC Settings
 ## SECURITY
 - [Malware Samples | Linux Papers](https://www.vx-underground.org/)
 
+
+## Etc
+- [Hummingbird init system for Linux based operating systems](https://github.com/Sweets/hummingbird)
+
+
+
+## PARSE
+- https://www.zerochan.net/
+    - Ruby Rose
+
+
+## System Design
+- [System Design: The complete course](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo)
+
+
+### SEARCH
+- Tail Call Elimination

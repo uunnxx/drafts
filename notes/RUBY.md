@@ -277,3 +277,21 @@
 |-----------------|---------------|
 | Student         | Study         |
 | Exam            | Pass          |
+
+
+```
+class Person
+  attr_reader :name
+  def initialize(name)
+    @name = name
+  end
+  def +@
+    name.upcase
+  end
+end
+
+david = Person.new('David')
++david # => 'DAVID'
+```
+
+`def +(other)` will give infix `a + b` and `+@` gives unary `+a`

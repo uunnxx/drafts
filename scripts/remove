@@ -1,0 +1,2 @@
+mv "$@" "$HOME/.local/share/Trash/files/"
+

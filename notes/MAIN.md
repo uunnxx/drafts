@@ -1,5 +1,7 @@
 # Notes
 
+----------------------------------------
+
 - ActivityPub
 - Zero Trust Architecture
     based on the principle of `never trust, always verify` as opposed to the traditional `trust, but verify`
@@ -27,21 +29,12 @@
 - Prioritize
 
 
-## To watch
-
-- https://www.youtube.com/c/ComputerScienceLessons/
-
-
-## IO Language
-
-- https://iolanguage.org/
-
 ## KVM
-
 - https://www.christitus.com/vm-setup-in-linux
 
 
 ## Computer Science Related
+- https://www.youtube.com/c/ComputerScienceLessons/
 
 ### OS
 - [Read about PhantomOS (Object oriented OS)](http://phantomos.org/)
@@ -159,12 +152,14 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 - https://pinafore.social/community
 
 ------------------------------------------------------------------------
+- Go slow. Repeat a lot. Don't skip steps.
+- A wise ruler keeps the minds of his people empty and their bellies full.
+- Try to learn something about everything and everything about something.
+- Don't judge someone you don't care about.
 
-A wise ruler keeps the minds of his people empty and their bellies full.
-Try to learn something about everything and everything about something.
-Don't judge someone you don't care about.
 
-sens: 2.8
+### Etc
+- sens: 2.8
 
 
 
@@ -183,10 +178,13 @@ sens: 2.8
 
 
 ___________________________________________________________________________________
-| Init   | Sender | Receiver   | Amount      | Date     | Comment   
-| Me     | Zorin  | Me         | 2000        |          | Bobon     
-| Me     | Zorin  | Me         | 400         |          | Inet      
-| Me     | Zorin  | Me         | 3500        |          | Router    
-| Me     | Zorin  | Me         | 500         |          | Inet      
-| Me     | Zorin  | Me         | 400         | 11.07.22 | Inet      
+| Init   | Sender | Receiver   | Amount      | Date     | Comment
+| Me     | Zorin  | Me         | 2000        |          | Bobon
+| Me     | Zorin  | Me         | 400         |          | Inet
+| Me     | Zorin  | Me         | 3500        |          | Router
+| Me     | Zorin  | Me         | 500         |          | Inet
+| Me     | Zorin  | Me         | 400         | 11.07.22 | Inet
 
+
+
+- [Discord Screen Share Fix Audio on Linux](https://github.com/Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux)

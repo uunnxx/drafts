@@ -24,7 +24,7 @@
 
 ## Classic Novels
 - George Orwell
-  - 1984
+  - [ ] 1984
 
 ## Literature
 
