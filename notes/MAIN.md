@@ -54,7 +54,7 @@
 
 
 
-
+- [https://github.com/localstack/localstack](A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!)
 
 
 Latin: Scientia Est Potentia
@@ -188,3 +188,20 @@ ________________________________________________________________________________
 
 
 - [Discord Screen Share Fix Audio on Linux](https://github.com/Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux)
+
+
+
+
+✔️ CCNA
+✔️ SECURITY+
+✔️ LINUX
+✔️ PYTHON
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------
+- [Apertium is a free/open-source platform for developing rule-based machine translation systems!](https://wiki.apertium.org/wiki/Main_Page)

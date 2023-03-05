@@ -1,0 +1,2 @@
+sed -i 's/set recolor true/set recolor false/' $HOME/.config/zathura/zathurarc
+

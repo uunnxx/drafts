@@ -36,3 +36,6 @@
 - [ ] Template Method Pattern
 - [ ] Transfer Object Pattern
 - [ ] Visitor Pattern
+- [ ] Repository Pattern
+    - [Adopting the Repository Pattern for Enhanced Backend Development With FastAPI](https://hackernoon.com/adopting-the-repository-pattern-for-enhanced-backend-development-with-fastapi)
+- [ ] Publish-Subscribe Pattern

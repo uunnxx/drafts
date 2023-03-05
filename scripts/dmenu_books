@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+base_directory = '/mnt/hdd/Documents/'
+selected = %x{ fdfind --base-directory #{base_directory} -t f -e pdf -e djvu | dmenu -p 'BOOKS:' -l 10 -i -fn 'UbuntuMono:style=Regular:pixelsize=18' -nb '#280F28' -nf '#FFFFFF' -sb '#510A32' -sf '#EE4540'}.strip
+
+unless selected.empty?
+  %x{ zathura "#{base_directory}#{selected}" }
+end
