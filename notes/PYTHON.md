@@ -21,7 +21,7 @@
 -----------------------------------------------------
 
 - Style Guide
-- [PEP8](https://peps.python.org/pep-0008/)
+    - [PEP8](https://peps.python.org/pep-0008/)
 
 
 ## Visualizer
@@ -89,6 +89,7 @@ viztracer filename.py
 - [ ] [simplejson](https://simplejson.readthedocs.io/en/latest/)
 - [ ] [scikit-learn](https://scikit-learn.org/stable/)
 - [ ] [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
+- [ ] [spaCy: Industrial-Strength Natural Language Processing](https://spacy.io/)
 - [ ] [twisted](https://twisted.org/)
 - [ ] [loguru - logging](https://github.com/Delgan/loguru)
 - [ ] TensorFlow
@@ -96,7 +97,17 @@ viztracer filename.py
 - [ ] Keras
 - [ ] Playwright
 - [ ] Selenium
+- [ ] [A comprehensive, fast, pure-Python memcached client.](https://github.com/pinterest/pymemcache)
 - [ ] [Faker](https://github.com/joke2k/faker)
+- [ ] [Nameko](https://nameko.readthedocs.io/en/stable/index.html#)
+    - https://github.com/nameko/nameko
+
+
+
+------------------------------------------------------------------------------------
+Telegram:
+    - [Aasynchronous Framework for Telegram](https://github.com/aiogram/aiogram)
+    - [GUI Framework on top of aiogram](https://github.com/Tishka17/aiogram_dialog)
 
 ------------------------------------------------------------------------------------
 

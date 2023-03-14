@@ -1,5 +1,12 @@
 # DEV
 
+
+
+- [Memcached](https://memcached.org)
+    - https://github.com/memcached/memcached
+- RPC
+
+
 ## Sites
 - [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Some Useful Websites for Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
@@ -169,3 +176,15 @@ Get Key Codes: `xev | grep button`
 - [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 - Apache Brooklyn автономные вычисление
+
+
+
+Fundamentals all software engineers should learn:
+- Data structures and algorithms
+- Programming paradigms (OOP and functional)
+- Testing procedures (Unit, integration and functional testing)
+- Security (OWASP top ten)
+- Networking
+- Operating systems
+- System design
+- Cloud computing

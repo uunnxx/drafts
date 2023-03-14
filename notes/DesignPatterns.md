@@ -25,7 +25,7 @@
 - [ ] Mediator Pattern
 - [ ] Memento Pattern
 - [ ] Null Object Pattern
-- [ ] Observer Pattern
+- [ ] Observer Pattern [Publish-Subscribe Pattern]
 - [ ] Prototype Pattern
 - [ ] Proxy Pattern
 - [ ] Service Locator Pattern
@@ -38,4 +38,3 @@
 - [ ] Visitor Pattern
 - [ ] Repository Pattern
     - [Adopting the Repository Pattern for Enhanced Backend Development With FastAPI](https://hackernoon.com/adopting-the-repository-pattern-for-enhanced-backend-development-with-fastapi)
-- [ ] Publish-Subscribe Pattern
