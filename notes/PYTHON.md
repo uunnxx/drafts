@@ -69,38 +69,41 @@ viztracer filename.py
 
 
 ## Packages:
-- [ ] [numpy](https://numpy.org/)
-- [ ] [pandas](https://pandas.pydata.org/)
-- [ ] [matplotlib](https://matplotlib.org/)
-- [ ] [scipy](https://scipy.org/)
-- [ ] [falcon](https://falcon.readthedocs.io/en/stable/index.html)
-- [ ] [VizTracer](https://github.com/gaogaotiantian/viztracer)
-- [ ] [SQLAlchemy](https://www.sqlalchemy.org/)
-- [ ] [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
-- [ ] [aiohttp](https://docs.aiohttp.org/en/stable/)
-- [ ] httpie
-- [ ] [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
-- [ ] [scrapy](https://scrapy.org/)
-- [ ] [scapy](https://scapy.net/)
-- [ ] [fastapi](https://fastapi.tiangolo.com/)
-- [ ] [pydantic](https://docs.pydantic.dev/)
-- [ ] [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/index.html)
-- [ ] [requests](https://requests.readthedocs.io/en/latest/)
-- [ ] [simplejson](https://simplejson.readthedocs.io/en/latest/)
-- [ ] [scikit-learn](https://scikit-learn.org/stable/)
-- [ ] [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
-- [ ] [spaCy: Industrial-Strength Natural Language Processing](https://spacy.io/)
-- [ ] [twisted](https://twisted.org/)
-- [ ] [loguru - logging](https://github.com/Delgan/loguru)
-- [ ] TensorFlow
-- [ ] Pytorch
-- [ ] Keras
-- [ ] Playwright
-- [ ] Selenium
-- [ ] [A comprehensive, fast, pure-Python memcached client.](https://github.com/pinterest/pymemcache)
-- [ ] [Faker](https://github.com/joke2k/faker)
-- [ ] [Nameko](https://nameko.readthedocs.io/en/stable/index.html#)
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [scipy](https://scipy.org/)
+- [falcon](https://falcon.readthedocs.io/en/stable/index.html)
+- [VizTracer](https://github.com/gaogaotiantian/viztracer)
+- [SQLAlchemy](https://www.sqlalchemy.org/)
+- [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+- [aiohttp](https://docs.aiohttp.org/en/stable/)
+- httpie
+- [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+- [scrapy](https://scrapy.org/)
+- [scapy](https://scapy.net/)
+- [fastapi](https://fastapi.tiangolo.com/)
+- [pydantic](https://docs.pydantic.dev/)
+- [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/index.html)
+- [requests](https://requests.readthedocs.io/en/latest/)
+- [simplejson](https://simplejson.readthedocs.io/en/latest/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
+- [spaCy: Industrial-Strength Natural Language Processing](https://spacy.io/)
+- [twisted](https://twisted.org/)
+- [loguru - logging](https://github.com/Delgan/loguru)
+- TensorFlow
+- Pytorch
+- Keras
+- [Playwright](https://playwright.dev/python/)
+- [Selenium](https://www.selenium.dev/)
+- [A comprehensive, fast, pure-Python memcached client.](https://github.com/pinterest/pymemcache)
+- [Faker](https://github.com/joke2k/faker)
+- [Nameko](https://nameko.readthedocs.io/en/stable/index.html#)
     - https://github.com/nameko/nameko
+- [Pure-Python implementation of the AMQP 0-9-1 protocol](https://pika.readthedocs.io/en/stable/)
+- [Dramatiq: background tasks](https://dramatiq.io/)
+- [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/index.html)
 
 
 
