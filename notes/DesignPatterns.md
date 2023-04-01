@@ -1,40 +1,48 @@
 # Design Patterns:
 
-- [ ] Abstract Factory Pattern
-- [ ] Adapter Pattern
-- [ ] Bridge Pattern
-- [ ] Builder
+[group by]
+- Structural Patterns
+    - [ ] Adapter Pattern
+    - [ ] Bridge Pattern
+    - [ ] Composite Pattern
+    - [ ] Decorator Pattern
+    - [ ] Facade Pattern
+    - [ ] Flyweight Pattern
+    - [x] Proxy Pattern
+    - [ ] Private Class Data
+- Creational Patterns
+    - [ ] Abstract Factory Pattern
+    - [ ] Builder Pattern
+    - [ ] Factory Method Pattern
+    - [ ] Object Poll Pattern
+    - [x] Prototype Pattern
+    - [x] Singleton Pattern
+- Behavioral Patterns
+    - [ ] Chain of Responsibility Pattern
+    - [ ] Command Pattern
+    - [ ] Interpreter Pattern
+    - [x] Iterator Pattern
+    - [x] Mediator Pattern
+    - [x] Memento Pattern
+    - [x] Null Object Pattern
+    - [x] Observer Pattern [Publish-Subscribe Pattern]
+    - [x] State Pattern
+    - [x] Strategy Pattern
+    - [x] Template Method Pattern
+    - [x] Visitor Pattern
+
+
+--------------------------------
 - [ ] Business Delegate Pattern
-- [ ] Chain of Responsibility Pattern
-- [ ] Command Pattern
-- [ ] Composite Pattern
 - [ ] Curiously Recurring Template Pattern (CRTP)
 - [ ] Data Access Object
-- [ ] Decorator Pattern
-- [ ] Facade Pattern
-- [ ] Factory Method Pattern
 - [ ] Filter Pattern
-- [ ] Flyweight Pattern
-- [ ] Front Controller Pattern
-- [ ] Interactor Pattern
+- [x] Front Controller Pattern
+- [x] Interactor Pattern
     - https://github.com/collectiveidea/interactor
-- [ ] Intercepting Filter Pattern
-- [ ] Interpreter Pattern
-- [ ] Iterator Pattern
-- [ ] MVC Pattern
-- [ ] Mediator Pattern
-- [ ] Memento Pattern
-- [ ] Null Object Pattern
-- [ ] Observer Pattern [Publish-Subscribe Pattern]
-- [ ] Prototype Pattern
-- [ ] Proxy Pattern
-- [ ] Service Locator Pattern
-- [ ] Singleton Pattern
-- [ ] State Pattern
-- [ ] Strategy Pattern
-- [ ] Structural Patterns
-- [ ] Template Method Pattern
-- [ ] Transfer Object Pattern
-- [ ] Visitor Pattern
-- [ ] Repository Pattern
+- [~] Intercepting Filter Pattern
+- [x] MVC Pattern
+- [x] Service Locator Pattern
+- [x] Transfer Object Pattern
+- [x] Repository Pattern
     - [Adopting the Repository Pattern for Enhanced Backend Development With FastAPI](https://hackernoon.com/adopting-the-repository-pattern-for-enhanced-backend-development-with-fastapi)

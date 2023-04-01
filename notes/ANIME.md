@@ -1,4 +1,5 @@
 __ANIME / MANGA:__
+https://animego.org/anime/ledyanoy-paren-i-klassnaya-devushka-kollega-2235
 
 | Title                                                             | want to watch | watched | watching | dropped |  notes  | lovely? |
 |-------------------------------------------------------------------|:-------------:|:-------:|:--------:|:-------:|:-------:|:-------:|
