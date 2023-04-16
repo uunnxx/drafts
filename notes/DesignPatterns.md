@@ -46,3 +46,15 @@
 - [x] Transfer Object Pattern
 - [x] Repository Pattern
     - [Adopting the Repository Pattern for Enhanced Backend Development With FastAPI](https://hackernoon.com/adopting-the-repository-pattern-for-enhanced-backend-development-with-fastapi)
+
+
+
+--------------------------------
+
+
+
+- [Шпаргалка по шаблонам проектирования](https://habr.com/ru/articles/210288/)
+- [Паттерн проектирования «Компоновщик» / «Composite»](https://habr.com/ru/articles/85166/)
+- [Паттерны (шаблоны) проектирования](https://makedev.org/patterns/index.html)
+- [Паттерны проектирования: твоя настольная статья](https://proglib.io/p/patterny-proektirovaniya-tvoya-nastolnaya-statya-2019-10-27)
+- [Паттерн Composite (компоновщик)](http://cpp-reference.ru/patterns/structural-patterns/composite/)

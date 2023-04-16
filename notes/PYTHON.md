@@ -104,6 +104,14 @@ viztracer filename.py
 - [Pure-Python implementation of the AMQP 0-9-1 protocol](https://pika.readthedocs.io/en/stable/)
 - [Dramatiq: background tasks](https://dramatiq.io/)
 - [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/index.html)
+- [BDD](https://github.com/behave/behave)
+- [pytest](https://github.com/pytest-dev/pytest/)
+- [A next generation HTTP client for Python](https://github.com/encode/httpx/)
+
+
+------------------------------------------------------------------------------------
+### Django
+- [Django Channels HTTP/WebSocket server](https://github.com/django/daphne)
 
 
 
