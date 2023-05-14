@@ -32,7 +32,7 @@
     - [x] Visitor Pattern
 
 
---------------------------------
+-------------------------------------------------------------------------------
 - [ ] Business Delegate Pattern
 - [ ] Curiously Recurring Template Pattern (CRTP)
 - [ ] Data Access Object
@@ -48,8 +48,11 @@
     - [Adopting the Repository Pattern for Enhanced Backend Development With FastAPI](https://hackernoon.com/adopting-the-repository-pattern-for-enhanced-backend-development-with-fastapi)
 
 
+-------------------------------------------------------------------------------
+- [ ] RMR [Resource-Method-Representation]
+    - https://www.peej.co.uk/articles/rmr-architecture.html
 
---------------------------------
+-------------------------------------------------------------------------------
 
 
 
