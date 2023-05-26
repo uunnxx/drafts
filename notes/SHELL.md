@@ -1,19 +1,15 @@
-__SHELL:__
+### LINKS:
+- https://stackoverflow.com/questions/3430330/best-way-to-make-a-shell-script-daemon#10908325
 
-- Extract archive
-    - tar -xvjf filename.tar.bz2
-    - tar -xvzf filename.tar.gz
 
-__LINKS:__
-    - https://stackoverflow.com/questions/3430330/best-way-to-make-a-shell-script-daemon#10908325
-
-Repeat until success `$?`:
-
+### Etc
+> Repeat until success `$?`:
+```
 until command; do
   echo Tansfer disrupted, retrying in 10 seconds...
   sleep 10
 done
 
-
-Oneliner:
+# Oneliner:
 until command; do :; done
+```
