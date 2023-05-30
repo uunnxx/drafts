@@ -108,6 +108,7 @@
     - [Keras](https://keras.io/)
     - [numpy](https://numpy.org/)
     - [pandas](https://pandas.pydata.org/)
+    - [Polars](https://www.pola.rs/)
     - [matplotlib](https://matplotlib.org/)
     - [scipy](https://scipy.org/)
 - Etc

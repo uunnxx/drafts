@@ -1,40 +1,29 @@
-# ARTICLES:
+## VIM
 
-- How do I reverse a string with Vim script https://vi.stackexchange.com/questions/4944/how-do-i-reverse-a-string-with-vim-script
-    - ex-command :%! rev
-    - !!rev
+### ARTICLES:
+- [How do I reverse a string with Vim script](https://vi.stackexchange.com/questions/4944/how-do-i-reverse-a-string-with-vim-script)
+    - `ex-command :%! rev`
+    - `!!rev`
+- [Capitalize first letter of each word in a selection using Vim](https://stackoverflow.com/questions/17440659/capitalize-first-letter-of-each-word-in-a-selection-using-vim)
+    - tldr: `%s/\<./\u&/g`
+- [Unable to replace a space with a new line in Vim](https://stackoverflow.com/questions/1048639/unable-to-replace-a-space-with-a-new-line-in-vim)
+    - `%s/ /Ctrl+v Return/g [Ctrl+Q (Windows version of Ctrl+v)]`
+    - `:1,$s/\ /\n/g [:1,$s/\ /\r/g for windows]`
+- [Neovim, LaTeX and Zathura in perfect harmony](https://dev.to/preciouschicken/neovim-latex-and-zathura-in-perfect-harmony-4d7d)
 
---------------------------------------------------------------------------------------
 
-- Unable to replace a space with a new line in Vim: https://stackoverflow.com/questions/1048639/unable-to-replace-a-space-with-a-new-line-in-vim
-    - %s/ /Ctrl+v Return/g [Ctrl+Q (Windows version of Ctrl+v)]
-    - :1,$s/\ /\n/g [:1,$s/\ /\r/g for windows]
+### HELP
+- `:h shada`
 
 
-
-- :h shada
-
-## Plugins
+### Plugins
 - https://github.com/tpope/vim-surround
-- https://github.com/cohama/lexima.vim Auto close parentheses and repeat by dot dot dot...
+- [Auto close parentheses and repeat by dot](https://github.com/cohama/lexima.vim)
 - https://github.com/skanehira/translate.vim
 - https://github.com/google/vim-searchindex
 
 
---------------------------------------------------------------------------------------
-
-- https://habr.com/ru/post/586808/ Как я переписывал vim конфиг в init.lua
-- https://github.com/nvim-lualine/lualine.nvim
-- https://github.com/neovim/nvim-lspconfig
-
---------------------------------------------------------------------------------------
-
-- Neovim, LaTeX and Zathura in perfect harmony
-    - https://dev.to/preciouschicken/neovim-latex-and-zathura-in-perfect-harmony-4d7d
-
---------------------------------------------------------------------------------------
-
-# MAPS:
+### MAPS:
 
 => [operator] [count] [motion]
 :h operator
@@ -45,6 +34,8 @@ Any motion can follow an operator. Marks and searches count as motions, too!
 yank from the cursor to the 3rd 'i' on the line after it.
 Counts can also come before operators: `5dd` will delete five lines.
 
+
+```
 :h(elp)
 
 
@@ -255,3 +246,5 @@ gT or :tabprev or :tabp # move to the previous tab
 :tabclose or :tabc      # close the current tab and all its windows
 :tabonly or :tabo       # close all tabs except for the current one
 :tabdo command          # run the command on all tabs (e.g. :tabdo q - closes all opened tabs)
+
+```
