@@ -1,17 +1,20 @@
 ## Python Roadmap
 
-- 100 days of Python
-    - Books:
-    - Sites:
-    - Notes:
+### 100 days of Python
 
-------------------------------------------------------------------------------------
-### Sites
+#### Books:
+
+#### Sites:
 - [Real Python](https://realpython.com/learning-paths/)
 - [Learn Python](https://github.com/MrBlaise/learnpython)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
 - [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)
 - [RIP Tutorial](https://riptutorial.com/python)
+
+#### Notes:
+
+------------------------------------------------------------------------------------
+### Sites
 
 
 ### Secondary sites
@@ -54,80 +57,92 @@
 - [Manim Animations](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
 
 
-#### Articles
+### Articles
 - [Фильтр нецензурной лексики за 5 минут](https://habr.com/ru/sandbox/145868/)
 - [Если вы решили перейти с PHP на Python](https://habr.com/ru/company/lesta_studio/blog/221035/)
 - [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
 
 
 ### Packages:
-- WEB
-    - Frameworks
-        - [Django](https://www.djangoproject.com/)
-        - [Flask](https://www.djangoproject.com/)
-        - [fastapi](https://fastapi.tiangolo.com/)
-        - [Nameko](https://nameko.readthedocs.io/en/stable/index.html)
-            - [Official](https://github.com/nameko/nameko)
-        - [falcon](https://falcon.readthedocs.io/en/stable/index.html)
-    - [Playwright](https://playwright.dev/python/)
-    - [Selenium](https://www.selenium.dev/)
-    - [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
-    - [scrapy](https://scrapy.org/)
-    - [scapy](https://scapy.net/)
-- NETWORK
-    - [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/index.html)
-    - [twisted](https://twisted.org/)
-    - [requests](https://requests.readthedocs.io/en/latest/)
-    - [aiohttp](https://docs.aiohttp.org/en/stable/)
-    - [HTTPx: A next generation HTTP client for Python](https://github.com/encode/httpx/)
-    - [httpie](https://httpie.org)
-- ORM & DB
-    - [SQLAlchemy](https://www.sqlalchemy.org/)
-    - [Ormar](https://collerek.github.io/ormar/)
-    - [Tortoise](https://github.com/tortoise/tortoise-orm)
-    - [Piccolo](https://piccolo-orm.com/)
-    - [PsycoPG](https://www.psycopg.org/)
-    - [Pure-Python implementation of the AMQP 0-9-1 protocol](https://pika.readthedocs.io/en/stable/)
-- LOGGING
-    - [loguru - logging](https://github.com/Delgan/loguru)
-- CACHE
-    - [MEMCACHE: A comprehensive, fast, pure-Python memcached client.](https://github.com/pinterest/pymemcache)
-- TEST
-    - [pytest](https://github.com/pytest-dev/pytest/)
-    - [BDD](https://github.com/behave/behave)
-    - [Faker](https://github.com/joke2k/faker)
-- BG TASK
-    - [Dramatiq: background tasks](https://dramatiq.io/)
-    - [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/index.html)
-- DATA-SCIENCE
-    - [scikit-learn](https://scikit-learn.org/stable/)
-    - [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
-    - [spaCy: Industrial-Strength Natural Language Processing](https://spacy.io/)
-    - [TensorFlow](https://www.tensorflow.org/)
-    - [Pytorch](https://pytorch.org/)
-    - [Keras](https://keras.io/)
-    - [numpy](https://numpy.org/)
-    - [pandas](https://pandas.pydata.org/)
-    - [Polars](https://www.pola.rs/)
-    - [matplotlib](https://matplotlib.org/)
-    - [scipy](https://scipy.org/)
-- Etc
-    - [VizTracer](https://github.com/gaogaotiantian/viztracer)
-        ```
-        pip install viztracer
-        viztracer filename.py
-        ```
-    - [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
-    - [pydantic](https://docs.pydantic.dev/)
-    - [ujson](https://github.com/ultrajson/ultrajson)
-    - [simplejson](https://simplejson.readthedocs.io/en/latest/)
-- ASYNC
-    - [uvloop](https://github.com/MagicStack/uvloop)
 
+#### WEB
+- Frameworks
+    - [Django](https://www.djangoproject.com/)
+    - [Flask](https://flask.palletsprojects.com/en/2.3.x/)
+    - [FastAPI](https://fastapi.tiangolo.com/)
+    - [Nameko](https://nameko.readthedocs.io/en/stable/index.html)
+        - [Official](https://github.com/nameko/nameko)
+    - [falcon](https://falcon.readthedocs.io/en/stable/index.html)
+- [Playwright](https://playwright.dev/python/)
+- [Selenium](https://www.selenium.dev/)
+- [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+- [scrapy](https://scrapy.org/)
+- [scapy](https://scapy.net/)
+
+#### NETWORK
+- [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/index.html)
+- [twisted](https://twisted.org/)
+- [requests](https://requests.readthedocs.io/en/latest/)
+- [aiohttp](https://docs.aiohttp.org/en/stable/)
+- [HTTPx: A next generation HTTP client for Python](https://github.com/encode/httpx/)
+- [httpie](https://httpie.org)
+
+#### ORM & DB
+- [SQLAlchemy](https://www.sqlalchemy.org/)
+- [Ormar](https://collerek.github.io/ormar/)
+- [Tortoise](https://github.com/tortoise/tortoise-orm)
+- [Piccolo](https://piccolo-orm.com/)
+- [PsycoPG](https://www.psycopg.org/)
+- [Pure-Python implementation of the AMQP 0-9-1 protocol](https://pika.readthedocs.io/en/stable/)
+
+#### LOGGING
+- [loguru - logging](https://github.com/Delgan/loguru)
+
+#### CACHE
+- [MEMCACHE: A comprehensive, fast, pure-Python memcached client.](https://github.com/pinterest/pymemcache)
+
+#### TEST
+- [pytest](https://github.com/pytest-dev/pytest/)
+- [BDD](https://github.com/behave/behave)
+- [Faker](https://github.com/joke2k/faker)
+
+#### BG TASK
+- [Dramatiq: background tasks](https://dramatiq.io/)
+- [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/index.html)
+
+#### DATA-SCIENCE
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
+- [spaCy: Industrial-Strength Natural Language Processing](https://spacy.io/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Pytorch](https://pytorch.org/)
+- [Keras](https://keras.io/)
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/)
+- [Polars](https://www.pola.rs/)
+- [matplotlib](https://matplotlib.org/)
+- [scipy](https://scipy.org/)
+
+#### Etc
+- [VizTracer](https://github.com/gaogaotiantian/viztracer)
+    ```
+    pip install viztracer
+    viztracer filename.py
+    ```
+- [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+- [pydantic](https://docs.pydantic.dev/)
+- [ujson](https://github.com/ultrajson/ultrajson)
+- [simplejson](https://simplejson.readthedocs.io/en/latest/)
+
+##### ASYNC & PARALLEL
+- [uvloop](https://github.com/MagicStack/uvloop)
+- [Coroutine-based concurrency library for Python](https://github.com/gevent/gevent)
+
+#### GENERAL
+- [Boltons](https://github.com/mahmoud/boltons)
 
 #### Django
 - [Django Channels HTTP/WebSocket server](https://github.com/django/daphne)
-
 
 #### Telegram:
 - [Aasynchronous Framework for Telegram](https://github.com/aiogram/aiogram)
@@ -135,6 +150,84 @@
 - [Telethon: userbot](https://github.com/LonamiWebs/Telethon)
 
 
-#### Etc
-------------------------------------------------------------------------------------
+
+### Etc
 `list({*arr1, *arr2})`
+
+
+
+#### NLTK
+- [NLTK Playlist](https://www.youtube.com/watch?v=QpzMWQvxXWk&list=PL7RwtdVQXQ8o6CYe1Teo7FzkrQQoT0c9i)
+- [NLKT Python Tutorial](https://www.youtube.com/watch?v=XFoehWRzG-I)
+
+
+#### recom. courses
+- Core Python Paths
+- Advanced Python
+- Python - Beyond the Basics
+- Python3 Programming Specialization
+
+
+#### Anti-Patterns
+- Not using named tuples in function return
+    ```
+    # Bad code sample
+    def get_name():
+        return "Richard", "Jones"
+
+    name = get_name()
+    print(name[0], name[1])
+
+    # Good code sample
+    from collections import namedtuple
+
+    def get_name():
+        name = namedtuple("name", ["first", "last"])
+        return name("Richard", "Jones")
+
+    name = get_name()
+    print(name.first, name.last)
+    ```
+- Using `type()` to compare types
+    ```
+    # Bad code sample
+    c = Circle(2)
+    r = Rectangle(3, 4)
+    if type(r) is not type(c):
+        print("object types don't match")
+
+    # Good code sample
+    r = Rectangle(3, 4)
+    if isinstance(r, types.ListType):
+        print("object r is a list")
+    ```
+- Not using `get()` to return a default value from a dict
+    ```
+    # Bad code sample
+    dictionary = {"message": "Hello!"}
+    data = ""
+
+    if "message" in dictionary:
+        data = dictionary["message"]
+
+    print(data)
+
+    # Good code sample
+    dictionary = {"message": "Hello!"}
+    data = dictionary.gett("message", "")
+    print(data)
+    ```
+- Return more than one variable type in function calls
+    ```
+    # Bad code sample
+    def get_secret_code(password):
+        if password != "bicycle":
+            return None
+        return 42
+
+    # Good code sample
+    def get_secret_code(password):
+        if password != "bicycle":
+            raise ValueError
+        return 42
+    ```

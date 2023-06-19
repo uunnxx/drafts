@@ -14,6 +14,7 @@ def close_compare(a, b, margin):
                 return 0
         return 1
 
+
 print("-1 A is less than B")
 print(" 1 B is less than A")
 print(" 0 close compare")
@@ -28,7 +29,7 @@ def close_compare2(a, b, margin=0):
     # If the absolute value of their difference is no greater than the margin,
     # then they're equal enough.
     if abs(a - b) <= margin:
-        return 0;
+        return 0
 
     # They removed the cmp() function in Python 3, so we use this weird-looking expression
     # instead.  This works because arithmetic operations like '-' coerce their operands into
@@ -40,4 +41,4 @@ def close_compare2(a, b, margin=0):
 
 
 def close_compare3(a, b, margin=0):
-    return abs(a-b) > margin and (a>b) - (a<b)
+    return abs(a - b) > margin and (a > b) - (a < b)
