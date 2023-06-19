@@ -46,7 +46,7 @@
 
 
 ## Useful packages
-  - [Naive linter for English prose](https://github.com/btford/write-good/)
+- [Naive linter for English prose](https://github.com/btford/write-good/)
 
 
 ## Apps
@@ -177,13 +177,13 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 
 
 
-___________________________________________________________________________________
-| Init   | Sender | Receiver   | Amount      | Date     | Comment
-| Me     | Zorin  | Me         | 2000        |          | Bobon
-| Me     | Zorin  | Me         | 400         |          | Inet
-| Me     | Zorin  | Me         | 3500        |          | Router
-| Me     | Zorin  | Me         | 500         |          | Inet
-| Me     | Zorin  | Me         | 400         | 11.07.22 | Inet
+| Init | Sender | Receiver | Amount | Date     | Comment |
+|------|--------|----------|--------|----------|---------|
+| Me   | Zorin  | Me       | 2000   |          | Bobon   |
+| Me   | Zorin  | Me       | 400    |          | Int     |
+| Me   | Zorin  | Me       | 3500   |          | Router  |
+| Me   | Zorin  | Me       | 500    |          | Int     |
+| Me   | Zorin  | Me       | 400    | 11.07.22 | Int     |
 
 
 
@@ -225,3 +225,6 @@ https://write.corbpie.com/downloading-a-youtube-channel-with-yt-dlp/
 
 key::pyramid audit offer risk craft liberty trim they blast rookie spot person cloud::paper
 
+
+#### check.
+- Destroy All Software

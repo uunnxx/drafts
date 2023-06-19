@@ -13,3 +13,11 @@ done
 # Oneliner:
 until command; do :; done
 ```
+
+
+```
+for i in {0..100..2}
+do
+echo "$i^2" | bc
+done | tail
+```
