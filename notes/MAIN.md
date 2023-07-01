@@ -228,3 +228,9 @@ key::pyramid audit offer risk craft liberty trim they blast rookie spot person c
 
 #### check.
 - Destroy All Software
+
+
+
+## NOTE
+- 1k LUVda, qttiqrq trsin, says
+    - keep in mind

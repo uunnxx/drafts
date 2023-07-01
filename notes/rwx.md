@@ -1,7 +1,3 @@
-IPC - Inter-process communication
-
-- nand2tetris
-
 ## ASSEMBLER
 
 ArmV7 - one of a family of CPUs based on the RISC (reduce instruction set computer) architecture
@@ -19,8 +15,8 @@ edi - destination index
 __FILE PERMISSION:__
 __read, write, execute__
 
-| r | w | x | - | - | - | --- |
-|---|---|---|---|---|---|-----|
+| r   | w   | x   | -   | -   | -   | ---   |
+|-----|-----|-----|-----|-----|-----|-------|
 | `0` | `0` | `0` | `-` | `-` | `-` | `000` |
 | `0` | `0` | `1` | `-` | `-` | `x` | `001` |
 | `0` | `1` | `0` | `-` | `w` | `-` | `002` |
@@ -31,17 +27,17 @@ __read, write, execute__
 | `1` | `1` | `1` | `r` | `w` | `x` | `007` |
 
 
-| User | Group | Other | --- |
-|------|-------|-------|-----|
-| `rwx`  | `rwx`   | `rwx`   | `777` |
-| `rwx`  | `---`   | `---`   | `700` |
-| `rwx`  | `---`   | `rwx`   | `707` |
-| `rw-`  | `r--`   | `r--`   | `644` |
-| `r-x`  | `---`   | `rwx`   | `507` |
-| `r--`  | `---`   | `---`   | `400` |
-| `--x`  | `--x`   | `--x`   | `111` |
-| `--x`  | `---`   | `---`   | `100` |
-| `---`  | `---`   | `---`   | `000` |
+| User  | Group | Other | ---   |
+|-------|-------|-------|-------|
+| `rwx` | `rwx` | `rwx` | `777` |
+| `rwx` | `---` | `---` | `700` |
+| `rwx` | `---` | `rwx` | `707` |
+| `rw-` | `r--` | `r--` | `644` |
+| `r-x` | `---` | `rwx` | `507` |
+| `r--` | `---` | `---` | `400` |
+| `--x` | `--x` | `--x` | `111` |
+| `--x` | `---` | `---` | `100` |
+| `---` | `---` | `---` | `000` |
 
 ``````
 chmod
@@ -55,21 +51,21 @@ chmod
 
 __File Types:__ (ls -lah)
 
-| File Type | User | Group | Other | Note                                       |
-|-----------|------|-------|-------|--------------------------------------------|
-| `-`         | `rwx`  | `rwx`   | `rwx`   | `-` :Regular file                            |
-| `b`         | `rwx`  | `rwx`   | `rwx`   | `b` :Block special file                      |
-| `c`         | `rwx`  | `rwx`   | `rwx`   | `c` :Character special file                  |
-| `C`         | `rwx`  | `rwx`   | `rwx`   | `C` :High performance (contiguous data) file |
-| `d`         | `rwx`  | `rwx`   | `rwx`   | `d` :Directory                               |
-| `D`         | `rwx`  | `rwx`   | `rwx`   | `D` :Door (Solaris 2.5 and up)               |
-| `l`         | `rwx`  | `rwx`   | `rwx`   | `l` :Symbolic link                           |
-| `M`         | `rwx`  | `rwx`   | `rwx`   | `M` :Off-line (migrated) file (Cray DMF)     |
-| `n`         | `rwx`  | `rwx`   | `rwx`   | `n` :Network special file (HP-UX)            |
-| `p`         | `rwx`  | `rwx`   | `rwx`   | `p` :FIFO (name pipe)                        |
-| `P`         | `rwx`  | `rwx`   | `rwx`   | `P` :Port (Solaris 10 and up)                |
-| `s`         | `rwx`  | `rwx`   | `rwx`   | `s` :Socket                                  |
-| `?`         | `rwx`  | `rwx`   | `rwx`   | `?` : Some other filetype                    |
+| File Type | User  | Group | Other | Note                                         |
+|-----------|-------|-------|-------|----------------------------------------------|
+| `-`       | `rwx` | `rwx` | `rwx` | `-` :Regular file                            |
+| `b`       | `rwx` | `rwx` | `rwx` | `b` :Block special file                      |
+| `c`       | `rwx` | `rwx` | `rwx` | `c` :Character special file                  |
+| `C`       | `rwx` | `rwx` | `rwx` | `C` :High performance (contiguous data) file |
+| `d`       | `rwx` | `rwx` | `rwx` | `d` :Directory                               |
+| `D`       | `rwx` | `rwx` | `rwx` | `D` :Door (Solaris 2.5 and up)               |
+| `l`       | `rwx` | `rwx` | `rwx` | `l` :Symbolic link                           |
+| `M`       | `rwx` | `rwx` | `rwx` | `M` :Off-line (migrated) file (Cray DMF)     |
+| `n`       | `rwx` | `rwx` | `rwx` | `n` :Network special file (HP-UX)            |
+| `p`       | `rwx` | `rwx` | `rwx` | `p` :FIFO (name pipe)                        |
+| `P`       | `rwx` | `rwx` | `rwx` | `P` :Port (Solaris 10 and up)                |
+| `s`       | `rwx` | `rwx` | `rwx` | `s` :Socket                                  |
+| `?`       | `rwx` | `rwx` | `rwx` | `?` : Some other filetype                    |
 
 
 __DECIMAL TO HEX:__
@@ -115,20 +111,20 @@ __Result:__ `DEADBEEF`
 | 3       | 2   | 1      | 1   | 1      |
 | 1       | 2   | 0      | 1   | 1      |
 
-(13)v10 : (1101)v2
+`(13)v10 : (1101)v2`
 
 
-``````
+```
 
 (1100)v2  : 1x2^3 + 1x2^2 + 0x2^1 + 0x2^0 = 8 + 4 + 0 + 0 = (12)v10
 (77)v8    : 7x8^1 + 7x8^0 = 56 + 7 = (63)v10
 (524D)v16 : 5x16^3 + 2x16^2 + 4x16^1 + 13x16^0 = 20_480 + 512 + 64 + 13 = (21_069)v10
+```
 
 
 
-BITWISE OPERATION:
-
-Shift Left
+__BITWISE OPERATION:__
+__Shift Left__
 
 | Syntax     | Binary Form | Value          |
 |------------|-------------|----------------|
@@ -137,7 +133,8 @@ Shift Left
 | x = x << 3 | 0111 0000   | 112 (14x2x2x2) |
 | x = x << 2 | 1100 0000   | 192            |
 
-Shift Right
+
+__Shift Right__
 
 | Syntax     | Binary Form | Value |
 |------------|-------------|-------|
@@ -147,12 +144,14 @@ Shift Right
 | x = x >> 3 | 0000 0011   | 3     |
 
 
+```
 carry: 0001 1000
        ---------
   28 - 0001 1100
 + 22 - 0001 0110
        ---------
 = 50 = 0011 0010
+```
 
 
 | ---   | A | B | OUTPUT |
@@ -168,26 +167,28 @@ carry: 0001 1000
 | 1     | 1 | 1 | 11     |
 
 
+-------------------------------------------------------------------------------
 
-73999117
-93605017
-71199937
-71050639
 
-73153690
-90969593          7977799171397339
-90391177          3311300706536991
-17717910          9610193731797673
-                  9095569119077973
-
-                  9590391735600197
-70313997          1096651999991511
-16195911          1133997191700915
-35706971          7779037071170099
-93970907
-
-76770100
-39691590
-39779119
-91337159
-``````
+|----------|------------------|
+| 73999117 |                  |
+| 93605017 |                  |
+| 71199937 |                  |
+| 71050639 |                  |
+|          |                  |
+| 73153690 |                  |
+| 90969593 | 7977799171397339 |
+| 90391177 | 3311300706536991 |
+| 17717910 | 9610193731797673 |
+|          | 9095569119077973 |
+|          |                  |
+|          | 9590391735600197 |
+| 70313997 | 1096651999991511 |
+| 16195911 | 1133997191700915 |
+| 35706971 | 7779037071170099 |
+| 93970907 |                  |
+|          |                  |
+| 76770100 |                  |
+| 39691590 |                  |
+| 39779119 |                  |
+| 91337159 |                  |

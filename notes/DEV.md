@@ -148,3 +148,5 @@
     - Table
     - Graph
 ```
+
+IPC - Inter-process communication

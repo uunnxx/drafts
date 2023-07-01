@@ -45,13 +45,16 @@
 - [A syntax-highlighting pager for git, diff, and grep output](https://github.com/dandavison/delta)
 - ncdu
 - [View disk space usage and delete unwanted data, fast](https://github.com/Byron/dua-cli)
+- duf
+- dupeguru
 - cod `go get -u github.com/dim-an/cod`
-- Bitwise
 - i3keys
 - portmaster
 - bpytop [htop alternative `pip install bpytop`]
+- [mprocs: Run multiple commands in parallel](https://github.com/pvolok/mprocs)
 
 ## Productivity apps
+- porsmo (`cargo install porsmo`)
 - Pomotroid
 - Pomatez
 - Blanket
@@ -60,6 +63,21 @@
 - cbonsai
 
 
+## Education
+- Digital Logic Sim
+- Bitwise
+- Nihonoari
+- Qalculate!
+
+
+------------------------------------------------------------------------
+- Binary Ninja
+- radare2
+
+## Etc
+- xwinwrap
+- vintoy
+- Balena Etcher
 ------------------------------------------------------------------------
 - [Projects written in Bourne Shell](https://github.com/terminalforlife/Extra)
 ------------------------------------------------------------------------
@@ -67,14 +85,13 @@
 - https://github.com/francoischalifour/todo-cli (Command-line tool to manage Todo lists)
 - https://github.com/codito/habito (Simple commandline habits tracker.)
 - Google Translator CLI
-      `wget git.io/trans`
-      `chmod +x ./trans`
+    `wget git.io/trans`
+    `chmod +x ./trans`
 
 ## Android Apps
 - [Android Sudoku Solver](https://github.com/hypertensiune/Android-Sudoku-Solver-OCR)
 
 ------------------------------------------------------------------------
-
 - [xowa Offline wiki Application](https://github.com/gnosygnu/xowa)
 
 
@@ -119,9 +136,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
     -D BUILD_EXAMPLES=ON \
     ..
 
-make -j8
-sudo make install
-make -j8 # make -j `nproc`
+make -j `nproc`
 sudo make install
 ```
 
