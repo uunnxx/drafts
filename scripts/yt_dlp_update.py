@@ -3,10 +3,16 @@
 from pathlib import Path
 import subprocess
 import re
+import sys
+import os
 
 
-x = Path('./')
 regex = re.compile(r"([0-9A-Za-z_-]{11})[\]|\)]?\.[m|w]")
+
+if len(sys.argv) > 1:
+    x = Path(sys.argv[1])
+else:
+    x = Path('.')
 
 
 def _filter_files():
@@ -29,6 +35,7 @@ def download():
     files: list = _filter_files()
     length = len(files)
 
+    os.chdir(x)
     for file in files:
         subprocess.run(
             [
@@ -41,7 +48,13 @@ def download():
             ]
         )
 
-    print(f"\nStats: {length} file{'s' if length > 1 else ''}\n")
+    subprocess.run([
+        'dunstify',
+        '-u', 'normal',
+        '-r', '4753',
+        'YouTube Video Update:',
+        f"Stats: {length} file{'s' if length > 1 else ''}"
+    ])
 
 
 if __name__ == '__main__':
