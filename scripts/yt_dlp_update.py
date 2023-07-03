@@ -36,7 +36,15 @@ def download():
     length = len(files)
 
     os.chdir(x)
-    for file in files:
+    for i, file in enumerate(files):
+        subprocess.run([
+            'dunstify',
+            '-u', 'low',
+            '-r', '4754',
+            'YouTube Video Updater:',
+            f"In Progress: {i} of {length}"
+        ])
+
         subprocess.run(
             [
                 'yt-dlp',
@@ -48,11 +56,20 @@ def download():
             ]
         )
 
+        subprocess.run([
+            'dunstify',
+            '-u', 'low',
+            '-r', '4754',
+            'YouTube Video Updater:',
+            f"Done: {i+1} of {length}"
+        ])
+
+
     subprocess.run([
         'dunstify',
         '-u', 'normal',
         '-r', '4753',
-        'YouTube Video Update:',
+        'YouTube Video Updater:',
         f"Stats: {length} file{'s' if length > 1 else ''}"
     ])
 
