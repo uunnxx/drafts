@@ -9,69 +9,45 @@ import os
 
 regex = re.compile(r"([0-9A-Za-z_-]{11})[\]|\)]?\.[m|w]")
 
+
 if len(sys.argv) > 1:
-    x = Path(sys.argv[1])
+    working_path = Path(sys.argv[1])
 else:
-    x = Path('.')
+    working_path = Path('.')
 
 
-def _filter_files():
+def __filter_files() -> list:
     files: list = []
 
-    for file in filter(lambda y: y.is_file(), x.iterdir()):
-        file = str(file)
-        result = regex.search(file)
-
-        if result:
+    for file in filter(lambda y: y.is_file(), working_path.iterdir()):
+        if result := regex.search(str(file)):
             files.append(result.group(1))
 
     if files:
         return files
-    else:
-        exit('Abort!\nNO CORRESPONDING FILES WERE FOUND')
+
+    sys.exit('Abort!\nNO CORRESPONDING FILES WERE FOUND')
+
+
+def __run(opts: list):
+    subprocess.run(opts)
+
+
+def dunstify(title: str = 'YouTube Video Updater', text: str = '', priority: str = 'low', id: int = 9999):
+    __run(['dunstify', '-u', f'{priority}', '-r', f'{id}', f'{title}', f"{text}"])
 
 
 def download():
-    files: list = _filter_files()
+    files: list = __filter_files()
     length = len(files)
+    os.chdir(working_path)
 
-    os.chdir(x)
-    for i, file in enumerate(files):
-        subprocess.run([
-            'dunstify',
-            '-u', 'low',
-            '-r', '4754',
-            'YouTube Video Updater:',
-            f"In Progress: {i} of {length}"
-        ])
+    for count, file in enumerate(files):
+        dunstify(text=f'In Progress: {count} of {length}', id=4754)
+        __run(['yt-dlp', '--embed-thumbnail', '--embed-chapters', '--embed-subs', '-f mp4', f'https://youtu.be/{file}'])
+        dunstify(text=f'Done: {count+1} of {length}', id=4754)
 
-        subprocess.run(
-            [
-                'yt-dlp',
-                '--embed-thumbnail',
-                '--embed-chapters',
-                '--embed-subs',
-                '-f mp4',
-                file
-            ]
-        )
-
-        subprocess.run([
-            'dunstify',
-            '-u', 'low',
-            '-r', '4754',
-            'YouTube Video Updater:',
-            f"Done: {i+1} of {length}"
-        ])
-
-
-    subprocess.run([
-        'dunstify',
-        '-u', 'normal',
-        '-r', '4753',
-        'YouTube Video Updater:',
-        f"Stats: {length} file{'s' if length > 1 else ''}"
-    ])
+    dunstify(text=f'Stats: {length} file{"s" if length > 1 else ""}', priority='normal', id=4753)
 
 
 if __name__ == '__main__':
