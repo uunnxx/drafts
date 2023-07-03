@@ -1,41 +1,39 @@
 ## Python Roadmap
 
-### 100 days of Python
-
 #### Books:
 
-#### Sites:
+
+### Notes:
+#### Sites
 - [Real Python](https://realpython.com/learning-paths/)
 - [Learn Python](https://github.com/MrBlaise/learnpython)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
 - [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)
 - [RIP Tutorial](https://riptutorial.com/python)
 
-#### Notes:
 
-------------------------------------------------------------------------------------
-### Sites
-
-
-### Secondary sites
+#### Secondary sites
 - [Koans](https://github.com/gregmalcolm/python_koans)
 
 
-### Style Guide
-- [PEP8](https://peps.python.org/pep-0008/)
-- [mypy](https://mypy-lang.org/)
-
-
-### Visualizer
-- [Visualizer](https://pythontutor.com/)
-
-
-### Tutorials
+#### Tutorials
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Python for you and me](https://pymbook.readthedocs.io/en/latest)
 - [Crash into Python](https://stephensugden.com/crash_into_python)
 - [Operators and Expressions](https://python.swaroopch.com/op_exp.html)
 - [FreeCodeCamp](https://www.freecodecamp.org/news/tag/python)
+
+
+#### Style Guide
+- [PEP8](https://peps.python.org/pep-0008/)
+- [mypy](https://mypy-lang.org/)
+
+---
+
+- [Induction, Recursion, and Reduction](https://marquis08.github.io/pythonalgorithms/chapter4-part1/)
+
+### Visualizer
+- [Visualizer](https://pythontutor.com/)
 
 
 ### Interview Questions
@@ -47,14 +45,6 @@
 - [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/)
 - [Understand your Python code with this open source visualization tool](https://opensource.com/article/20/11/python-code-viztracer)
 - [VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution](https://github.com/gaogaotiantian/viztracer)
-
-
-### Notes
-- [Induction, Recursion, and Reduction](https://marquis08.github.io/pythonalgorithms/chapter4-part1/)
-
-
-### Resources
-- [Manim Animations](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
 
 
 ### Articles
@@ -149,11 +139,8 @@
 - [GUI Framework on top of aiogram](https://github.com/Tishka17/aiogram_dialog)
 - [Telethon: userbot](https://github.com/LonamiWebs/Telethon)
 
-
-
-### Etc
-`list({*arr1, *arr2})`
-
+#### ETC
+- [Manim Animations](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
 
 
 #### NLTK
@@ -231,3 +218,7 @@
             raise ValueError
         return 42
     ```
+
+
+### Etc
+`list({*arr1, *arr2})`
