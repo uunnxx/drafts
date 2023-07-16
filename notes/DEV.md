@@ -2,15 +2,13 @@
 
 
 - [Memcached](https://memcached.org)
-    - https://github.com/memcached/memcached
+- [github: Memcached](https://github.com/memcached/memcached)
 - RPC
 - RabbitMQ
 - Redis
 - LavinMQ
-
 - [Prometheus: From metrics to insight](https://prometheus.io/)
 - [Grafana: Operational dashboards for your data](https://grafana.com/)
-
 
 
 ### Sites
@@ -63,8 +61,10 @@
 - http://rebekahheacock.org/
 - [Exponentiation with minimum number of multiplication](https://scribe.rip/swlh/exponentiation-with-minimum-number-of-multiplication-122f50fcff49)
 
+
 ### Development
 - [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
 
 ### Concurrency
 - [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)
@@ -110,11 +110,17 @@
 - [Nim is a statically typed compiled systems programming language](https://nim-lang.org)
 - [IO](https://iolanguage.org)
 - [Carbon](https://github.com/carbon-language/carbon-lang)
-
+- [V](https://vlang.io/)
+- [Crystal](https://crystal-lang.org/)
 
 
 ### System Design
 - [System Design: The complete course](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo)
+
+
+## Software Architecture
+- ActivityPub
+- Zero Trust Architecture [based on the principle of `never trust, always verify` as opposed to the traditional `trust, but verify`]
 
 
 ### SEARCH
@@ -125,15 +131,15 @@
 - Apache Brooklyn автономные вычисление
 
 
-### Fundamentals all software engineers should learn:
-- Data structures and algorithms
-- Programming paradigms (OOP and functional)
-- Testing procedures (Unit, integration and functional testing)
-- Security (OWASP top ten)
+### Fundamentals All Software Engineers Should Learn:
+- Data Structures and Algorithms
+- Programming Paradigms (OOP and Functional)
+- Testing Procedures (Unit, Integration and Functional Testing)
+- Security (OWASP top 10)
 - Networking
-- Operating systems
-- System design
-- Cloud computing
+- Operating Systems
+- System Design
+- Cloud Computing
 
 
 ### Data Structures
@@ -143,10 +149,12 @@
     - Linked List
     - Stack
     - Queue
-- Non-linear
+- Non-Linear
     - Tree
     - Table
     - Graph
 ```
 
-IPC - Inter-process communication
+-------------------------------------------------------------------------------
+
+- IPC: Inter-Process Communication

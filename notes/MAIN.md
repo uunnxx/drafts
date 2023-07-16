@@ -1,33 +1,5 @@
 # Notes
 
-----------------------------------------
-
-- ActivityPub
-- Zero Trust Architecture
-    based on the principle of `never trust, always verify` as opposed to the traditional `trust, but verify`
-## Unsorted notes
-
-- [The Choice We All Have, But Only a Few Apply It | Jordan Peterson](https://www.youtube.com/watch?v=dJyz6iK8VXE) (located at ~/Videos)
-  - Get Yourself Educated
-  - Read books
-  - Learn to talk
-  - Learn to think
-  - Make yourself into something
-
-------------------------------------------------------------------------------------------------------------------------
-
-- Carry a notebook everywhere
-- Try free writing [note: Possibly miswritten word: free writing (Grammarly LSP)]
-- Make lists
-- When crunched for time __listen__ to recorded lectures at double speed.
-- Take notes using __different__ ___colored___
-
-------------------------------------------------------------------------------------------------------------------------
-
-- Set Goals
-- Organize
-- Prioritize
-
 
 ## KVM
 - https://www.christitus.com/vm-setup-in-linux
@@ -36,58 +8,25 @@
 ## Computer Science Related
 - https://www.youtube.com/c/ComputerScienceLessons/
 
+
 ### OS
 - [Read about PhantomOS (Object oriented OS)](http://phantomos.org/)
 - [CapROS: The Capability-based Reliable Operating System](http://www.capros.org/)
 
+
 #### Android
 - [GrapheneOS](https://grapheneos.org/install/)
-
 
 
 ## Useful packages
 - [Naive linter for English prose](https://github.com/btford/write-good/)
 
 
-## Apps
-- [Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn)
-
-
-
-- [https://github.com/localstack/localstack](A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!)
-
-
-Latin: Scientia Est Potentia
-  Knowledge is Power
-
-
-Не смотря на то, что в курсе используется язык C, нужно понимать, что язык программирования, как в обучении, так и в разработке - это не цель, а всего лишь средство для ее достижения.
-
-You can't hide a bad architecture with a great interface Bob Martin ?
-
-
-- Аль-Хорезми
-- Аль-Фараби
-
 
 
 ## Input methods
 - https://rime.im/ as fcixt5-rime
 - mozc as fcixt5-mozc
-
-
-
-## Archives:
-- tar
-- tar.gz
-- gz
-- lzx
-- bz2
-- zip
-- rar
-- 7z
-- xz
-
 
 
 
@@ -151,12 +90,6 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 # UI & UX
 - https://pinafore.social/community
 
-------------------------------------------------------------------------
-- Go slow. Repeat a lot. Don't skip steps.
-- A wise ruler keeps the minds of his people empty and their bellies full.
-- Try to learn something about everything and everything about something.
-- Don't judge someone you don't care about.
-
 
 ### Etc
 - sens: 2.8
@@ -167,8 +100,6 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 - https://mullvad.net
 - https://protonvpn.com
 
-
-### Thoughts
 
 ### Alternative
 |            | alternative          |
@@ -192,38 +123,10 @@ You can't hide a bad architecture with a great interface Bob Martin ?
 
 
 
-✔️ CCNA
-✔️ SECURITY+
-✔️ LINUX
-✔️ PYTHON
+[ ] CCNA
+[ ] SECURITY+
+[ ] LINUX
 
-
-
-
-
-
-
------------------------------------------------------------------------------------
-- [Apertium is a free/open-source platform for developing rule-based machine translation systems!](https://wiki.apertium.org/wiki/Main_Page)
-
-
-```
-ffmpeg -fflags +genpts -i 1.webm -r 24 1.mp4
-
-# webm to mp4
-ffmpeg -i input.webm -c copy output.mp4
-```
-
-
-```
-# Download youtube-channel
-https://write.corbpie.com/downloading-a-youtube-channel-with-yt-dlp/
-    - tldr;
-    - yt-dlp -f 'bv*[height>=720]+ba' --embed-thumbnail --embed-metadata --download-archive FootheFlowerhorn.txt https://www.youtube.com/c/FootheFlowerhorn/videos -o '%(channel)s/%(title)s.%(ext)s'
-```
-
-
-key::pyramid audit offer risk craft liberty trim they blast rookie spot person cloud::paper
 
 
 #### check.

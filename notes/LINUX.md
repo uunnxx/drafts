@@ -41,6 +41,17 @@ lsof -i :8080
 lsof -iPn :8080
 ```
 
+### Archives:
+- tar
+- tar.gz
+- gz
+- lzx
+- bz2
+- zip
+- rar
+- 7z
+- xz
+
 > Extract archive
 
 ```

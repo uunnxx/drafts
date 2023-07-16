@@ -142,3 +142,6 @@ sudo make install
 
 `/usr/local/lib/python3.8/dist-packages/cv2`
 
+- [Apertium is a free/open-source platform for developing rule-based machine translation systems!](https://wiki.apertium.org/wiki/Main_Page)
+- [Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn)
+- [https://github.com/localstack/localstack](A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!)
