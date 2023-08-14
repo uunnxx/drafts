@@ -112,6 +112,7 @@
 - [Carbon](https://github.com/carbon-language/carbon-lang)
 - [V](https://vlang.io/)
 - [Crystal](https://crystal-lang.org/)
+- [Scala](https://www.scala-lang.org/)
 
 
 ### System Design

@@ -137,3 +137,26 @@
 ## NOTE
 - 1k LUVda, qttiqrq trsin, says
     - keep in mind
+
+
+#### Search Engines
+- [Brave](search.brave.com)
+- [Kagi](kagi.com) $25/month
+- [DuckDuckGo](duckduckgo.com)
+
+
+#### Extensions
+- Dark Reader
+- DeArrow
+- Bitwarden
+- cVim
+- Merge Windows
+- Saka
+- The Marvellous Suspender
+- Education:
+    - Yomichan
+    - rikaikun
+    - Slava Russian Dictionary
+    - Language Reactor
+    - DeepL
+
