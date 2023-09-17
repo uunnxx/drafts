@@ -51,3 +51,21 @@ https://animego.org/anime/ledyanoy-paren-i-klassnaya-devushka-kollega-2235
 | Yama no Susume: Next Summit                                       |               |         |          |         |         |         |
 | Zashiki Warashi no Tatami-chan                                    |      `x`      |         |          |         |         |         |
 | Квест на фоне сакуры (2017)                                       |               |         |          |         |         |         |
+| Break Blade                                                       |               |         |          |         |         |         |
+| My Little Sister is Among Them                                    |               |         |          |         |         |         |
+| Sakura Kakumei: Hanasaku Otome-tachi 0                            |               |         |          |         |         |         |
+| Blame!                                                            |               |         |          |         |         |         |
+| Imaizumin Chi wa Douyara                                          |               |         |          |         |         |         |
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,19 +1,23 @@
 ## Python Roadmap
 
-#### Books:
+
+### Books:
 
 
-### Notes:
-#### Sites
+### Sites
 - [Real Python](https://realpython.com/learning-paths/)
 - [Learn Python](https://github.com/MrBlaise/learnpython)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
 - [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)
 - [RIP Tutorial](https://riptutorial.com/python)
-
-
-#### Secondary sites
 - [Koans](https://github.com/gregmalcolm/python_koans)
+
+
+### Articles
+- [Induction, Recursion, and Reduction](https://marquis08.github.io/pythonalgorithms/chapter4-part1/)
+- [Фильтр нецензурной лексики за 5 минут](https://habr.com/ru/sandbox/145868/)
+- [Если вы решили перейти с PHP на Python](https://habr.com/ru/company/lesta_studio/blog/221035/)
+- [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
 
 
 #### Tutorials
@@ -22,35 +26,20 @@
 - [Crash into Python](https://stephensugden.com/crash_into_python)
 - [Operators and Expressions](https://python.swaroopch.com/op_exp.html)
 - [FreeCodeCamp](https://www.freecodecamp.org/news/tag/python)
+- OOP
+    - [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/)
+    - [Understand your Python code with this Open Source Visualization Tool](https://opensource.com/article/20/11/python-code-viztracer)
+    - [VizTracer is a Low-overhead Logging / Debugging / Profiling Tool that can Trace and Visualize your Python Code Execution](https://github.com/gaogaotiantian/viztracer)
 
 
 #### Style Guide
 - [PEP8](https://peps.python.org/pep-0008/)
 - [mypy](https://mypy-lang.org/)
 
----
-
-- [Induction, Recursion, and Reduction](https://marquis08.github.io/pythonalgorithms/chapter4-part1/)
-
-### Visualizer
-- [Visualizer](https://pythontutor.com/)
-
 
 ### Interview Questions
 - [Python Interview Questions](https://adevait.com/python/interview-questions)
 - [Python Interview Questions. Part III.](https://luminousmen.com/post/python-interview-questions-senior)
-
-
-### OOP
-- [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/)
-- [Understand your Python code with this open source visualization tool](https://opensource.com/article/20/11/python-code-viztracer)
-- [VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution](https://github.com/gaogaotiantian/viztracer)
-
-
-### Articles
-- [Фильтр нецензурной лексики за 5 минут](https://habr.com/ru/sandbox/145868/)
-- [Если вы решили перейти с PHP на Python](https://habr.com/ru/company/lesta_studio/blog/221035/)
-- [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
 
 
 ### Packages:
@@ -61,7 +50,7 @@
     - [Flask](https://flask.palletsprojects.com/en/2.3.x/)
     - [FastAPI](https://fastapi.tiangolo.com/)
     - [Nameko](https://nameko.readthedocs.io/en/stable/index.html)
-        - [Official](https://github.com/nameko/nameko)
+        - [github](https://github.com/nameko/nameko)
     - [falcon](https://falcon.readthedocs.io/en/stable/index.html)
 - [Playwright](https://playwright.dev/python/)
 - [Selenium](https://www.selenium.dev/)
@@ -70,26 +59,26 @@
 - [scapy](https://scapy.net/)
 
 #### NETWORK
-- [waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/index.html)
-- [twisted](https://twisted.org/)
+- [waitress: Pure-Python WSGI Server](https://docs.pylonsproject.org/projects/waitress/en/stable/index.html)
+- [An Event-Driven Networking Engine](https://twisted.org/)
 - [requests](https://requests.readthedocs.io/en/latest/)
 - [aiohttp](https://docs.aiohttp.org/en/stable/)
-- [HTTPx: A next generation HTTP client for Python](https://github.com/encode/httpx/)
+- [HTTPx: A Next Generation HTTP Client for Python](https://github.com/encode/httpx/)
 - [httpie](https://httpie.org)
 
 #### ORM & DB
 - [SQLAlchemy](https://www.sqlalchemy.org/)
-- [Ormar](https://collerek.github.io/ormar/)
-- [Tortoise](https://github.com/tortoise/tortoise-orm)
-- [Piccolo](https://piccolo-orm.com/)
-- [PsycoPG](https://www.psycopg.org/)
-- [Pure-Python implementation of the AMQP 0-9-1 protocol](https://pika.readthedocs.io/en/stable/)
+- [Ormar: An Async mini ORM for Python (PostgreSQL, MySQL, SQLite)](https://collerek.github.io/ormar/)
+- [Tortoise: Familiar asincio ORM for Python, Built with Relations in Mind](https://github.com/tortoise/tortoise-orm)
+- [Piccolo: A Powerful Async ORM, Query Builder, and Admin GUI](https://piccolo-orm.com/)
+- [PsycoPG: PostgreSQL Adapter](https://www.psycopg.org/)
+- [Pure-Python Implementation of the AMQP 0-9-1 Protocol](https://pika.readthedocs.io/en/stable/)
 
 #### LOGGING
 - [loguru - logging](https://github.com/Delgan/loguru)
 
 #### CACHE
-- [MEMCACHE: A comprehensive, fast, pure-Python memcached client.](https://github.com/pinterest/pymemcache)
+- [MEMCACHE: A Comprehensive, Fast, Pure-Python Memcached Client.](https://github.com/pinterest/pymemcache)
 
 #### TEST
 - [pytest](https://github.com/pytest-dev/pytest/)
@@ -97,7 +86,7 @@
 - [Faker](https://github.com/joke2k/faker)
 
 #### BG TASK
-- [Dramatiq: background tasks](https://dramatiq.io/)
+- [Dramatiq: Background Tasks](https://dramatiq.io/)
 - [Celery - Distributed Task Queue](https://docs.celeryq.dev/en/stable/index.html)
 
 #### DATA-SCIENCE
@@ -114,6 +103,7 @@
 - [scipy](https://scipy.org/)
 
 #### Etc
+- [Visualizer](https://pythontutor.com/)
 - [VizTracer](https://github.com/gaogaotiantian/viztracer)
     ```
     pip install viztracer
@@ -121,18 +111,19 @@
     ```
 - [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
 - [pydantic](https://docs.pydantic.dev/)
-- [ujson](https://github.com/ultrajson/ultrajson)
+- [ujson: Ultra Fast JSON Decoder and Encoder Written in C with Python Bindings](https://github.com/ultrajson/ultrajson)
 - [simplejson](https://simplejson.readthedocs.io/en/latest/)
 
 ##### ASYNC & PARALLEL
 - [uvloop](https://github.com/MagicStack/uvloop)
-- [Coroutine-based concurrency library for Python](https://github.com/gevent/gevent)
+- [Coroutine-based Concurrency Library for Python](https://github.com/gevent/gevent)
 
 #### GENERAL
 - [Boltons](https://github.com/mahmoud/boltons)
 
 #### Django
-- [Django Channels HTTP/WebSocket server](https://github.com/django/daphne)
+- [Django Channels HTTP/WebSocket Server](https://github.com/django/daphne)
+
 
 #### Telegram:
 - [Aasynchronous Framework for Telegram](https://github.com/aiogram/aiogram)
@@ -153,71 +144,6 @@
 - Advanced Python
 - Python - Beyond the Basics
 - Python3 Programming Specialization
-
-
-#### Anti-Patterns
-- Not using named tuples in function return
-    ```
-    # Bad code sample
-    def get_name():
-        return "Richard", "Jones"
-
-    name = get_name()
-    print(name[0], name[1])
-
-    # Good code sample
-    from collections import namedtuple
-
-    def get_name():
-        name = namedtuple("name", ["first", "last"])
-        return name("Richard", "Jones")
-
-    name = get_name()
-    print(name.first, name.last)
-    ```
-- Using `type()` to compare types
-    ```
-    # Bad code sample
-    c = Circle(2)
-    r = Rectangle(3, 4)
-    if type(r) is not type(c):
-        print("object types don't match")
-
-    # Good code sample
-    r = Rectangle(3, 4)
-    if isinstance(r, types.ListType):
-        print("object r is a list")
-    ```
-- Not using `get()` to return a default value from a dict
-    ```
-    # Bad code sample
-    dictionary = {"message": "Hello!"}
-    data = ""
-
-    if "message" in dictionary:
-        data = dictionary["message"]
-
-    print(data)
-
-    # Good code sample
-    dictionary = {"message": "Hello!"}
-    data = dictionary.gett("message", "")
-    print(data)
-    ```
-- Return more than one variable type in function calls
-    ```
-    # Bad code sample
-    def get_secret_code(password):
-        if password != "bicycle":
-            return None
-        return 42
-
-    # Good code sample
-    def get_secret_code(password):
-        if password != "bicycle":
-            raise ValueError
-        return 42
-    ```
 
 
 ### Etc

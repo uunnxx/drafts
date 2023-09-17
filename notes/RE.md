@@ -14,6 +14,7 @@ https://web.archive.org/web/20210217192600/https://artik.blue/reversing
 - [Yet Another Crippled Decompiler Project](https://github.com/pfalcon/ScratchABlock)
 - [Online DisAssembler(ODA)](https://github.com/syscall7/oda)
     - https://onlinedisassembler.com/static/home/index.html
+- [LLDB](https://lldb.llvm.org/)
 
 ## Forensics
 - [Using procfs For Forensics and Incident Response](https://dmfrsecurity.com/2021/02/23/using-procfs-for-forensics-and-incident-response/)

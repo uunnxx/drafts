@@ -13,7 +13,7 @@
     - Sioyek
     - gv
 - EPUB reader:
-    - com.github.johnfactotum.Foliate
+    - Calibre
 - spell check
     - write-good  `npm package`
     - aspell      `linux`
@@ -24,7 +24,8 @@
     - fossil
 - string manipulation
     - [String Manipulation `sttr`](https://snapcraft.io/sttr)
-- [A modal keyboard-driven virtual pointer](https://github.com/rvaiya/warpd) MOUSLESS
+- [A modal keyboard-driven virtual pointer: MOUSLESS](https://github.com/rvaiya/warpd) 
+- [Linux GUI for Yandex.Disk](https://github.com/abbat/ekstertera)
 
 ------------------------------------------------------------------------
 
@@ -37,8 +38,10 @@
 - https://app.diagrams.net/
 
 
-------------------------------------------------------------------------
+## Benchmarking
 - [Perfer: High performance HTTP benchmarking tool](https://github.com/ohler55/perfer)
+- [hyperfine: Benchmarking tool](https://github.com/sharkdp/hyperfine)
+- perf - Performance analysis tools for Linux
 
 ------------------------------------------------------------------------
 - [A utility tool powered by fzf for using git interactively](https://github.com/wfxr/forgit)
@@ -70,14 +73,18 @@
 - Qalculate!
 
 
-------------------------------------------------------------------------
+## Reverse Engineering
 - Binary Ninja
 - radare2
+    - Cutter
+    - iaito
+
 
 ## Etc
 - xwinwrap
 - vintoy
 - Balena Etcher
+
 ------------------------------------------------------------------------
 - [Projects written in Bourne Shell](https://github.com/terminalforlife/Extra)
 ------------------------------------------------------------------------
@@ -87,6 +94,7 @@
 - Google Translator CLI
     `wget git.io/trans`
     `chmod +x ./trans`
+
 
 ## Android Apps
 - [Android Sudoku Solver](https://github.com/hypertensiune/Android-Sudoku-Solver-OCR)

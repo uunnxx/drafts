@@ -7,6 +7,7 @@
     - https://www.tecmint.com/install-fail2ban-rocky-linux-almalinux/
 - moreutils
     - https://joeyh.name/code/moreutils/
+- [strace: Linux syscall tracer](https://strace.io)
 
 
 ### Links

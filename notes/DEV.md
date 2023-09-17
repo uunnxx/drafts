@@ -122,6 +122,7 @@
 ## Software Architecture
 - ActivityPub
 - Zero Trust Architecture [based on the principle of `never trust, always verify` as opposed to the traditional `trust, but verify`]
+- [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 
 
 ### SEARCH

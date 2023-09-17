@@ -1,1 +1,2 @@
 - [What is the purpose of .PHONY in a Makefile?](https://stackoverflow.com/questions/2145590/what-is-the-purpose-of-phony-in-a-makefile)
+- [GNU `make` `.PHONY`](https://www.gnu.org/software/make/manual/make.html#Phony-Targets)
