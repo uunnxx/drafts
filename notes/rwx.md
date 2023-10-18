@@ -65,7 +65,7 @@ __File Types:__ (ls -lah)
 | `p`       | `rwx` | `rwx` | `rwx` | `p` :FIFO (name pipe)                        |
 | `P`       | `rwx` | `rwx` | `rwx` | `P` :Port (Solaris 10 and up)                |
 | `s`       | `rwx` | `rwx` | `rwx` | `s` :Socket                                  |
-| `?`       | `rwx` | `rwx` | `rwx` | `?` : Some other filetype                    |
+| `?`       | `rwx` | `rwx` | `rwx` | `?` :Some other filetype                     |
 
 
 __DECIMAL TO HEX:__

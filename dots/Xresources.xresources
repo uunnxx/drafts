@@ -11,15 +11,15 @@ URxvt*scrollTtyOutput:      false
 URxvt*scrollWithBuffer:     false
 URxvt*scrollstyle:          plain
 URxvt*secondaryScroll:      true
-URxvt.iso14755:				false
+URxvt.iso14755:        false
 URxvt.perl-ext-common: default, pasta, selection-to-clipboard, matcher, keyboard-select
-URxvt.keysum.M-u:			perl:url-select:select_next
-URxvt.url-launcher:			/usr/bin/firefox
-URxvt.underlineURLs:		true
-URxvt.matcher.button:		1
+URxvt.keysum.M-u:      perl:url-select:select_next
+URxvt.url-launcher:      /usr/bin/firefox
+URxvt.underlineURLs:    true
+URxvt.matcher.button:    1
 URxvt.keysym.M-Escape:perl:keyboard-select:activate
 URxvt.keysym.Control-Shift-V: perl:pasta:paste
-URxvt.clipboard.autocopy:	true
+URxvt.clipboard.autocopy:  true
 URxvt.keysym.Shift-Control-C: perl:clipboard:copy
 URxvt.keysym.Shift-Control-V: perl:clipboard:paste
 ! URxvt.iconFile:             /usr/share/icons/elementary/apps/24/terminal.svg
@@ -56,7 +56,7 @@ Xft.lcdfilter:  lcddefault
 !*.color15:    #E6E6E6
 
 ! Dzen2
-dzen2.font:	-*-fixed-*-*-*-*-*-*-*-*-*-*-*-*
+dzen2.font:  -*-fixed-*-*-*-*-*-*-*-*-*-*-*-*
 dzen2.foreground: #22EE11
 dzen2.background: black
 
