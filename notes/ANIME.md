@@ -55,7 +55,7 @@ https://animego.org/anime/ledyanoy-paren-i-klassnaya-devushka-kollega-2235
 | My Little Sister is Among Them                                    |               |         |          |         |         |         |
 | Sakura Kakumei: Hanasaku Otome-tachi 0                            |               |         |          |         |         |         |
 | Blame!                                                            |               |         |          |         |         |         |
-| Imaizumin Chi wa Douyara                                          |               |         |          |         |         |         |
+| Imaizumin Chi wa Douyara                                          |               |         |          |         |  Hentai |         |
 
 
 

@@ -10,6 +10,8 @@
     - `%s/ /Ctrl+v Return/g [Ctrl+Q (Windows version of Ctrl+v)]`
     - `:1,$s/\ /\n/g [:1,$s/\ /\r/g for windows]`
 - [Neovim, LaTeX and Zathura in perfect harmony](https://dev.to/preciouschicken/neovim-latex-and-zathura-in-perfect-harmony-4d7d)
+- [Vim sort](https://www.linuxtutorials.org/sort-vim/)
+- [Vim sort (stackoverflow)](https://stackoverflow.com/questions/1355004/how-to-sort-numeric-and-literal-columns-in-vim)
 
 
 ### HELP

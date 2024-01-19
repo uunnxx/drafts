@@ -31,11 +31,13 @@
 
 - [Run local CI builds and validate configuration](https://snapcraft.io/circleci)
 - [Visualizer for neural network, deep learning, and machine learning models](https://snapcraft.io/netron)
-- Beekeeper-studio
+- Beekeeper Studio [SQL]
 
 ------------------------------------------------------------------------
 - https://excalidraw.com/
 - https://app.diagrams.net/
+- Postman
+- Insomnia
 
 
 ## Benchmarking
@@ -55,6 +57,9 @@
 - portmaster
 - bpytop [htop alternative `pip install bpytop`]
 - [mprocs: Run multiple commands in parallel](https://github.com/pvolok/mprocs)
+- ttop
+- nvtop
+- nvitop
 
 ## Productivity apps
 - porsmo (`cargo install porsmo`)

@@ -141,6 +141,7 @@
 
 #### recom. courses
 - Core Python Paths
+- Python Deep Dive
 - Advanced Python
 - Python - Beyond the Basics
 - Python3 Programming Specialization
@@ -148,3 +149,7 @@
 
 ### Etc
 `list({*arr1, *arr2})`
+
+
+> `entr` rerun python file on change event
+`ls main.py | entr python main.py`

@@ -42,6 +42,7 @@
     - https://github.com/collectiveidea/interactor
 - [~] Intercepting Filter Pattern
 - [x] MVC Pattern
+- [x] MVT Pattern
 - [x] Service Locator Pattern
 - [x] Transfer Object Pattern
 - [x] Repository Pattern

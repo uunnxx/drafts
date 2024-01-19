@@ -15,7 +15,7 @@
 - [](https://ops.tips/)
 - [Strace в Linux: история, устройство и использование](https://habr.com/ru/company/badoo/blog/493856/)
 - [Using C to inspect Linux syscalls](https://ops.tips/gists/using-c-to-inspect-linux-syscalls/)
-- [io_uring](https://en.wikipedia.org/wiki/Io_uring)
+- [io_uring](https://en.wikipedia.org/wiki/Io_uring) Linux Epoll Alternative
 
 
 ### PC Settings
