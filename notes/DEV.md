@@ -6,7 +6,8 @@
 - RPC
 - RabbitMQ
 - Redis
-- LavinMQ
+- [LavinMQ](https://lavinmq.com/)
+- [ZeroMQ](https://zeromq.org/)
 - [Prometheus: From metrics to insight](https://prometheus.io/)
 - [Grafana: Operational dashboards for your data](https://grafana.com/)
 

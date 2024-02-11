@@ -13,6 +13,10 @@
 - [Koans](https://github.com/gregmalcolm/python_koans)
 
 
+### Blogs:
+- [REVSYS Blogs](https://www.revsys.com/tidbits/)
+
+
 ### Articles
 - [Induction, Recursion, and Reduction](https://marquis08.github.io/pythonalgorithms/chapter4-part1/)
 - [Фильтр нецензурной лексики за 5 минут](https://habr.com/ru/sandbox/145868/)
@@ -48,6 +52,7 @@
 - Frameworks
     - [Django](https://www.djangoproject.com/)
     - [Flask](https://flask.palletsprojects.com/en/2.3.x/)
+    - [Quart](https://quart.palletsprojects.com/en/latest/)
     - [FastAPI](https://fastapi.tiangolo.com/)
     - [Nameko](https://nameko.readthedocs.io/en/stable/index.html)
         - [github](https://github.com/nameko/nameko)
@@ -114,7 +119,7 @@
 - [ujson: Ultra Fast JSON Decoder and Encoder Written in C with Python Bindings](https://github.com/ultrajson/ultrajson)
 - [simplejson](https://simplejson.readthedocs.io/en/latest/)
 
-##### ASYNC & PARALLEL
+#### ASYNC & PARALLEL
 - [uvloop](https://github.com/MagicStack/uvloop)
 - [Coroutine-based Concurrency Library for Python](https://github.com/gevent/gevent)
 
