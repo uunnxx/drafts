@@ -128,6 +128,7 @@
 
 #### Django
 - [Django Channels HTTP/WebSocket Server](https://github.com/django/daphne)
+- [Django Logs | grc colorization](https://github.com/garabik/grc/issues/142)
 
 
 #### Telegram:
@@ -142,6 +143,10 @@
 #### NLTK
 - [NLTK Playlist](https://www.youtube.com/watch?v=QpzMWQvxXWk&list=PL7RwtdVQXQ8o6CYe1Teo7FzkrQQoT0c9i)
 - [NLKT Python Tutorial](https://www.youtube.com/watch?v=XFoehWRzG-I)
+
+
+#### Etc
+- [Lazy f-strings for everyone](https://github.com/pomponchik/fazy)
 
 
 #### recom. courses

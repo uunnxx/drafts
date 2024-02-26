@@ -1,0 +1,5 @@
+- Actor Model
+- [Dependent Type](https://en.wikipedia.org/wiki/Dependent_type)
+- [Quantitative Type Theory (QTT)](https://bentnib.org/quantitative-type-theory.html)
+- [Concatenative Programming Language](https://en.wikipedia.org/wiki/Concatenative_programming_language)
+    - [Concatenative.org](https://concatenative.org/wiki/view/Front%20Page)

@@ -3,14 +3,17 @@
 
 - [Memcached](https://memcached.org)
 - [github: Memcached](https://github.com/memcached/memcached)
-- RPC
-- RabbitMQ
-- Redis
+- [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call)
+- [Redis](https://redis.io/)
+- [RabbitMQ](https://www.rabbitmq.com/)
 - [LavinMQ](https://lavinmq.com/)
 - [ZeroMQ](https://zeromq.org/)
 - [Prometheus: From metrics to insight](https://prometheus.io/)
 - [Grafana: Operational dashboards for your data](https://grafana.com/)
 
+-------
+- [RabbitMQ vs. Kafka vs. ActiveMQ: A Battle of Messaging Brokers](https://www.designgurus.io/blog/rabbitmq-kafka-activemq-system-design)
+-------
 
 ### Sites
 - [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
@@ -114,6 +117,7 @@
 - [V](https://vlang.io/)
 - [Crystal](https://crystal-lang.org/)
 - [Scala](https://www.scala-lang.org/)
+- [Idris](https://github.com/idris-lang/Idris2)
 
 
 ### System Design

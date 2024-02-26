@@ -56,7 +56,7 @@
 - [A syntax-highlighting pager for git, diff, and grep output](https://github.com/dandavison/delta)
 - ncdu
 - [View disk space usage and delete unwanted data, fast](https://github.com/Byron/dua-cli)
-- duf
+- [duf](https://github.com/muesli/duf)
 - dupeguru
 - cod `go get -u github.com/dim-an/cod`
 - i3keys
