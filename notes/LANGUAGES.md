@@ -1,0 +1,2 @@
+redep:
+    - Arabic
