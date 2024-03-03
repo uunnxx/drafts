@@ -39,6 +39,8 @@
 - Postman
 - Insomnia
 
+## Debugger
+- [rr. C/C++ Primary Debugging tool for Linux](https://rr-project.org/)
 
 ------------------------------------------------------------------------
 - QEMU
