@@ -1,4 +1,6 @@
-## Resources
+## Docker Related
+
+### Resources
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Dockerized GitLab](https://github.com/sameersbn/docker-gitlab)
@@ -6,9 +8,17 @@
 - [Automated nginx proxy for Docker containers using docker-gen](https://github.com/nginx-proxy/nginx-proxy)
 
 
-## StackOverflow
+### StackOverflow
 - [How to start a stopped Docker container with a different command?](https://stackoverflow.com/questions/32353055/how-to-start-a-stopped-docker-container-with-a-different-command)
 
+
+### Dockerize
+[Let's Dockerize your Django & React.JS App](https://dev.to/adii9/lets-dockerize-your-django-react-js-app-4k23)
+
+
+
+### Articles
+- [Docker with PostgreSQL](https://dev.to/obrotoks/docker-with-postgres-1086)
 
 ```
 #------------------------------------------------------------------------------

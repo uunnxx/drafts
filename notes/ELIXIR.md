@@ -10,3 +10,6 @@
 - [Customizing IEx for Elixir Nerves target device](https://dev.to/mnishiguchi/customizing-iex-for-elixir-nerves-target-device-1amg)
 - [Why I Love Elixir As a Long Time Python User](https://dev.to/abdurrahmaanj/why-i-love-elixir-as-a-long-time-python-user-19ph)
 - [Building a game server in elixir](https://dev.to/sushant12/building-a-game-server-in-elixir-27of)
+
+
+- [hex](https://hex.pm/)
