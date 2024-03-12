@@ -1,4 +1,4 @@
-## DEV
+## DEV Related
 
 
 - [Memcached](https://memcached.org)
@@ -44,7 +44,7 @@
 - [Oh Shit, Git](https://ohshitgit.com/)
 
 
-### Dev notes
+### Notes
 - [Recipes](https://code.activestate.com/recipes/)
 - [What is a Higher-Order Function?]( https://typeofnan.dev/what-is-a-higher-order-function/)
 - [Bit Twiddling Hacks](http://www-graphics.stanford.edu/~seander/bithacks.html#ParityParallel)
@@ -56,14 +56,15 @@
 - [Write down the problem. Think real hard. Write down the solution.(note: worthy of attention)](https://marquis08.github.io/)
 
 
-### Dev Articles
+### Articles
 - [Lessons Learned from Previous Project](https://blog.frankel.ch/lessons-learned-previous-projects/)
 - [6 Algorithms Every Developer Should Know](https://medium.com/dare-to-be-better/6-algorithms-every-developer-should-know-f78b609c7e7c)
 - [Code Interview](https://www.freecodecamp.org/learn/coding-interview-prep)
 - [Scaling Dumb Fuzzing with Kubernetes](https://archcloudlabs.com/projects/dumb_fuzzing)
-- https://rednosehacker.com/
+- [Red Nose Hacker](https://rednosehacker.com/)
 - http://rebekahheacock.org/
 - [Exponentiation with minimum number of multiplication](https://scribe.rip/swlh/exponentiation-with-minimum-number-of-multiplication-122f50fcff49)
+- [Internal Pointers](https://www.internalpointers.com/)
 
 
 ### Development
@@ -165,3 +166,7 @@
 -------------------------------------------------------------------------------
 
 - IPC: Inter-Process Communication
+
+
+Diagrams
+    - https://mermaid.js.org

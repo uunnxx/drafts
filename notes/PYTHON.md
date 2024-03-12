@@ -22,6 +22,7 @@
 - [Фильтр нецензурной лексики за 5 минут](https://habr.com/ru/sandbox/145868/)
 - [Если вы решили перейти с PHP на Python](https://habr.com/ru/company/lesta_studio/blog/221035/)
 - [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
+- [Python — серьезный язык для разработки backend](https://habr.com/ru/companies/raiffeisenbank/articles/593047/)
 
 
 #### Tutorials
@@ -34,6 +35,11 @@
     - [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/)
     - [Understand your Python code with this Open Source Visualization Tool](https://opensource.com/article/20/11/python-code-viztracer)
     - [VizTracer is a Low-overhead Logging / Debugging / Profiling Tool that can Trace and Visualize your Python Code Execution](https://github.com/gaogaotiantian/viztracer)
+- Functions
+    - [All the Kinds of Functions in Python](https://blog.boot.dev/stories/a-guide-to-all-the-types-of-functions-in-python/)
+- [Duck Typing in Python](https://www.pythonmorsels.com/duck-typing/?utm_source=drip&utm_medium=email&utm_campaign=weekly+email+-+2023-12-13&utm_content=Weekly+Python+tip%3A+converting+lists+to+strings)
+- [Polymorphism in Python](https://pynative.com/python-polymorphism/)
+
 
 
 #### Style Guide
@@ -78,6 +84,7 @@
 - [Piccolo: A Powerful Async ORM, Query Builder, and Admin GUI](https://piccolo-orm.com/)
 - [PsycoPG: PostgreSQL Adapter](https://www.psycopg.org/)
 - [Pure-Python Implementation of the AMQP 0-9-1 Protocol](https://pika.readthedocs.io/en/stable/)
+- [PyMongo: MongoDB](https://pymongo.readthedocs.io/en/stable/)
 
 #### LOGGING
 - [loguru - logging](https://github.com/Delgan/loguru)
@@ -150,7 +157,7 @@
 - [Lazy f-strings for everyone](https://github.com/pomponchik/fazy)
 
 
-#### recom. courses
+### recom. courses
 - Core Python Paths
 - Python Deep Dive
 - Advanced Python
