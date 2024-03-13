@@ -3,6 +3,9 @@
 
 
 
+### Library
+- [A C++ 20 Library for Sequency-Oriented Programming](https://github.com/tcbrindle/flux)
+
 
 
 

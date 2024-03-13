@@ -1,4 +1,6 @@
-# Design Patterns:
+## Design Patterns:
+
+
 
 [group by]
 - Structural Patterns
@@ -55,6 +57,18 @@
 
 -------------------------------------------------------------------------------
 
+- [SOLID](https://en.wikipedia.org/wiki/SOLID)
+
+-------------------------------------------------------------------------------
+
+- [Separation of Concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+
+
+-------------------------------------------------------------------------------
+
+
+- [Implementing The Repository Pattern (part 1)](https://dddinpython.com/index.php/2022/09/23/implementing-the-repository-pattern/)
+- [Implementing the Repository Pattern using SQLAlchemy (part 2)](https://dddinpython.com/index.php/2022/11/09/implementing-the-repository-pattern-using-sqlalchemy/)
 
 
 - [Шпаргалка по шаблонам проектирования](https://habr.com/ru/articles/210288/)
