@@ -7,6 +7,7 @@
 - [Redis](https://redis.io/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [LavinMQ](https://lavinmq.com/)
+    - [Docs](https://lavinmq.com/documentation/getting-started)
 - [ZeroMQ](https://zeromq.org/)
 - [Prometheus: From metrics to insight](https://prometheus.io/)
 - [Grafana: Operational dashboards for your data](https://grafana.com/)

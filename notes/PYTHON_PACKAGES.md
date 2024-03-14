@@ -23,6 +23,7 @@
 - [aiohttp](https://docs.aiohttp.org/en/stable/)
 - [HTTPx: A Next Generation HTTP Client for Python](https://github.com/encode/httpx/)
 - [httpie](https://httpie.org)
+- [A Python Wrapper Around the OpenSSL Library](https://github.com/pyca/pyopenssl)
 
 
 ### ORM & DB
@@ -47,6 +48,7 @@
 - [pytest](https://github.com/pytest-dev/pytest/)
 - [BDD](https://github.com/behave/behave)
 - [Faker](https://github.com/joke2k/faker)
+- [Wraps any WSGI Application and Makes it Easy to Send Test Requests](https://github.com/Pylons/webtest)
 
 
 ### BG TASK
@@ -92,6 +94,7 @@
 
 ### GENERAL
 - [Boltons](https://github.com/mahmoud/boltons)
+    - [Docs](https://boltons.readthedocs.io/en/latest/index.html)
 
 
 ### Django
@@ -116,3 +119,11 @@
 
 ### Etc
 - [Lazy f-strings for everyone](https://github.com/pomponchik/fazy)
+
+
+
+## STD Libraries
+- [functools](https://docs.python.org/3/library/functools.html)
+- [itertools: Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html)
+- [heapq: Heap Queue Algorithm](https://docs.python.org/3/library/heapq.html#module-heapq)
+- [pickle: Python Object Serialization](https://docs.python.org/3/library/pickle.html)
