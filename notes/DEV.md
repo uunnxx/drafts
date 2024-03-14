@@ -171,3 +171,9 @@
 
 Diagrams
     - https://mermaid.js.org
+
+
+
+- [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+- [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+    - [Understanding CORS](https://itnext.io/understanding-cors-4157bf640e11)

@@ -28,6 +28,9 @@
 - [Linux GUI for Yandex.Disk](https://github.com/abbat/ekstertera)
 
 ------------------------------------------------------------------------
+- [abduco: Session Management (tmux like)](https://github.com/martanne/abduco)
+- [dvtm: dynamic virtual terminal manager](https://github.com/martanne/abduco)
+------------------------------------------------------------------------
 
 - [Run local CI builds and validate configuration](https://snapcraft.io/circleci)
 - [Visualizer for neural network, deep learning, and machine learning models](https://snapcraft.io/netron)

@@ -5,7 +5,15 @@
 
 #### REST
 - [REST API Design Best Practices](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
-- [REST API  Best Practices: A Guide to Building Robust APIs with Python](https://medium.com/@osvaldogarcia_67748/rest-api-best-practices-a-guide-to-building-robust-apis-with-python-67f283003ebf)
+- [REST API Best Practices: A Guide to Building Robust APIs with Python](https://medium.com/@osvaldogarcia_67748/rest-api-best-practices-a-guide-to-building-robust-apis-with-python-67f283003ebf)
+- [Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+- [Проектирование RESTful API с помощью Python и Flask](https://habr.com/ru/articles/246699/)
+- [Полноценный REST API для перфекционистов за 5 минут](https://habr.com/ru/articles/276731/)
+- [Python and REST APIs: Interacting with Web Services](https://realpython.com/api-integration-in-python/)
+- [Python REST APIs with Flask, Connexion, and SQLAlchemy - Part I](https://realpython.com/flask-connexion-rest-api/)
+- [Python REST APIs with Flask, Connexion, and SQLAlchemy - Part II](https://realpython.com/flask-connexion-rest-api-part-2/)
+- [Python REST APIs with Flask, Connexion, and SQLAlchemy - Part III](https://realpython.com/flask-connexion-rest-api-part-3/)
+- [The Right Way to Build an API with Python](https://towardsdatascience.com/the-right-way-to-build-an-api-with-python-cd08ab285f8f)
 
 
 ### Microservices

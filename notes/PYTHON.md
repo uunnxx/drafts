@@ -5,6 +5,7 @@
 
 
 ### Sites
+- [Awesome Python](https://github.com/vinta/awesome-python)
 - [Real Python](https://realpython.com/learning-paths/)
 - [Learn Python](https://github.com/MrBlaise/learnpython)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
@@ -29,6 +30,15 @@
 #### Parallel, Coroutines and Concurrency
 - [A Curious Course on Coroutines and Concurrency](https://www.dabeaz.com/coroutines/)
 - [An In-Depth Guide to `asyncio` and `await` in Python](https://medium.com/@danielwume/an-in-depth-guide-to-asyncio-and-await-in-python-059c3ecc9d96)
+- [Introduction to Multi-Threading vs Multi-Processing (Part 1)](https://medium.com/@jonathantan12/multi-threading-vs-multi-processing-with-python-examples-e56d71b2ed69)
+- [Introduction to Multi-Threading vs Multi-Processing (Part 2)](https://medium.com/@jonathantan12/introduction-to-multi-threading-and-multi-processing-in-python-part-2-0d23428871cb)
+- asyncio
+    - [asyncio: Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
+    - [Python Async Function](https://blog.finxter.com/python-async-function/)
+    - [Effective Python Async like a Pro](https://guicommits.com/effective-python-async-like-a-pro/)
+
+
+
 
 
 
@@ -71,6 +81,8 @@
 - [Understanding Classes in Python: From Templates to Objects](https://medium.com/@noransaber685/understanding-classes-in-python-from-templates-to-objects-8fa920aad3a1)
 - [Super Inherit Yoru Python Class](https://elfi-y.medium.com/super-inherit-your-python-class-196369e3377a)
 - [Inheritance in Python with Abstract Base Class](https://elfi-y.medium.com/inheritance-in-python-with-abstract-base-class-abc-5e3b8e910e5e)
+
+- [How to Write Memory Efficient Classes in Python](https://towardsdatascience.com/how-to-write-memory-efficient-classes-in-python-beb90811abfa)
 
 - [Python Properties and Class Methods](https://elfi-y.medium.com/python-properties-and-class-methods-a6c7ad69b0f1)
 
