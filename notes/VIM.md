@@ -12,6 +12,8 @@
 - [Neovim, LaTeX and Zathura in perfect harmony](https://dev.to/preciouschicken/neovim-latex-and-zathura-in-perfect-harmony-4d7d)
 - [Vim sort](https://www.linuxtutorials.org/sort-vim/)
 - [Vim sort (stackoverflow)](https://stackoverflow.com/questions/1355004/how-to-sort-numeric-and-literal-columns-in-vim)
+- [REST](https://github.com/rest-nvim/rest.nvim#usage)
+- [web-tools](https://github.com/ray-x/web-tools.nvim)
 
 
 ### HELP

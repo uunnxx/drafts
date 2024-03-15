@@ -10,7 +10,12 @@
 - [Does a CPU process always have at least one thread?](https://stackoverflow.com/questions/4894609/does-a-cpu-process-always-have-at-least-one-thread)
 
 #### Articles
+- [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 
+
+### Papers
+- Collection
+    - [Towards the best collection API](https://okmij.org/ftp/papers/LL3-collections-enumerators.txt)
 
 
 ------------------

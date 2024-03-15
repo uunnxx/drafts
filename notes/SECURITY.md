@@ -1,14 +1,24 @@
 ## Security Related
 
 
-### Tutorials
-- [7 Lessons, Kick-start your Cybersecurity Learning (Microsoft)](https://github.com/microsoft/Security-101)
 
+
+
+### Tutorials
+- [Awesome Hacking](https://github.com/uunnxx/Awesome-Hacking/)
+- [7 Lessons, Kick-start your Cybersecurity Learning (Microsoft)](https://github.com/microsoft/Security-101)
+- [HowToHunt](https://kathan19.gitbook.io/howtohunt/)
+    - [github](https://github.com/uunnxx/HowToHunt/tree/master)
+
+
+### Penetration Testing
+- [Penetration Testing Study Notes](https://github.com/uunnxx/Penetration-Testing-Study-Notes/tree/master)
 
 
 - Multi-factor authentication fatigue (MFA) attack
 
 
+- [How to Secure a Linux Server](https://github.com/uunnxx/How-To-Secure-A-Linux-Server)
 
 
 - [Deciphering the FileMaker Server keystore](https://davidhamann.de/2023/05/29/deciphering-the-filemaker-keystore/)

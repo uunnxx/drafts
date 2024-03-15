@@ -106,7 +106,7 @@
 - [When to use `self.foo` instead of `foo` in Ruby methods](https://newbedev.com/when-to-use-self-foo-instead-of-foo-in-ruby-methods)
 - [How and Why Should I Avoid Using Self in Ruby Method Declaration](https://stackoverflow.com/questions/38559303/how-and-why-should-i-avoid-using-self-in-a-ruby-method-declaration#38559496)
 - [Programming With Nothing](https://tomstu.art/programming-with-nothing)
-
+- [Ruby Blocks, Python's 'with', and Magpie's Test Suite](https://journal.stuffwithstuff.com/2010/09/28/ruby-blocks-pythons-with-and-magpies-test-suite/)
 - [The Power of Ruby Structs](https://dustinzeisler.com/ruby/2019/02/20/ruby-struct.html)
 
 -----------------------------

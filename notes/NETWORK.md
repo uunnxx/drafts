@@ -4,8 +4,10 @@
 - [Basic TCP/IP networking reference guide]
 
 
-### Etc
+### Articles
+- [OSI 7 Layer Model](https://www.escotal.com/osilayer.html)
 - [TCP and UPD port numbers (/etc/services) quick reference](https://www.penguintutor.com/linux/network-services-ports)
+
 
 
 ### HTTP

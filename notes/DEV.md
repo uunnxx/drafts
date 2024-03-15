@@ -2,7 +2,7 @@
 
 
 - [Memcached](https://memcached.org)
-- [github: Memcached](https://github.com/memcached/memcached)
+    - [github](https://github.com/memcached/memcached)
 - [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call)
 - [Redis](https://redis.io/)
 - [RabbitMQ](https://www.rabbitmq.com/)
@@ -17,10 +17,12 @@
 -------
 
 ### Sites
-- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [A Collection of Learning Resources for Curious Software Engineers](https://github.com/charlax/professional-programming?tab=readme-ov-file)
+- [Awesome. A Collection of Tech Resources that Allow you to Learn new Things by Playing Games](https://github.com/uunnxx/awesome-learn-by-playing)
 - [Some Useful Websites for Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [TIL (Today I Learned)](https://til.hashrocket.com/)
 - [Projects Solutions](https://github.com/karan/Projects-Solutions)
+- [CodeCademy](https://www.codecademy.com/catalog)
 
 
 ### Project ideas
@@ -30,6 +32,11 @@
 - [Project Lists](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?__cf_chl_f_tk=YiP_UbR0s4FHMJL4lTEr74Oj2f0AGI.FYJBclF5PlcQ-1642402269-0-gaNycGzNCiU)
 - [A list of practical projects that anyone can solve in any programming language](https://github.com/karan/Projects)
 - [Every time you build a to-do list app, a puppy? dies?](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/?gi=c786640fbd11)
+
+
+### Articles
+- [Iteration Inside and Out, Part 1](https://journal.stuffwithstuff.com/2013/01/13/iteration-inside-and-out/)
+- [Iteration Inside and Out, Part 2](https://journal.stuffwithstuff.com/2013/02/24/iteration-inside-and-out-part-2/)
 
 
 ### 100 Languages Speedrun
@@ -177,3 +184,7 @@ Diagrams
 - [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
 - [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
     - [Understanding CORS](https://itnext.io/understanding-cors-4157bf640e11)
+    - [MDN, CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+    - [How to win at CORS](https://jakearchibald.com/2021/cors/)
+    - [Questions About CORS](https://questions.wizardzines.com/cors.html)
+    - [Julia's Drawings: CORS](https://drawings.jvns.ca/cors/)

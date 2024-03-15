@@ -1,9 +1,20 @@
-## git related
+## GIT Related
+
+
+- [git cheat sheet](https://github.com/uunnxx/git-cheat-sheet)
 
 
 ### Learn
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Learn Git Branching](https://learngitbranching.js.org/)
+
+
+
+### Articles
+- [Modern Git Commands and Featurs you Should be Using](https://itnext.io/modern-git-commands-and-features-you-should-be-using-6ee65667e62b)
+- [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Using get-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
+
 
 
 ### Bulid yourself

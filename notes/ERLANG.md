@@ -26,9 +26,13 @@
 
 
 
+### OTP
+- [Base OTP Behaviors Presented as Schemas](https://github.com/uunnxx/otp_cheatsheet)
 
 
 ### Sources:
 [Learn You Some Erlang](https://learnyousomeerlang.com/)
     - [Modules](https://learnyousomeerlang.com/modules)
+
+
 

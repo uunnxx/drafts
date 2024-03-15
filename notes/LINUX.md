@@ -1,4 +1,4 @@
-## Linux|Unix Related
+## Linux / Unix Related
 
 
 ### APPs
@@ -63,3 +63,7 @@ lsof -iPn :8080
 tar -xvjf filename.tar.bz2
 tar -xvzf filename.tar.gz
 ```
+
+
+
+[Linux vs Unix](https://blog.stackademic.com/linux-vs-unix-bruhhh-11b08e28be6a)

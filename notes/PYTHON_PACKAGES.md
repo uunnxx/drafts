@@ -95,6 +95,7 @@
 ### GENERAL
 - [Boltons](https://github.com/mahmoud/boltons)
     - [Docs](https://boltons.readthedocs.io/en/latest/index.html)
+- [typing: Support for type hints](https://docs.python.org/3/library/typing.html)
 
 
 ### Django
@@ -127,3 +128,5 @@
 - [itertools: Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html)
 - [heapq: Heap Queue Algorithm](https://docs.python.org/3/library/heapq.html#module-heapq)
 - [pickle: Python Object Serialization](https://docs.python.org/3/library/pickle.html)
+- [attrs: Python Classes Without Boilerplate](https://www.attrs.org/en/stable/init.html)
+    - [github](https://github.com/python-attrs/attrs)

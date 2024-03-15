@@ -1,3 +1,8 @@
+## Reverse Engineering Related
+
+
+- [RE Reading List](https://github.com/uunnxx/reverseengineering-reading-list/tree/master)
+
 - [Ленивый Reverse Engineering](https://habr.com/ru/company/otus/blog/659445/)
 - [Ленивый Reverse Engineering -- Часть 2](https://habr.com/ru/company/otus/blog/660995/)
 

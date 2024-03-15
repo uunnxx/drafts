@@ -1,7 +1,13 @@
 ## System Design Related
 
+- [Awesome System Design](https://github.com/madd86/awesome-system-design)
+- [System Design Primer](https://github.com/uunnxx/system-design-primer)
+- [Azure Application Architecture Fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/)
+
 ### API
 - [API Design 101: From Basics to Best Practices](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)
+- [Best Practices for API Authorization](https://blog.bitsrc.io/best-practices-for-api-security-6d8242587caf)
+- [7 Ways to 10x Your API Performance](https://morioh.com/a/38f841c2a4c0/7-ways-to-10x-your-api-performance)
 
 #### REST
 - [REST API Design Best Practices](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
@@ -17,9 +23,18 @@
 
 
 ### Microservices
+- [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
 - [10 Microservices Design Patterns for Better Architecture](https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e)
+- [Top 10 Microservices Anti-Patterns](https://blog.bitsrc.io/10-microservice-anti-patterns-278bcb7f385d)
 
 ### Interview Questions
 - [System Design Interview Questions: Design Spotify](https://levelup.gitconnected.com/system-design-interview-question-design-spotify-4a8a79697dda)
 
+### Articles
+- [System Design: Chat Application](https://medium.com/@m.romaniiuk/system-design-chat-application-1d6fbf21b372)
 
+
+### Cloud Design Pattern
+- Messaging
+    - Priority Queue
+        - [Priority Queue Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/priority-queue)

@@ -9,6 +9,7 @@
 - [Finding the Lowest Common Ancestor](http://stoimen.com/2012/08/24/computer-algorithms-finding-the-lowest-common-ancestor/)
 - [Introduction to Red-Black Tree](https://www.geeksforgeeks.org/introduction-to-red-black-tree/)
 
+
 ##### Questions
 - [Which side do we place a node if it is equal to the parent](https://stackoverflow.com/questions/68207641/which-side-do-we-place-a-node-if-it-is-equal-to-the-parent-in-a-binary-search-tr)
 
@@ -22,6 +23,8 @@
 - [Searching Algorithms](https://medium.com/analytics-vidhya/searching-algorithms-f98e0d3fa966)
 - [How to handle duplicates in Binary Search Tree](https://www.geeksforgeeks.org/how-to-handle-duplicates-in-binary-search-tree/)
 - [Insertion in an AVL Tree](https://www.geeksforgeeks.org/insertion-in-an-avl-tree/)
+- [Почему B-деревья бытрые?](https://habr.com/ru/articles/783012/)
+
 
 #### Sorting
 - [Sorting Algorithm Classification](https://www.programmersought.com/article/57823887397/)

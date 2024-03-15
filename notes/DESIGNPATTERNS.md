@@ -1,5 +1,7 @@
 ## Design Patterns:
 
+- [Cloud Design Pattern by Microsoft Azure](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+
 
 [group by]
 - Structural Patterns
@@ -83,6 +85,7 @@
 
 
 #### Flyweight
+- [Flyweight Pattern](https://en.wikipedia.org/wiki/Flyweight_pattern)
 - [The Flyweight Design Pattern in Python](https://medium.com/@fhuseynov803/the-flyweight-design-pattern-in-python-4c2b0c7fe298)
 
 
@@ -125,10 +128,13 @@
 - [Design Patterns in Python: Iterator](https://medium.com/@amirm.lavasani/design-patterns-in-python-iterator-2d3e9917f930)
 
 
-#### Abstract Factory
-- [The Abstract Factory Design Pattern in Python](https://medium.com/@fhuseynov803/the-abstract-factory-design-pattern-in-python-b32acdb70857)
-- [Design Patterns in Python: Abstract Factory](https://medium.com/@amirm.lavasani/design-patterns-in-python-abstract-factory-2dcae06e5d29)
-
+#### Factory
+- [Factory Method vs. Factory vs. Abstract Factory](https://www.baeldung.com/cs/factory-method-vs-factory-vs-abstract-factory)
+- Abstract Factory
+    - [The Abstract Factory Design Pattern in Python](https://medium.com/@fhuseynov803/the-abstract-factory-design-pattern-in-python-b32acdb70857)
+    - [Design Patterns in Python: Abstract Factory](https://medium.com/@amirm.lavasani/design-patterns-in-python-abstract-factory-2dcae06e5d29)
+- Factory Method
+    - [The Factory Method Pattern and Its Implementation in Python](https://realpython.com/factory-method-python/)
 
 
 #### Chain of Responsibility
