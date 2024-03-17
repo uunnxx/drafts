@@ -16,6 +16,7 @@
 - [Metal I/O Library for Rust](https://github.com/tokio-rs/mio)
     - [docs](https://docs.rs/mio/latest/mio/)
 - [Bulid Reliable Network Applications without Compromising Speed](https://tokio.rs)
+- [A CLI task runner defined by a simple markdown file](https://github.com/jacobdeichert/mask)
 
 ## Course:
 

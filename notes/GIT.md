@@ -14,6 +14,7 @@
 - [Modern Git Commands and Featurs you Should be Using](https://itnext.io/modern-git-commands-and-features-you-should-be-using-6ee65667e62b)
 - [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Using get-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
+- [Everything you need to know about GIT](https://dev.to/basementdevs/everything-that-you-need-to-know-about-git-2440)
 
 
 

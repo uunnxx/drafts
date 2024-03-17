@@ -29,6 +29,7 @@
 - [How to trace request logs using correlaation id](https://dddinpython.com/index.php/2021/09/02/request-logging-how-to/)
 - [Reduce Function in Python](https://www.scaler.com/topics/reduce-function-in-python/)
 - [Deferred Error Handling in Python: Return Instead of Raise](https://medium.com/@luzhenna/python-error-handling-return-instead-of-raise-2395da8754e7)
+- [Python Journey (14 Part Series)](https://dev.to/jmau111/bad-loop-good-loop-in-python-ahf)
 
 #### Parallel, Coroutines and Concurrency
 - [A Curious Course on Coroutines and Concurrency](https://www.dabeaz.com/coroutines/)
@@ -42,6 +43,11 @@
 - [Creating an Asynchronous Task Queue using Python](https://python.plainenglish.io/creating-an-asynchronous-task-queue-using-python-d4ac20ced12d)
 - [Speed up Your Python Program with Concurrency](https://realpython.com/python-concurrency/)
 - [Async Python: The Different Forms of Concurrency](http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/)
+- [Use Asynchronous Programming in Python: Don't Block entire Thread](https://dev.to/iihsan/dont-block-entire-python-thread-use-asynchronous-programming-instead-2pji)
+
+- Gist
+    - [Broken `gevent` timeout](https://gist.github.com/jvns/ce757ed05cfbdc7c47c0)
+
 
 
 
@@ -92,6 +98,12 @@
 - [Super Inherit Yoru Python Class](https://elfi-y.medium.com/super-inherit-your-python-class-196369e3377a)
 - [Inheritance in Python with Abstract Base Class](https://elfi-y.medium.com/inheritance-in-python-with-abstract-base-class-abc-5e3b8e910e5e)
 - [inheritance - Python extending with - using super()](https://stackoverflow.com/questions/10482953/python-extending-with-using-super-python-3-vs-python-2)
+- Metaprogramming
+    - [Mastering Metaclasses in Python using real-life scenarios](https://dev.to/iihsan/mastering-metaclasses-in-python-using-real-life-scenarios-57f4)
+    - [Метаклассы и метапрограммирование в Python](https://gitjournal.tech/metaklassy-i-metaprogrammirovanie-v-python/)
+    - [Метапрограммирвание в продакшене.часть 1](https://habr.com/ru/companies/binarydistrict/articles/422409/)
+    - [Метапрограммирвание в продакшене.часть 2](https://habr.com/ru/companies/binarydistrict/articles/422415/)
+- [Mastering OOP in Python](https://dev.to/y3script/mastering-object-oriented-programming-in-python-17oo)
 
 - [How to Write Memory Efficient Classes in Python](https://towardsdatascience.com/how-to-write-memory-efficient-classes-in-python-beb90811abfa)
 
@@ -107,8 +119,13 @@
 - [Why is `__init__` always called after `__new__`?](https://stackoverflow.com/questions/674304/why-is-init-always-called-after-new)
 - [What is difference between `__init__` and `__call__`?](https://stackoverflow.com/questions/9663562/what-is-the-difference-between-init-and-call)
 - [Improper use of `__new__` to generate class instances?](https://stackoverflow.com/questions/28035685/improper-use-of-new-to-generate-class-instances/)
+- [Usage of `__slots__`?](https://stackoverflow.com/questions/472000/usage-of-slots)
 
-#### Dataclass
+
+
+#### Validation
+
+##### Dataclass
 - [`dataclasses` - Data Class](https://docs.python.org/3/library/dataclasses.html)
 - [Data Class in Python](https://awstip.com/data-class-in-python-7aadc0464002)
 - [Python - Data Classes](https://blog.stackademic.com/python-data-classes-62ce5a190728)
@@ -120,15 +137,25 @@
 - [Introducing Python Classes and Dataclasses](https://towardsdatascience.com/introducing-python-classes-and-dataclasses-54fbc82ef2cb)
 - [Advanced Python: Dataclasses](https://levelup.gitconnected.com/advanced-python-dataclasses-6a1e53bc4d8d)
 - [9 Reasons Why You Should Start Using Python Dataclasses](https://towardsdatascience.com/9-reasons-why-you-should-start-using-python-dataclasses-98271adadc66)
+- [Python Data Classes](https://www.packetcoders.io/python-data-classes/)
+- [Python: dataclasses](https://cs.brown.edu/courses/csci0111/fall2019/lectures/dataclasses.html)
+- [Python Dataclasses](https://www.pythoncheatsheet.org/cheatsheet/dataclasses)
+- [Data Classes in Python | An Introduction](https://www.geeksforgeeks.org/data-classes-in-python-an-introduction/)
+- [How to use Python dataclasses](https://www.infoworld.com/article/3563878/how-to-use-python-dataclasses.html)
+- [How to use Python Data Classes](https://www.dataquest.io/blog/how-to-use-python-data-classes/)
+- [Data Classes in Python (Guide)](https://realpython.com/python-data-classes/)
+- [What are Python Data Classes](https://earthly.dev/blog/python-data-classes/)
 
-#### Attrs
+##### Attrs
 - [In a Python `attrs` class, how can I override generated `__init__` with my own](https://stackoverflow.com/questions/58222483/in-a-python-attrs-class-how-can-i-override-generated-init-with-my-own)
 
 
-#### Pydantic
+##### Pydantic
 - [Pydantic](https://docs.pydantic.dev/latest/)
     - [Models](https://docs.pydantic.dev/latest/concepts/models/#required-optional-fields)
     - [Dataclasses](https://docs.pydantic.dev/latest/concepts/dataclasses/)
+
+- [Validating and Asserting Responses in Python Requests](https://medium.com/@qebuzzz/validating-and-asserting-responses-in-python-requests-14b40908327a)
 
 
 

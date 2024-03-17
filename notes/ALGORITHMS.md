@@ -37,6 +37,8 @@
 
 ### Big O
 - [Understanding Time Complexity with Python Examples](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
+- [Time Complexity Analysis of Python Methods: Big(0) Notations for List, Tuple, Set, and Dictionary Methods](https://dev.to/iihsan/time-complexity-analysis-of-python-methods-bigo-notations-for-list-tuple-set-and-dictionary-methods-47l9)
+
 
 
 

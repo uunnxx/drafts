@@ -44,8 +44,16 @@
 - [MEMCACHE: A Comprehensive, Fast, Pure-Python Memcached Client.](https://github.com/pinterest/pymemcache)
 
 
+### Linter
+- [ruff](https://docs.pytest.org/en/latest/)
+    - [docs](https://docs.astral.sh/ruff/)
+
+
 ### TEST
 - [pytest](https://github.com/pytest-dev/pytest/)
+    - [docs](https://docs.pytest.org/en/latest/)
+- [tox](https://github.com/tox-dev/tox)
+    - [docs](https://tox.wiki/en/4.12.1/user_guide.html)
 - [BDD](https://github.com/behave/behave)
 - [Faker](https://github.com/joke2k/faker)
 - [Wraps any WSGI Application and Makes it Easy to Send Test Requests](https://github.com/Pylons/webtest)
@@ -111,6 +119,7 @@
 
 ### ETC
 - [Manim Animations](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
+- [Library that measures teh width of unicode strings rednered to a terminal](https://github.com/jquast/wcwidth)
 
 
 ### NLTK

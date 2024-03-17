@@ -9,6 +9,10 @@
 
 ### Articles
 - [Workflow using Django Celery](https://awstip.com/workflow-using-django-celery-cf65092c5add)
+- [Full Stack Todo WebApp with React and Django](https://dev.to/thekalderon/full-stack-todo-webapp-with-react-and-python-django-4472)
+
+### WebSockets
+- [WebSockets in Django](https://dev.to/foxy4096/websocket-in-django-55p1)
 
 
 ### Apps & Packages

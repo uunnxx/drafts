@@ -40,3 +40,5 @@
 
 
 
+### Etc.
+- [Secrets Patterns DB](https://github.com/mazen160/secrets-patterns-db)

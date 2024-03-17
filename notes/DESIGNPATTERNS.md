@@ -68,8 +68,10 @@
 
 ### Design Patterns
 
-- [SOLID](https://en.wikipedia.org/wiki/SOLID)
-- [SOLID Principles with Examples in Python](https://medium.com/@pavel.loginov.dev/solid-principles-with-examples-in-python-e907c2291d8)
+- SOLID
+    - [SOLID](https://en.wikipedia.org/wiki/SOLID)
+    - [SOLID Principles with Examples in Python](https://medium.com/@pavel.loginov.dev/solid-principles-with-examples-in-python-e907c2291d8)
+    - [SOLID: The 5 Golden Rules to Level up your Coding Skills](https://dev.to/idanref/solid-the-5-golden-rules-to-level-up-your-coding-skills-2p82)
 - [Design Patterns in Python: Timeless Solutions to Common Problems](https://scriptserpent.carlosrojas.dev/design-patterns-in-python-timeless-solutions-to-common-problems-a22605c65bf8)
 - [Design Patterns in Python: A Series](https://medium.com/@amirm.lavasani/design-patterns-in-python-a-series-f502b7804ae5)
 - [Шпаргалка по шаблонам проектирования](https://habr.com/ru/articles/210288/)
@@ -78,10 +80,20 @@
 - [Python Design Patterns in Real World Projects](https://python.plainenglish.io/python-design-patterns-in-real-world-projects-%EF%B8%8F-ffedfe30330b)
 
 
+#### DI (Dependency Injection)
+- [Python - DI (part 1)](https://snir-orlanczyk.medium.com/python-di-dependency-injection-710edc054e93)
+- [Python - DI (part 2)](https://snir-orlanczyk.medium.com/python-di-dependency-injection-part-2-containers-c621f4311d55)
+
 #### Repository Pattern
 - [Implementing The Repository Pattern (part 1)](https://dddinpython.com/index.php/2022/09/23/implementing-the-repository-pattern/)
 - [Implementing the Repository Pattern using SQLAlchemy (part 2)](https://dddinpython.com/index.php/2022/11/09/implementing-the-repository-pattern-using-sqlalchemy/)
 - [Adopting the Repository Pattern for Enhanced Backend Development With FastAPI](https://hackernoon.com/adopting-the-repository-pattern-for-enhanced-backend-development-with-fastapi)
+- [A Python Implementation of the Unit of Work and RP using SQLModel](https://dev.to/manukanne/a-python-implementation-of-the-unit-of-work-and-repository-design-pattern-using-sqlmodel-3mb5)
+
+
+
+#### Template Method Pattern
+- [Design Patterns in Python: Template Method](https://medium.com/@amirm.lavasani/design-patterns-in-python-template-method-1b76fb561c4a)
 
 
 #### Flyweight

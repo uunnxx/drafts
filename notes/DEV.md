@@ -1,6 +1,10 @@
 ## DEV Related
 
 
+### Apps
+- [Test, build, and deploy your apps from anywhere, the same way!](https://github.com/flemay/3musketeers)
+
+
 - [Memcached](https://memcached.org)
     - [github](https://github.com/memcached/memcached)
 - [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call)
@@ -15,6 +19,10 @@
 -------
 - [RabbitMQ vs. Kafka vs. ActiveMQ: A Battle of Messaging Brokers](https://www.designgurus.io/blog/rabbitmq-kafka-activemq-system-design)
 -------
+
+
+### Blogs
+- [Alex Dzyoba](https://alex.dzyoba.com/blog/)
 
 ### Sites
 - [A Collection of Learning Resources for Curious Software Engineers](https://github.com/charlax/professional-programming?tab=readme-ov-file)

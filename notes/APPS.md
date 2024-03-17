@@ -49,6 +49,7 @@
 - QEMU
 - Podman
 - Docker
+    - [lazydocker](https://github.com/jesseduffield/lazydocker)
 
 
 ## Benchmarking
@@ -146,3 +147,8 @@
 - [Apertium is a free/open-source platform for developing rule-based machine translation systems!](https://wiki.apertium.org/wiki/Main_Page)
 - [Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn)
 - [https://github.com/localstack/localstack](A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!)
+
+
+### Chrome Extension
+- [Mokku: Adds the API mocker MOKKU to Chrome Developer Tools for seamless integration & testing](https://chromewebstore.google.com/detail/mokku/llflfcikklhgamfmnjkgpdadpmdplmji)
+- [RESTer: A REST client for almost any web service](https://chromewebstore.google.com/detail/mokku/llflfcikklhgamfmnjkgpdadpmdplmji)

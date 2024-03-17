@@ -8,6 +8,7 @@
 - [API Design 101: From Basics to Best Practices](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)
 - [Best Practices for API Authorization](https://blog.bitsrc.io/best-practices-for-api-security-6d8242587caf)
 - [7 Ways to 10x Your API Performance](https://morioh.com/a/38f841c2a4c0/7-ways-to-10x-your-api-performance)
+- [Chaining API requests with API Gateway](https://dev.to/apisix/chaining-api-requests-with-api-gateway-10n2)
 
 #### REST
 - [REST API Design Best Practices](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
@@ -29,6 +30,9 @@
 
 ### Interview Questions
 - [System Design Interview Questions: Design Spotify](https://levelup.gitconnected.com/system-design-interview-question-design-spotify-4a8a79697dda)
+
+### EDD (Event Driven Development)
+- [Demystifying ED Architecture: A Series on DP and Best Practices](https://dev.to/cadienvan/demystifying-event-driven-architecture-a-series-on-design-patterns-and-best-practices-263g)
 
 ### Articles
 - [System Design: Chat Application](https://medium.com/@m.romaniiuk/system-design-chat-application-1d6fbf21b372)

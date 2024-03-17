@@ -7,9 +7,16 @@
 
 - [Learn web development](https://web.dev/learn/)
 
+- [The ustack: A set of libraries to build web applications](https://github.com/fpereiro/ustack)
+
 ### Backend
 - [roadmap](https://roadmap.sh/backend)
 - [Backendlore](https://github.com/uunnxx/backendlore)
+    - [Hacker News](https://news.ycombinator.com/item?id=22106482)
 
 
 ### Frontend
+
+
+### FullStack
+- [FullStack Developerrs Roadmap](https://github.com/fullstack-development/developers-roadmap)

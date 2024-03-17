@@ -1,4 +1,15 @@
-# Ruby
+# Ruby (refactor)
+
+
+### Gems
+- [agoo: A High Performance HTTP Server for Ruby](https://github.com/ohler55/agoo)
+
+
+### Articles
+- [FizzBuzz In Too Much Detail](https://www.rubypigeon.com/posts/fizzbuzz-in-too-much-detail/)
+- [FizzBuzz - There's More Than One Way To Do It](https://yukimotopress.github.io/fizzbuzz)
+
+
 
 ## start-here
 - [Understanding Ruby (15 Part Series)](https://dev.to/baweaver/understanding-ruby-triple-equals-2p9c)
@@ -35,6 +46,7 @@
 
 - [Ruby Programming Language](https://www.geeksforgeeks.org/ruby-programming-language/)
     - [Data Structures](https://www.geeksforgeeks.org/data-structures/)
+
 
 
 ## Blogs
