@@ -8,6 +8,7 @@
 - [Processes vs. Threads](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/ProcVThreads.html)
 - [What is difference between a process and a thread?](https://stackoverflow.com/questions/200469/what-is-the-difference-between-a-process-and-a-thread)
 - [Does a CPU process always have at least one thread?](https://stackoverflow.com/questions/4894609/does-a-cpu-process-always-have-at-least-one-thread)
+- [Thundering herd problem](https://en.wikipedia.org/wiki/Thundering_herd_problem)
 
 #### Articles
 - [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)

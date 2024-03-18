@@ -40,12 +40,14 @@
     - [asyncio: Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
     - [Python Async Function](https://blog.finxter.com/python-async-function/)
     - [Effective Python Async like a Pro](https://guicommits.com/effective-python-async-like-a-pro/)
+    - [A Journey to Python Async (series)](https://dev.to/uponthesky/python-a-journey-to-python-async-1-intro-4mgj)
 - [Creating an Asynchronous Task Queue using Python](https://python.plainenglish.io/creating-an-asynchronous-task-queue-using-python-d4ac20ced12d)
 - [Speed up Your Python Program with Concurrency](https://realpython.com/python-concurrency/)
 - [Async Python: The Different Forms of Concurrency](http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/)
 - [Use Asynchronous Programming in Python: Don't Block entire Thread](https://dev.to/iihsan/dont-block-entire-python-thread-use-asynchronous-programming-instead-2pji)
-
-- Gist
+- [Как применять Linux epoll в Python](https://habr.com/ru/articles/121103/)
+- [Asynchronous `http requests` with `epoll` and Python](https://copyprogramming.com/t/asynchronous-http-requests-with-epoll-and-python?__cf_chl_rt_tk=Ifogk2fAsFPwMsCb7JNpHtDhTQcqXxypPRXWmAfWcLM-1706972599-0-gaNycGzNDaU)
+- code blocks [gist]
     - [Broken `gevent` timeout](https://gist.github.com/jvns/ce757ed05cfbdc7c47c0)
 
 

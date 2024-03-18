@@ -67,3 +67,15 @@ tar -xvzf filename.tar.gz
 
 
 [Linux vs Unix](https://blog.stackademic.com/linux-vs-unix-bruhhh-11b08e28be6a)
+
+
+
+## Linux Development
+
+
+### Parallel, Async, Thread Programming
+- [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
+- [Linux Asynchronous IO](https://web.archive.org/web/20150406015143/http://code.google.com/p/kernel/wiki/AIOUserGuide)
+- [Faster IO through `io_uring`](https://kernel-recipes.org/en/2019/talks/faster-io-through-io_uring/)
+- [Does poll/epoll block? How is it different from async IO](https://itecnote.com/tecnote/does-poll-epoll-block-how-is-it-different-from-async-io/)
+
