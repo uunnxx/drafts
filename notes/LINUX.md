@@ -71,6 +71,7 @@ tar -xvzf filename.tar.gz
 
 
 ## Linux Development
+- [Hiding the kernel from user space](https://lwn.net/Articles/738975/)
 
 
 ### Parallel, Async, Thread Programming

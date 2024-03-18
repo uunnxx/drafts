@@ -139,3 +139,6 @@
 - [pickle: Python Object Serialization](https://docs.python.org/3/library/pickle.html)
 - [attrs: Python Classes Without Boilerplate](https://www.attrs.org/en/stable/init.html)
     - [github](https://github.com/python-attrs/attrs)
+
+- [contextlib]
+    - [suppress](https://docs.python.org/3/library/contextlib.html#contextlib.suppress)

@@ -9,4 +9,6 @@
 - [Using `property()` on classmethods](https://stackoverflow.com/questions/5189699/how-to-make-a-class-property)
     - [How to make a class property?](https://stackoverflow.com/questions/5189699/how-to-make-a-class-property)
 - [In practice, what are the main uses fro the `yield from`](https://stackoverflow.com/questions/9708902/in-practice-what-are-the-main-uses-for-the-yield-from-syntax-in-python-3-3)
+- [Python Progression Path - From Apprentice to Guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
+- [Understanding Generators in Python](https://stackoverflow.com/questions/1756096/understanding-generators-in-python)
 

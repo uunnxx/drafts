@@ -30,6 +30,10 @@
 - [Reduce Function in Python](https://www.scaler.com/topics/reduce-function-in-python/)
 - [Deferred Error Handling in Python: Return Instead of Raise](https://medium.com/@luzhenna/python-error-handling-return-instead-of-raise-2395da8754e7)
 - [Python Journey (14 Part Series)](https://dev.to/jmau111/bad-loop-good-loop-in-python-ahf)
+- [How to Hire Python Developers](https://www.toptal.com/python#hiring-guide)
+- Exceptinos | Errors
+    - [How to Catch Multiple Exceptions in Python](https://rollbar.com/blog/python-catching-multiple-exceptions/)
+
 
 #### Parallel, Coroutines and Concurrency
 - [A Curious Course on Coroutines and Concurrency](https://www.dabeaz.com/coroutines/)
@@ -41,14 +45,24 @@
     - [Python Async Function](https://blog.finxter.com/python-async-function/)
     - [Effective Python Async like a Pro](https://guicommits.com/effective-python-async-like-a-pro/)
     - [A Journey to Python Async (series)](https://dev.to/uponthesky/python-a-journey-to-python-async-1-intro-4mgj)
+    - [Async - Introduction (part 1)](https://medium.com/@yarusl42/asyncio-in-depth-part-1-8457efb4106b)
+    - [Async - Introduction (part 2)](https://medium.com/@yarusl42/asyncio-how-asyncio-works-part-2-33675c2c2f7d)
+    - [Python behind the scenes: how async/await works in Python](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/)
+    - [A Hitchhikers Guide to Asynchronous Programming](https://www.pythonsheets.com/appendix/python-concurrent.html)
 - [Creating an Asynchronous Task Queue using Python](https://python.plainenglish.io/creating-an-asynchronous-task-queue-using-python-d4ac20ced12d)
 - [Speed up Your Python Program with Concurrency](https://realpython.com/python-concurrency/)
 - [Async Python: The Different Forms of Concurrency](http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/)
 - [Use Asynchronous Programming in Python: Don't Block entire Thread](https://dev.to/iihsan/dont-block-entire-python-thread-use-asynchronous-programming-instead-2pji)
+- [How to use Linux `epoll` with Python](http://scotdoyle.com/python-epoll-howto.html)
 - [Как применять Linux epoll в Python](https://habr.com/ru/articles/121103/)
 - [Asynchronous `http requests` with `epoll` and Python](https://copyprogramming.com/t/asynchronous-http-requests-with-epoll-and-python?__cf_chl_rt_tk=Ifogk2fAsFPwMsCb7JNpHtDhTQcqXxypPRXWmAfWcLM-1706972599-0-gaNycGzNDaU)
+- [Benchmark `asyncio` vs `gevent` vs native `epoll`](https://dev.to/skywind3000/performance-asyncio-vs-gevent-vs-native-epoll-bnl)
+- [Retrieve several URLs via select.epoll()](https://stackoverflow.com/questions/48066225/python-retrieve-several-urls-via-select-epoll)
+- [A very simple multithreading parallel URL fetching (w/o queue)](https://stackoverflow.com/questions/16181121/a-very-simple-multithreading-parallel-url-fetching-without-queue?rq=3)
+- [How to Fetch a URL Asynchronous with `pyppeteer` (One browser many tabs)](https://stackoverflow.com/questions/66889479/how-to-fetch-a-url-asynchronously-with-pyppeteerone-browser-many-tabs?rq=2)
 - code blocks [gist]
     - [Broken `gevent` timeout](https://gist.github.com/jvns/ce757ed05cfbdc7c47c0)
+
 
 
 
@@ -62,10 +76,12 @@
 
 ### Algorithms
 - [Python Algorithms Articles](https://builtin.com/tag/python-algorithms)
+- [Buble Sort Visualizer using PyGame](https://techvidvan.com/tutorials/python-bubble-sort-visualizer-pygame/)
 
 
 
 ### Data Structures
+- [Data Structures with Python](https://github.com/uunnxx/how-to/blob/main/python/Data%20Structures%20with%20Python.md)
 - [Circular Queue Data Structure in Python](https://medium.com/@fhuseynov803/circular-queue-data-structure-in-python-49bfc78c805a)
 - [Deque in Python](https://www.geeksforgeeks.org/deque-in-python/)
 
@@ -105,7 +121,22 @@
     - [Метаклассы и метапрограммирование в Python](https://gitjournal.tech/metaklassy-i-metaprogrammirovanie-v-python/)
     - [Метапрограммирвание в продакшене.часть 1](https://habr.com/ru/companies/binarydistrict/articles/422409/)
     - [Метапрограммирвание в продакшене.часть 2](https://habr.com/ru/companies/binarydistrict/articles/422415/)
+    - [Metaprogramming in Python](https://developer.ibm.com/tutorials/ba-metaprogramming-python/)
+    - [Python Metaclasses](https://realpython.com/python-metaclasses/)
+    - [Advanced Python: Metaprogramming](https://realpython.com/python-metaclasses/)
+    - [Metaprogramming in Python](https://betterprogramming.pub/meta-programming-in-python-7fb94c8c7152)
+    - [A Practical Guide to Metaprogramming in Python](https://dev.to/karishmashukla/a-practical-guide-to-metaprogramming-in-python-691)
 - [Mastering OOP in Python](https://dev.to/y3script/mastering-object-oriented-programming-in-python-17oo)
+- MRO (Method Resolution Order)
+    - [MRO in Python Inheritance](https://www.geeksforgeeks.org/method-resolution-order-in-python-inheritance/)
+    - [MRO in new-style classes](https://stackoverflow.com/questions/1848474/method-resolution-order-mro-in-new-style-classes)
+    - [What is MRO in Python](https://www.educative.io/answers/what-is-mro-in-python)
+    - [MRO in Python](http://www.srikanthtechnologies.com/blog/python/mro.aspx)
+    - [What does `mro()` do?](https://stackoverflow.com/questions/2010692/what-does-mro-do)
+
+- [[Заметк] Основные понятия ООП](https://zinvapel.github.io/it/prog/oop/2017/10/30/oop-base/)
+- [ООП для новичков: инкапсуляция, наследование и полиморфизм](https://thecode.media/new-oop-inp/)
+- [Полиморфизм в Python](https://pythononline.ru/osnovy/polimorfizm-python)
 
 - [How to Write Memory Efficient Classes in Python](https://towardsdatascience.com/how-to-write-memory-efficient-classes-in-python-beb90811abfa)
 
@@ -114,6 +145,7 @@
 - [Use instance attributes or class properties inside the class definition?](https://discuss.python.org/t/use-instance-attributes-or-class-properties-inside-the-class-definition/13290)
 - [Accessing Attributes and Methods in Python](https://www.geeksforgeeks.org/accessing-attributes-methods-python/)
 
+- [Class Method vs. Static Method](https://dev.to/gaurbprajapati/class-method-vs-static-method-python-oops-3fek)
 
 - [Python: `__init__` is NOT a constructor: A deep dive in Python object creation](https://towardsdatascience.com/python-init-is-not-a-constructor-a-deep-dive-in-python-object-creation-9134d971e334)
 - [You are probably using Python's `__init__` method incorrectly](https://medium.com/@cautaerts/you-are-abusing-the-init-method-db5ec7fb3df)
@@ -204,6 +236,11 @@
 - [Refactoring: Prepare Your Code to Get Help](https://realpython.com/courses/refactoring-code-to-get-help/)
 
 
+### Profiling & Benchmarking
+- [Convenience function for plotting performance profiles in Python](https://github.com/sdrelton/perfprof)
+- [A command-line Benchmarking tool](https://github.com/sharkdp/hyperfine)
+
+
 ### Data Mining (temp)
 - [Mining Twitter Data with Python (part 1)](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 - [Mining Twitter Data with Python (part 2)](https://marcobonzanini.com/2015/03/09/mining-twitter-data-with-python-part-2/)
@@ -213,6 +250,8 @@
 ### TEMP
 - [Fuzzy String Matching in Python](https://marcobonzanini.com/2015/02/25/fuzzy-string-matching-in-python/)
     - check the source of the lib
+- [Python Developer's Guide to Character Encoding](https://dev.to/honeybadger/python-developers-guide-to-character-encoding-2e8i)
+- [Mastering List Manipulation and Filtering in Python](https://dev.to/scofieldidehen/mastering-list-manipulation-and-filtering-in-python-dm2)
 
 
 ### Embedded Systems & Etc.
@@ -228,6 +267,9 @@
 - Python3 Programming Specialization
 
 
+
+-----------------------
+- [Python Fibonacci Generator](https://stackoverflow.com/questions/3953749/python-fibonacci-generator)
 
 ### Etc
 `list({*arr1, *arr2})`

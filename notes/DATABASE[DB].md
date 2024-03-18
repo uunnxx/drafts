@@ -5,6 +5,16 @@
 
 - [PostgreSQL DBA](https://roadmap.sh/postgresql-dba)
 
+- [docs: ru](https://postgrespro.ru/docs/)
+    - [12.3. Управление текстовым поиском](https://postgrespro.ru/docs/postgresql/15/textsearch-controls)
+- [books]
+    - [PostgreSQL 15 изнутри](https://postgrespro.ru/education/books/internals)
+    - [PostgreSQL. Основы языка SQL](https://postgrespro.ru/education/books/sqlprimer)
+
+- [Индексирование полнотекстовых данных в PostgreSQL с использованием модуля pg_trgm](https://habr.com/ru/companies/otus/articles/770674/)
+- [Готовим полнотекстовый поиск в Postgres. Часть 1](https://habr.com/ru/articles/442170/)
+- [Готовим полнотекстовый поиск в Postgres. Часть 2](https://habr.com/ru/articles/443368/)
+
 
 #### Articles
 - [PostgreSQL anti-patterns: read-modify-write cycles](https://www.2ndquadrant.com/en/blog/postgresql-anti-patterns-read-modify-write-cycles/)
@@ -37,3 +47,5 @@
 - [20 Advanced SQL Techniques](https://blog.stackademic.com/20-advanced-sql-techniques-dcbe4da6c288)
 - [БД — это скальпель или мультитул? Куда привела эволюция СУБД в 2023 году](https://habr.com/ru/companies/oleg-bunin/articles/781996/)
 - [Subqueries Unraveled: Exploring SQL's Hidden Power](https://dev.to/john-maina/subqueries-unraveled-exploring-sqls-hidden-power-cbn)
+- [Подборка материалов для изучения баз данных и SQL](https://proglib.io/p/sql-digest)
+- [A Better Way to Store Record Status in A Relational Database](https://dev.to/houseman/a-better-way-to-store-record-status-in-a-relational-database-2ik1)

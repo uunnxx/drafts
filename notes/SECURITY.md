@@ -42,3 +42,7 @@
 
 ### Etc.
 - [Secrets Patterns DB](https://github.com/mazen160/secrets-patterns-db)
+
+
+### IoT
+- [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)

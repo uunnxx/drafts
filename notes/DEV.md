@@ -196,3 +196,7 @@ Diagrams
     - [How to win at CORS](https://jakearchibald.com/2021/cors/)
     - [Questions About CORS](https://questions.wizardzines.com/cors.html)
     - [Julia's Drawings: CORS](https://drawings.jvns.ca/cors/)
+
+
+
+- [Virtual Address Space](https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/virtual-address-spaces)

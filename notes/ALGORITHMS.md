@@ -1,5 +1,10 @@
 ### Algorithms:
 
+- [AlgoExpert](https://www.algoexpert.io/product)
+- [Visualising data structures and algorithms through animation](https://visualgo.net/en)
+- [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+
+
 #### Binary Tree's
 - [Binary Tree: Wiki](https://en.wikipedia.org/wiki/Binary_tree)
 - [Binary Trees by Nick Parlante](http://cslibrary.stanford.edu/110/BinaryTrees.html)
@@ -32,14 +37,13 @@
 
 
 #### Graphs
+- [100+ Graph algorithms and Techniques [Complete List]](https://iq.opengenus.org/list-of-graph-algorithms/)
 - [Bellman-Ford Shortest Path in a Graph](http://stoimen.com/category/data-structures-2/page/3/)
 
 
 ### Big O
 - [Understanding Time Complexity with Python Examples](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
 - [Time Complexity Analysis of Python Methods: Big(0) Notations for List, Tuple, Set, and Dictionary Methods](https://dev.to/iihsan/time-complexity-analysis-of-python-methods-bigo-notations-for-list-tuple-set-and-dictionary-methods-47l9)
-
-
 
 
 ### Data Structures
@@ -53,4 +57,4 @@
 
 
 
-
+- [Data Structure & Algorithms](https://dev.to/badhonnandi1/data-structure-algorithms-in-python-3jkk)

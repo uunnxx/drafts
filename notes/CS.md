@@ -22,6 +22,7 @@
 ------------------
 
 - [From Nand to Tetris: Building a Modern Computer From First Principles](https://www.nand2tetris.org/)
+- [Introductory Intel x86: Architecture, Assembly, Applications and Alliteration](https://opensecuritytraining.info/IntroX86.html)
 
 
 ------------------

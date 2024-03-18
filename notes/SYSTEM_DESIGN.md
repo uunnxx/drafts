@@ -9,6 +9,12 @@
 - [Best Practices for API Authorization](https://blog.bitsrc.io/best-practices-for-api-security-6d8242587caf)
 - [7 Ways to 10x Your API Performance](https://morioh.com/a/38f841c2a4c0/7-ways-to-10x-your-api-performance)
 - [Chaining API requests with API Gateway](https://dev.to/apisix/chaining-api-requests-with-api-gateway-10n2)
+- [3 Ways to Make Your API Beautiful](https://dev.to/rcooper47/3-keys-to-making-a-beautiful-api-46la)
+- [Implementing API Versioning](https://dev.to/lazypro/implementing-api-versioning-5864)
+- [Top API Architecture Styles, part 1](https://dev.to/emmanuel_ayinde/top-api-architectural-styles-4340)
+- [Top API Architecture Styles, part 2](https://dev.to/emmanuel_ayinde/top-8-api-architectural-styles-pt-2-1426)
+
+
 
 #### REST
 - [REST API Design Best Practices](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
@@ -21,6 +27,7 @@
 - [Python REST APIs with Flask, Connexion, and SQLAlchemy - Part II](https://realpython.com/flask-connexion-rest-api-part-2/)
 - [Python REST APIs with Flask, Connexion, and SQLAlchemy - Part III](https://realpython.com/flask-connexion-rest-api-part-3/)
 - [The Right Way to Build an API with Python](https://towardsdatascience.com/the-right-way-to-build-an-api-with-python-cd08ab285f8f)
+- [Mastering the Art of REST APIs: A Complete Overview](https://dev.to/scofieldidehen/mastering-the-art-of-rest-apis-a-complete-overview-4gfh)
 
 
 ### Microservices
@@ -34,11 +41,14 @@
 ### EDD (Event Driven Development)
 - [Demystifying ED Architecture: A Series on DP and Best Practices](https://dev.to/cadienvan/demystifying-event-driven-architecture-a-series-on-design-patterns-and-best-practices-263g)
 
-### Articles
-- [System Design: Chat Application](https://medium.com/@m.romaniiuk/system-design-chat-application-1d6fbf21b372)
-
 
 ### Cloud Design Pattern
 - Messaging
     - Priority Queue
         - [Priority Queue Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
+
+
+
+### Articles
+- [System Design: Chat Application](https://medium.com/@m.romaniiuk/system-design-chat-application-1d6fbf21b372)
+- [I Reviewed 1000s of GraphQL vs. REST Perspectives](https://konfigthis.com/blog/graphql-vs-rest/)

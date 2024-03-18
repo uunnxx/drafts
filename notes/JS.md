@@ -19,6 +19,11 @@
 
 - [Understanding The Difference Between Pub/Sub and Signals](https://blog.bitsrc.io/difference-between-pub-sub-and-signals-in-javascript-f7d4c7c25960)
 
+
+
+- [Speculation in JavaScript Core](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
+- [Introduction to Promises, Async and Await in JavaScript for web developers](https://dev.to/dumebii/exploring-promises-async-and-await-in-javascript-214)
+
 ### MDN
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Expressinos and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)

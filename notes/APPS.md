@@ -46,9 +46,12 @@
 - [rr. C/C++ Primary Debugging tool for Linux](https://rr-project.org/)
 
 ------------------------------------------------------------------------
-- QEMU
-- Podman
-- Docker
+- [QEMU](https://www.qemu.org/index.html)
+    - [docs](https://www.qemu.org/documentation/)
+- [Podman](https://podman.io/)
+    - [docs](https://podman.io/docs)
+- [Docker](https://www.docker.com/)
+    - [docs](https://docs.docker.com/build/cloud/)
     - [lazydocker](https://github.com/jesseduffield/lazydocker)
 
 
