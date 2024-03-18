@@ -143,6 +143,7 @@
 - [Brave](search.brave.com)
 - [Kagi](kagi.com) $25/month
 - [DuckDuckGo](duckduckgo.com)
+- [Grepper](https://www.grepper.com/search.php)
 
 
 #### Extensions

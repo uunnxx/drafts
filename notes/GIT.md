@@ -9,6 +9,9 @@
 - [Learn Git Branching](https://learngitbranching.js.org/)
 
 
+### Tutorials
+- [Git Tutorial](https://www.geeksforgeeks.org/git-tutorial/?ref=footer)
+
 
 ### Articles
 - [Modern Git Commands and Featurs you Should be Using](https://itnext.io/modern-git-commands-and-features-you-should-be-using-6ee65667e62b)

@@ -13,6 +13,8 @@
 - [Implementing API Versioning](https://dev.to/lazypro/implementing-api-versioning-5864)
 - [Top API Architecture Styles, part 1](https://dev.to/emmanuel_ayinde/top-api-architectural-styles-4340)
 - [Top API Architecture Styles, part 2](https://dev.to/emmanuel_ayinde/top-8-api-architectural-styles-pt-2-1426)
+- [API Gateway Pattern and FastAPI](https://medium.com/@saverio3107/api-gateway-pattern-and-fastapi-fe8ea09e9620)
+- [Selecting the Right Open-Source API Gateway Technology](https://medium.com/@berrayana/selecting-the-right-open-source-api-gateway-technology-eb295f076939)
 
 
 

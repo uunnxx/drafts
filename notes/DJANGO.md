@@ -10,6 +10,14 @@
 ### Articles
 - [Workflow using Django Celery](https://awstip.com/workflow-using-django-celery-cf65092c5add)
 - [Full Stack Todo WebApp with React and Django](https://dev.to/thekalderon/full-stack-todo-webapp-with-react-and-python-django-4472)
+- [A Comprehensive Guide to Structuring Django Projects: Best Practices and Example](https://medium.com/@akshatgadodia/a-comprehensive-guide-to-structuring-django-projects-best-practices-and-example-afb77d8497d5)
+- Django Admin
+    - [The Django Admin site](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#hooking-adminsite-instances-into-your-urlconf)
+    - [5 ways to make Django Admin safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8)
+    - [10 tips for makeing the Django Admin more secure](https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure)
+    - [Django's Admin in Production](https://www.joshuakehn.com/2014/8/28/djangos-admin-in-production.html)
+    - [What happens to the Django admin site during production?](https://stackoverflow.com/questions/49378857/what-happens-to-the-django-admin-site-during-production)
+
 
 ### WebSockets
 - [WebSockets in Django](https://dev.to/foxy4096/websocket-in-django-55p1)

@@ -155,3 +155,5 @@
 ### Chrome Extension
 - [Mokku: Adds the API mocker MOKKU to Chrome Developer Tools for seamless integration & testing](https://chromewebstore.google.com/detail/mokku/llflfcikklhgamfmnjkgpdadpmdplmji)
 - [RESTer: A REST client for almost any web service](https://chromewebstore.google.com/detail/mokku/llflfcikklhgamfmnjkgpdadpmdplmji)
+- [Talend API Tester](https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)
+- [HTML Validator](https://chromewebstore.google.com/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk)

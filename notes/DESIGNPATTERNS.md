@@ -65,6 +65,8 @@
 
 
 
+- [Exploring Software Design Patters andd Layers: From Repository to Service (Part 1)](https://medium.com/@saverio3107/exploring-software-design-patterns-and-layers-from-repository-to-service-part-1-57a7c4bdd6a)
+
 
 ### Design Patterns
 

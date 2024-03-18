@@ -50,6 +50,7 @@
     - [Python behind the scenes: how async/await works in Python](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/)
     - [A Hitchhikers Guide to Asynchronous Programming](https://www.pythonsheets.com/appendix/python-concurrent.html)
 - [Creating an Asynchronous Task Queue using Python](https://python.plainenglish.io/creating-an-asynchronous-task-queue-using-python-d4ac20ced12d)
+- [3 ways to run a Python function asynchronous](https://medium.com/@alexobidiegwu/3-ways-to-run-a-python-function-asynchronously-b00e860fed6d)
 - [Speed up Your Python Program with Concurrency](https://realpython.com/python-concurrency/)
 - [Async Python: The Different Forms of Concurrency](http://masnun.rocks/2016/10/06/async-python-the-different-forms-of-concurrency/)
 - [Use Asynchronous Programming in Python: Don't Block entire Thread](https://dev.to/iihsan/dont-block-entire-python-thread-use-asynchronous-programming-instead-2pji)
@@ -65,6 +66,12 @@
 
 
 
+#### ORM
+- [8 Essential Tips for Working with ORM (SQLAlchemy)](https://medium.com/@saverio3107/8-essential-tips-for-working-with-sqlalchemy-7b60f42bd519)
+
+
+#### RPC
+- [Implementing gRPC in Python](https://ashishmj.medium.com/implementing-grpc-in-python-51dd6be87ec3)
 
 
 #### PEPs
@@ -113,6 +120,7 @@
 
 ### OOP
 - [Understanding Classes in Python: From Templates to Objects](https://medium.com/@noransaber685/understanding-classes-in-python-from-templates-to-objects-8fa920aad3a1)
+- [Advanced OOP in Python](https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291)
 - [Super Inherit Yoru Python Class](https://elfi-y.medium.com/super-inherit-your-python-class-196369e3377a)
 - [Inheritance in Python with Abstract Base Class](https://elfi-y.medium.com/inheritance-in-python-with-abstract-base-class-abc-5e3b8e910e5e)
 - [inheritance - Python extending with - using super()](https://stackoverflow.com/questions/10482953/python-extending-with-using-super-python-3-vs-python-2)
@@ -126,6 +134,7 @@
     - [Advanced Python: Metaprogramming](https://realpython.com/python-metaclasses/)
     - [Metaprogramming in Python](https://betterprogramming.pub/meta-programming-in-python-7fb94c8c7152)
     - [A Practical Guide to Metaprogramming in Python](https://dev.to/karishmashukla/a-practical-guide-to-metaprogramming-in-python-691)
+    - [Mastering Asynchronous Programming in Python: A Comprehensive Guide](https://blog.devgenius.io/mastering-asynchronous-programming-in-python-a-comprehensive-guide-ef1e8e5b35db)
 - [Mastering OOP in Python](https://dev.to/y3script/mastering-object-oriented-programming-in-python-17oo)
 - MRO (Method Resolution Order)
     - [MRO in Python Inheritance](https://www.geeksforgeeks.org/method-resolution-order-in-python-inheritance/)

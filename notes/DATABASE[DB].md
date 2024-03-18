@@ -49,3 +49,4 @@
 - [Subqueries Unraveled: Exploring SQL's Hidden Power](https://dev.to/john-maina/subqueries-unraveled-exploring-sqls-hidden-power-cbn)
 - [Подборка материалов для изучения баз данных и SQL](https://proglib.io/p/sql-digest)
 - [A Better Way to Store Record Status in A Relational Database](https://dev.to/houseman/a-better-way-to-store-record-status-in-a-relational-database-2ik1)
+- [Writing SQL Like a Pro: Advanced Techniques Showcased in a Real-Life Scenario](https://medium.com/learning-sql/writing-sql-like-a-pro-advanced-techniques-showcased-in-a-real-life-scenario-2811a848d34a)
