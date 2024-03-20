@@ -2,6 +2,7 @@
 
 
 ### Books:
+- [Super Fast Python](https://superfastpython.com/products/)
 
 
 ### Sites & Tutorials
@@ -14,6 +15,12 @@
 - [RIP Tutorial](https://riptutorial.com/python)
 - [Koans](https://github.com/gregmalcolm/python_koans)
 - [codecademy: Python](https://www.codecademy.com/catalog/language/python)
+- [Python Tutorial: W3 School](https://www.w3schools.com/python/default.asp)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Python for you and me](https://pymbook.readthedocs.io/en/latest)
+- [Crash into Python](https://stephensugden.com/crash_into_python)
+- [Operators and Expressions](https://python.swaroopch.com/op_exp.html)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/tag/python)
 
 
 ### Blogs:
@@ -25,21 +32,30 @@
 - [Фильтр нецензурной лексики за 5 минут](https://habr.com/ru/sandbox/145868/)
 - [Если вы решили перейти с PHP на Python](https://habr.com/ru/company/lesta_studio/blog/221035/)
 - [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
+- [Duck Typing in Python](https://www.pythonmorsels.com/duck-typing/?utm_source=drip&utm_medium=email&utm_campaign=weekly+email+-+2023-12-13&utm_content=Weekly+Python+tip%3A+converting+lists+to+strings)
 - [Python — серьезный язык для разработки backend](https://habr.com/ru/companies/raiffeisenbank/articles/593047/)
-- [How to trace request logs using correlaation id](https://dddinpython.com/index.php/2021/09/02/request-logging-how-to/)
+- Requests
+    - [How to trace request logs using correlaation id](https://dddinpython.com/index.php/2021/09/02/request-logging-how-to/)
+    - [Python's request library (Guide)](https://realpython.com/python-requests/)
+    - [Validating and Asserting Responses in Python Requests](https://medium.com/@qebuzzz/validating-and-asserting-responses-in-python-requests-14b40908327a)
 - [Reduce Function in Python](https://www.scaler.com/topics/reduce-function-in-python/)
 - [Deferred Error Handling in Python: Return Instead of Raise](https://medium.com/@luzhenna/python-error-handling-return-instead-of-raise-2395da8754e7)
 - [Python Journey (14 Part Series)](https://dev.to/jmau111/bad-loop-good-loop-in-python-ahf)
 - [How to Hire Python Developers](https://www.toptal.com/python#hiring-guide)
+- [BNF Notation: Dive Deeper Into Python's Grammar](https://realpython.com/python-bnf-notation/)
 - Exceptinos | Errors
     - [How to Catch Multiple Exceptions in Python](https://rollbar.com/blog/python-catching-multiple-exceptions/)
+- `map`
+    - [How to use the Python `map` Function](https://www.digitalocean.com/community/tutorials/how-to-use-the-python-map-function)
 
 
 #### Parallel, Coroutines and Concurrency
+- [Python Concurrency Guides](https://superfastpython.com/python-concurrency-guides/)
 - [A Curious Course on Coroutines and Concurrency](https://www.dabeaz.com/coroutines/)
 - [An In-Depth Guide to `asyncio` and `await` in Python](https://medium.com/@danielwume/an-in-depth-guide-to-asyncio-and-await-in-python-059c3ecc9d96)
 - [Introduction to Multi-Threading vs Multi-Processing (Part 1)](https://medium.com/@jonathantan12/multi-threading-vs-multi-processing-with-python-examples-e56d71b2ed69)
 - [Introduction to Multi-Threading vs Multi-Processing (Part 2)](https://medium.com/@jonathantan12/introduction-to-multi-threading-and-multi-processing-in-python-part-2-0d23428871cb)
+- [Mastering Asynchronous Programming in Python: A Comprehensive Gudie](https://blog.devgenius.io/mastering-asynchronous-programming-in-python-a-comprehensive-guide-ef1e8e5b35db)
 - asyncio
     - [asyncio: Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
     - [Python Async Function](https://blog.finxter.com/python-async-function/)
@@ -49,6 +65,8 @@
     - [Async - Introduction (part 2)](https://medium.com/@yarusl42/asyncio-how-asyncio-works-part-2-33675c2c2f7d)
     - [Python behind the scenes: how async/await works in Python](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/)
     - [A Hitchhikers Guide to Asynchronous Programming](https://www.pythonsheets.com/appendix/python-concurrent.html)
+    - [Asynchronous Context Manager in Python](https://superfastpython.com/asynchronous-context-manager/#:~:text=Context%20Manager%20vs%20Asynchronous%20Context%20Manager,-Both%20classical%20context&text=They%20both%20attempt%20to%20achieve,and%20__aexit__%20methods.)
+- [Faster File I/O in Python ...once you add concurrency](https://superfastpython.com/concurrent-file-io-in-python/)
 - [Creating an Asynchronous Task Queue using Python](https://python.plainenglish.io/creating-an-asynchronous-task-queue-using-python-d4ac20ced12d)
 - [3 ways to run a Python function asynchronous](https://medium.com/@alexobidiegwu/3-ways-to-run-a-python-function-asynchronously-b00e860fed6d)
 - [Speed up Your Python Program with Concurrency](https://realpython.com/python-concurrency/)
@@ -63,6 +81,21 @@
 - [How to Fetch a URL Asynchronous with `pyppeteer` (One browser many tabs)](https://stackoverflow.com/questions/66889479/how-to-fetch-a-url-asynchronously-with-pyppeteerone-browser-many-tabs?rq=2)
 - code blocks [gist]
     - [Broken `gevent` timeout](https://gist.github.com/jvns/ce757ed05cfbdc7c47c0)
+- cache
+    - [TIL: Caching `uuid`'s for the win!](https://www.revsys.com/tidbits/caching-uuids-win/)
+
+
+### Testing
+- [pytest](https://github.com/pytest-dev/pytest/)
+    - [docs](https://docs.pytest.org/en/latest/)
+- [tox](https://github.com/tox-dev/tox)
+    - [docs](https://tox.wiki/en/4.12.1/user_guide.html)
+- [BDD](https://github.com/behave/behave)
+- [Faker](https://github.com/joke2k/faker)
+- [Wraps any WSGI Application and Makes it Easy to Send Test Requests](https://github.com/Pylons/webtest)
+- [Pro-Tip - Sentinel values in Python](https://www.revsys.com/tidbits/sentinel-values-python/)
+- [TIL: Testing `import` file mismatch](https://www.revsys.com/tidbits/testing-import-file-mismatch/)
+
 
 
 
@@ -84,6 +117,8 @@
 ### Algorithms
 - [Python Algorithms Articles](https://builtin.com/tag/python-algorithms)
 - [Buble Sort Visualizer using PyGame](https://techvidvan.com/tutorials/python-bubble-sort-visualizer-pygame/)
+- [Алгоритмы K-ближайших соседей и K-средних на Python](https://pythonru.com/uroki/sklearn-kmeans-i-knn)
+- [Алгоритм классификации Random Forest на Python](https://pythonru.com/uroki/sklearn-random-forest)
 
 
 
@@ -124,6 +159,9 @@
 - [Super Inherit Yoru Python Class](https://elfi-y.medium.com/super-inherit-your-python-class-196369e3377a)
 - [Inheritance in Python with Abstract Base Class](https://elfi-y.medium.com/inheritance-in-python-with-abstract-base-class-abc-5e3b8e910e5e)
 - [inheritance - Python extending with - using super()](https://stackoverflow.com/questions/10482953/python-extending-with-using-super-python-3-vs-python-2)
+- [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/)
+- [Understand your Python code with this Open Source Visualization Tool](https://opensource.com/article/20/11/python-code-viztracer)
+- [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/)
 - Metaprogramming
     - [Mastering Metaclasses in Python using real-life scenarios](https://dev.to/iihsan/mastering-metaclasses-in-python-using-real-life-scenarios-57f4)
     - [Метаклассы и метапрограммирование в Python](https://gitjournal.tech/metaklassy-i-metaprogrammirovanie-v-python/)
@@ -143,6 +181,7 @@
     - [MRO in Python](http://www.srikanthtechnologies.com/blog/python/mro.aspx)
     - [What does `mro()` do?](https://stackoverflow.com/questions/2010692/what-does-mro-do)
 
+- [Polymorphism in Python](https://pynative.com/python-polymorphism/)
 - [[Заметк] Основные понятия ООП](https://zinvapel.github.io/it/prog/oop/2017/10/30/oop-base/)
 - [ООП для новичков: инкапсуляция, наследование и полиморфизм](https://thecode.media/new-oop-inp/)
 - [Полиморфизм в Python](https://pythononline.ru/osnovy/polimorfizm-python)
@@ -172,6 +211,7 @@
 - [`dataclasses` - Data Class](https://docs.python.org/3/library/dataclasses.html)
 - [Data Class in Python](https://awstip.com/data-class-in-python-7aadc0464002)
 - [Python - Data Classes](https://blog.stackademic.com/python-data-classes-62ce5a190728)
+- [Dataclasses and attrs: when and why](https://www.revsys.com/tidbits/dataclasses-and-attrs-when-and-why/)
 - [Python 3 `dataclass` Initialization](https://stackoverflow.com/questions/51199031/python-3-dataclass-initialization)
 - [`dataclass` and `callable` Initialization Problem via `classmethod`](https://stackoverflow.com/questions/70612777/dataclass-and-callable-initialization-problem-via-classmethods)
 - [Count Python `dataclass` instances](https://stackoverflow.com/questions/75008898/count-python-dataclass-instances?noredirect=1&lq=1)
@@ -198,7 +238,6 @@
     - [Models](https://docs.pydantic.dev/latest/concepts/models/#required-optional-fields)
     - [Dataclasses](https://docs.pydantic.dev/latest/concepts/dataclasses/)
 
-- [Validating and Asserting Responses in Python Requests](https://medium.com/@qebuzzz/validating-and-asserting-responses-in-python-requests-14b40908327a)
 
 
 
@@ -226,6 +265,7 @@
 
 
 - [`__init__.py` Files in Python: How to Organize Your Code into Logical and Reusable Units](https://python.plainenglish.io/init-files-in-python-how-to-organize-your-code-into-logical-and-reusable-units-1f4c7c31d4f7)
+- [Python's `__all__`: Packages, Modules, and Wildcard Imports](https://realpython.com/python-all-attribute/)
 
 
 
@@ -239,6 +279,7 @@
 - LOGURU
 
 - [Logs with the logging package](https://blog.stackademic.com/python-logs-with-the-logging-package-0ea3a033607f)
+- [VizTracer is a Low-overhead Logging / Debugging / Profiling Tool that can Trace and Visualize your Python Code Execution](https://github.com/gaogaotiantian/viztracer)
 
 
 ### Refactoring

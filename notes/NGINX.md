@@ -1,5 +1,6 @@
 ## NGINX snippets
 
+- [NGINX Resources](https://github.com/fcambus/nginx-resources)
 
 ### Articles
 - [Guide to Downloading and Using NGINX as a Load Balancer](https://medium.com/@jonathantan12/guide-to-downloading-and-using-nginx-as-a-load-balancer-cfb3bf5d6ab8)

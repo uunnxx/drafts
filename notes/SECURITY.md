@@ -46,3 +46,15 @@
 
 ### IoT
 - [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)
+
+
+
+
+### Network Related
+- [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+- [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+    - [Understanding CORS](https://itnext.io/understanding-cors-4157bf640e11)
+    - [MDN, CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+    - [How to win at CORS](https://jakearchibald.com/2021/cors/)
+    - [Questions About CORS](https://questions.wizardzines.com/cors.html)
+    - [Julia's Drawings: CORS](https://drawings.jvns.ca/cors/)

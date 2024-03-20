@@ -5,6 +5,8 @@
 
 - [PostgreSQL DBA](https://roadmap.sh/postgresql-dba)
 
+- [Basic Database Tutorail](https://github.com/LpilinAlexandr/basic_db)
+
 - [docs: ru](https://postgrespro.ru/docs/)
     - [12.3. Управление текстовым поиском](https://postgrespro.ru/docs/postgresql/15/textsearch-controls)
 - [books]
@@ -39,6 +41,11 @@
     - [35% Faster than the Filesystem](https://www.sqlite.org/fasterthanfs.html)
 
 
+
+### Message Brokers
+- [RabbitMQ vs. Kafka vs. ActiveMQ: A Battle of Messaging Brokers](https://www.designgurus.io/blog/rabbitmq-kafka-activemq-system-design)
+
+
 ### Redis
 - [Redis Experience](https://alex.dzyoba.com/blog/redis-experience/)
 
@@ -50,3 +57,6 @@
 - [Подборка материалов для изучения баз данных и SQL](https://proglib.io/p/sql-digest)
 - [A Better Way to Store Record Status in A Relational Database](https://dev.to/houseman/a-better-way-to-store-record-status-in-a-relational-database-2ik1)
 - [Writing SQL Like a Pro: Advanced Techniques Showcased in a Real-Life Scenario](https://medium.com/learning-sql/writing-sql-like-a-pro-advanced-techniques-showcased-in-a-real-life-scenario-2811a848d34a)
+- [Вопросы по SQL, которые часто задают на собеседовании. Часть 1](https://habr.com/ru/articles/790850/)
+- [Вопросы по SQL, которые часто задают на собеседовании. Часть 2](https://habr.com/ru/articles/791208/)
+- [SQL урок 3. запросы sql inner join (объединение таблиц)](https://wudgleyd.ru/pc/perekrestnye-zaprosy-sql-ili-kross-tablicnye-vyrazenia.html?__cf_chl_tk=KiaC5W258jd.zXOhZUQp2XPu3gOBy7qYrJcOA_LXlnQ-1697639975-0-gaNycGzNC_s)

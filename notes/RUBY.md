@@ -2,6 +2,7 @@
 
 
 ### Gems
+- [litestack: All your data infrastructure, in a gem!](https://github.com/oldmoe/litestack)
 - [agoo: A High Performance HTTP Server for Ruby](https://github.com/ohler55/agoo)
 
 

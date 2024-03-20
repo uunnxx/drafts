@@ -1,6 +1,9 @@
 ## Design Patterns:
 
 - [Cloud Design Pattern by Microsoft Azure](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- [Python Design Pattern](https://github.com/uunnxx/python-design-pattern)
+    - [SOLID](https://github.com/uunnxx/python-design-pattern/tree/main/SOLID)
+
 
 
 [group by]
@@ -83,6 +86,7 @@
 
 
 #### DI (Dependency Injection)
+- [awesome dependency injection in python](https://github.com/sfermigier/awesome-dependency-injection-in-python)
 - [Python - DI (part 1)](https://snir-orlanczyk.medium.com/python-di-dependency-injection-710edc054e93)
 - [Python - DI (part 2)](https://snir-orlanczyk.medium.com/python-di-dependency-injection-part-2-containers-c621f4311d55)
 

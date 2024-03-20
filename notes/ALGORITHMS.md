@@ -1,11 +1,11 @@
-### Algorithms:
+## Algorithms:
 
 - [AlgoExpert](https://www.algoexpert.io/product)
 - [Visualising data structures and algorithms through animation](https://visualgo.net/en)
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 
 
-#### Binary Tree's
+### Binary Tree's
 - [Binary Tree: Wiki](https://en.wikipedia.org/wiki/Binary_tree)
 - [Binary Trees by Nick Parlante](http://cslibrary.stanford.edu/110/BinaryTrees.html)
 - [Binary Trees by Andrew](https://www.andrew.cmu.edu/course/15-121/lectures/Trees/trees.html)
@@ -13,13 +13,11 @@
 - [Kruskal's Minimum Spanning Tree](http://stoimen.com/2012/11/12/computer-algorithms-kruskals-minimum-spanning-tree/)
 - [Finding the Lowest Common Ancestor](http://stoimen.com/2012/08/24/computer-algorithms-finding-the-lowest-common-ancestor/)
 - [Introduction to Red-Black Tree](https://www.geeksforgeeks.org/introduction-to-red-black-tree/)
+- Questions
+    - [Which side do we place a node if it is equal to the parent](https://stackoverflow.com/questions/68207641/which-side-do-we-place-a-node-if-it-is-equal-to-the-parent-in-a-binary-search-tr)
 
 
-##### Questions
-- [Which side do we place a node if it is equal to the parent](https://stackoverflow.com/questions/68207641/which-side-do-we-place-a-node-if-it-is-equal-to-the-parent-in-a-binary-search-tr)
-
-
-#### Search
+### Search
 - [Binary Search](http://stoimen.com/2011/12/26/computer-algorithms-binary-search/)
 - [Binary Search Tree](http://stoimen.com/2012/06/22/computer-algorithms-binary-search-tree-data-structure/)
 - [Balancing a Binary Search Tree](http://stoimen.com/2012/07/03/computer-algorithms-balancing-a-binary-search-tree/)
@@ -31,12 +29,12 @@
 - [Почему B-деревья бытрые?](https://habr.com/ru/articles/783012/)
 
 
-#### Sorting
+### Sorting
 - [Sorting Algorithm Classification](https://www.programmersought.com/article/57823887397/)
 - [Must-Know Sorting Algorithms in Python](https://zaxrosenberg.com/must-know-sorting-algorithms-in-python/)
 
 
-#### Graphs
+### Graphs
 - [100+ Graph algorithms and Techniques [Complete List]](https://iq.opengenus.org/list-of-graph-algorithms/)
 - [Bellman-Ford Shortest Path in a Graph](http://stoimen.com/category/data-structures-2/page/3/)
 
@@ -55,6 +53,6 @@
 
 
 
-
-
+### Articles
+- [6 Algorithms Every Developer Should Know](https://medium.com/dare-to-be-better/6-algorithms-every-developer-should-know-f78b609c7e7c)
 - [Data Structure & Algorithms](https://dev.to/badhonnandi1/data-structure-algorithms-in-python-3jkk)

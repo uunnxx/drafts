@@ -11,6 +11,7 @@
 
 ### Tutorials
 - [Git Tutorial](https://www.geeksforgeeks.org/git-tutorial/?ref=footer)
+- [Оффлайновое использование Git](https://habr.com/ru/companies/wunderfund/articles/791190/)
 
 
 ### Articles
@@ -34,3 +35,11 @@
 
 
 
+- [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+
+
+## GitHub
+- [Find active Github forks on a repo](https://github.com/techgaun/active-forks)
+- [Find the most popular fork on Github](https://github.com/AndreMiras/gitpop2)
+- [Github Page](https://ansohxxn.github.io/blog/category/#1%EF%B8%8F%E2%83%A3-%ED%8F%AC%EC%8A%A4%ED%8C%85%EC%8B%9C-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%93%B1%EB%A1%9D)

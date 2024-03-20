@@ -1,5 +1,18 @@
 # APPS
 
+
+- [Memcached](https://memcached.org)
+    - [github](https://github.com/memcached/memcached)
+- [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call)
+- [Redis](https://redis.io/)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [LavinMQ](https://lavinmq.com/)
+    - [Docs](https://lavinmq.com/documentation/getting-started)
+- [ZeroMQ](https://zeromq.org/)
+- [Prometheus: From metrics to insight](https://prometheus.io/)
+- [Grafana: Operational dashboards for your data](https://grafana.com/)
+- [Test, build, and deploy your apps from anywhere, the same way!](https://github.com/flemay/3musketeers)
+
 ## GNU/Linux
 - rake
     - https://github.com/ruby/rake
@@ -21,6 +34,8 @@
     - look        `linux`
 - version control
     - git
+        - [gh](https://github.com/cli/cli)
+            - [manual](https://cli.github.com/manual/)
     - fossil
 - string manipulation
     - [String Manipulation `sttr`](https://snapcraft.io/sttr)

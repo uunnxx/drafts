@@ -3,6 +3,7 @@
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
 - [System Design Primer](https://github.com/uunnxx/system-design-primer)
 - [Azure Application Architecture Fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/)
+- [System Design: The complete course](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo)
 
 ### API
 - [API Design 101: From Basics to Best Practices](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)
@@ -30,6 +31,8 @@
 - [Python REST APIs with Flask, Connexion, and SQLAlchemy - Part III](https://realpython.com/flask-connexion-rest-api-part-3/)
 - [The Right Way to Build an API with Python](https://towardsdatascience.com/the-right-way-to-build-an-api-with-python-cd08ab285f8f)
 - [Mastering the Art of REST APIs: A Complete Overview](https://dev.to/scofieldidehen/mastering-the-art-of-rest-apis-a-complete-overview-4gfh)
+- [REST worst practices](https://jacobian.org/2008/nov/14/rest-worst-practices/)
+- [A REST wankery question](https://jacobian.org/2011/may/25/rest-wankery-question/)
 
 
 ### Microservices

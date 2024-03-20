@@ -19,11 +19,12 @@
 ### NETWORK
 - [waitress: Pure-Python WSGI Server](https://docs.pylonsproject.org/projects/waitress/en/stable/index.html)
 - [An Event-Driven Networking Engine](https://twisted.org/)
+    - [github](https://github.com/twisted/twisted)
 - [requests](https://requests.readthedocs.io/en/latest/)
-- [aiohttp](https://docs.aiohttp.org/en/stable/)
 - [HTTPx: A Next Generation HTTP Client for Python](https://github.com/encode/httpx/)
 - [httpie](https://httpie.org)
 - [A Python Wrapper Around the OpenSSL Library](https://github.com/pyca/pyopenssl)
+
 
 
 ### ORM & DB
@@ -34,6 +35,7 @@
 - [PsycoPG: PostgreSQL Adapter](https://www.psycopg.org/)
 - [Pure-Python Implementation of the AMQP 0-9-1 Protocol](https://pika.readthedocs.io/en/stable/)
 - [PyMongo: MongoDB](https://pymongo.readthedocs.io/en/stable/)
+- [sqlmodel](https://github.com/tiangolo/sqlmodel)
 
 
 ### LOGGING
@@ -47,16 +49,6 @@
 ### Linter
 - [ruff](https://docs.pytest.org/en/latest/)
     - [docs](https://docs.astral.sh/ruff/)
-
-
-### TEST
-- [pytest](https://github.com/pytest-dev/pytest/)
-    - [docs](https://docs.pytest.org/en/latest/)
-- [tox](https://github.com/tox-dev/tox)
-    - [docs](https://tox.wiki/en/4.12.1/user_guide.html)
-- [BDD](https://github.com/behave/behave)
-- [Faker](https://github.com/joke2k/faker)
-- [Wraps any WSGI Application and Makes it Easy to Send Test Requests](https://github.com/Pylons/webtest)
 
 
 ### BG TASK
@@ -89,15 +81,19 @@
 - [pydantic](https://docs.pydantic.dev/)
 - [ujson: Ultra Fast JSON Decoder and Encoder Written in C with Python Bindings](https://github.com/ultrajson/ultrajson)
 - [simplejson](https://simplejson.readthedocs.io/en/latest/)
+- [uv:  An extremely fast Python package installer an dresolver, written in Rust](https://github.com/astral-sh/uv)
 
 
-### ASYNC & PARALLEL
+### Async & Concurrency & Parallel
 - [uvloop](https://github.com/MagicStack/uvloop)
 - [Coroutine-based Concurrency Library for Python](https://github.com/gevent/gevent)
 - [asyncio is a library to write concurrent code using the async/await syntax.](https://docs.python.org/3/library/asyncio.html)
+- [AnyIO is an asynchronous networking and concurrency library that works on top of either asyncio or trio.](https://github.com/python-trio/trio)
+- [aiohttp](https://docs.aiohttp.org/en/stable/)
+- [aiofiles: file support for async](https://pypi.org/project/aiofiles/)
+    - [AIOFiles for AsyncIO in Python](https://superfastpython.com/aiofiles-for-asyncio-in-python/)
 - [Trio – a friendly Python library for async concurrency and I/O](https://github.com/python-trio/trio)
     - [Trio Docs](https://trio.readthedocs.io/en/stable/index.html)
-- [AnyIO is an asynchronous networking and concurrency library that works on top of either asyncio or trio.](https://github.com/python-trio/trio)
 
 
 ### GENERAL
