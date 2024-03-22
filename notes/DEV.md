@@ -30,7 +30,6 @@
     - [Episode 1: Python](https://dev.to/taw/100-languages-speedrun-episode-01-python-22c3)
     - [Episode 59: Smalltalk](https://dev.to/taw/100-languages-speedrun-episode-59-smalltalk-ang?signin=true)
 - [Lessons Learned from Previous Project](https://blog.frankel.ch/lessons-learned-previous-projects/)
-- [Code Interview](https://www.freecodecamp.org/learn/coding-interview-prep)
 - [Scaling Dumb Fuzzing with Kubernetes](https://archcloudlabs.com/projects/dumb_fuzzing)
 - [Red Nose Hacker](https://rednosehacker.com/)
 - http://rebekahheacock.org/
@@ -150,3 +149,7 @@ Diagrams
 
 
 ## LocalStack Related
+
+
+## Code Review
+- [Code review по-человечески (часть 1)](https://habr.com/ru/articles/340550/)

@@ -11,3 +11,7 @@
 
 - AUTH
     - [Flask Framework](https://python-social-auth.readthedocs.io/en/latest/configuration/flask.html)
+
+
+### Articles
+- [Flask docs: ru](https://proproprogs.ru/flask)

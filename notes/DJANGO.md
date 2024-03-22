@@ -33,9 +33,19 @@
     - [How to Add Django Models to the Wagtail Admin](https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/)
     - [Tips for Using Django's ManyToMany Field](https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/)
     - [Keeping Django Models Ordered](https://www.revsys.com/tidbits/keeping-django-model-objects-ordered/)
+- Mixins
+    - [Simple mixins](https://docs.djangoproject.com/en/5.0/ref/class-based-views/mixins-simple/)
+    - [Using mixins with class-based-views](https://docs.djangoproject.com/en/5.0/topics/class-based-views/mixins/)
+    - [Using mixins with class-based-views](https://django.fun/docs/django/5.0/topics/class-based-views/mixins/)
+    - [Mixin example with class-based-views](https://stackoverflow.com/questions/63649113/can-you-show-me-an-example-of-mixins-with-class-based-views-in-django-what-is-t)
+    - [Mixins - убираем дублирование кода](https://proproprogs.ru/django/mixins-ubiraem-dublirovanie-koda)
+    - [Mastering Mixins in Django](https://medium.com/@bobbykboseoffice/mastering-mixins-in-django-acda05b34dd6)
 - Test
     - [pytest support for django-test-plus](https://www.revsys.com/tidbits/pytest-support-django-test-plus/)
+- Serializers
+    - [Mastering Data Serialization in Django: From Built-in to Custom](https://medium.com/@bobbykboseoffice/mastering-data-serialization-in-django-from-built-in-to-custom-c151029deaed)
 - [Настройка и подключение статических файлов в Django](https://pythonru.com/uroki/django-static)
+- [Django 4 Docs :ru](https://proproprogs.ru/django4)
 
 
 
@@ -59,6 +69,7 @@
 - [Django REST Framework official documentation](https://www.django-rest-framework.org/)
     - [Authentication](https://www.django-rest-framework.org/api-guide/authentication/)
     - [Requests](https://www.django-rest-framework.org/api-guide/requests/)
+    - [Generic views](https://www.django-rest-framework.org/api-guide/generic-views/)
 - [Django REST Framework Views - APIViews](https://testdriven.io/blog/drf-views-part-1/)
 - [Django REST API - CRUD with DRF](https://www.geeksforgeeks.org/django-rest-api-crud-with-drf/)
 - [How to Create a REST API with Django REST Framework](https://blog.logrocket.com/django-rest-framework-create-api/)
@@ -73,6 +84,7 @@
 - [Pro-Tip - A Tip About DRF Permissions](https://www.revsys.com/tidbits/tip-about-drf-permissions/)
 - [Custom Exceptions in Django REST Framework](https://www.revsys.com/tidbits/custom-exceptions-django-rest-framework/)
 - [Using Different Read and Write Serializers in DRF](https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/)
+- [Secure Your Django REST API with Authentication and Authorization](https://medium.com/@bobbykboseoffice/securing-your-django-rest-api-with-authentication-and-authorization-cf5b1c231cde)
 
 
 ## Django Ninja

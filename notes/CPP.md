@@ -5,6 +5,7 @@
 
 ### Library
 - [A C++ 20 Library for Sequency-Oriented Programming](https://github.com/tcbrindle/flux)
+- [Fast C++ logging library](https://github.com/gabime/spdlog)
 
 
 
@@ -25,6 +26,7 @@
 - [Writing a Custom Iterator in Modern C++](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
 - [Малоизвестные и интересные особенности C и C++](https://habr.com/ru/articles/786096/)
 - [Оптимизируя неоптимизируемое: ускорение компиляции C++](https://habr.com/ru/companies/ruvds/articles/785420/)
+- [Неопределённое поведение в C/C++ и приёмы против лома](https://habr.com/ru/articles/756000/)
 
 
 
