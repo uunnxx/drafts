@@ -1,5 +1,6 @@
 ## Algorithms:
 
+- [100 Days of Algorithms](https://github.com/uunnxx/100days)
 - [AlgoExpert](https://www.algoexpert.io/product)
 - [Visualising data structures and algorithms through animation](https://visualgo.net/en)
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)

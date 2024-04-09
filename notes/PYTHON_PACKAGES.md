@@ -82,6 +82,7 @@
 - [ujson: Ultra Fast JSON Decoder and Encoder Written in C with Python Bindings](https://github.com/ultrajson/ultrajson)
 - [simplejson](https://simplejson.readthedocs.io/en/latest/)
 - [uv:  An extremely fast Python package installer an dresolver, written in Rust](https://github.com/astral-sh/uv)
+- [icecream](https://github.com/gruns/icecream)
 
 
 ### Async & Concurrency & Parallel
@@ -130,6 +131,7 @@
 
 ## STD Libraries
 - [functools](https://docs.python.org/3/library/functools.html)
+    - [singledispatch](https://docs.python.org/3/library/functools.html#functools.singledispatch)
 - [itertools: Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html)
 - [heapq: Heap Queue Algorithm](https://docs.python.org/3/library/heapq.html#module-heapq)
 - [pickle: Python Object Serialization](https://docs.python.org/3/library/pickle.html)

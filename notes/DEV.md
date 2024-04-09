@@ -2,6 +2,7 @@
 
 
 ### Blogs
+- [A Curated List of Engineering Blogs](https://github.com/uunnxx/engineering-blogs)
 - [Alex Dzyoba](https://alex.dzyoba.com/blog/)
 
 ### Sites
@@ -15,6 +16,8 @@
 
 ### Project ideas
 - [Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
+- [A collection of application ideas which can be used to improve your coding skills](https://github.com/uunnxx/app-ideas)
+- [Mega list of practical projects that one can solve in any programming language](https://github.com/uunnxx/1000_Projects)
 - [Wrong 'Big Projects' for Beginners](https://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners)
 - [Programming Tasks](https://rosettacode.org/wiki/Category:Programming_Tasks)
 - [Project Lists](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?__cf_chl_f_tk=YiP_UbR0s4FHMJL4lTEr74Oj2f0AGI.FYJBclF5PlcQ-1642402269-0-gaNycGzNCiU)
@@ -153,3 +156,8 @@ Diagrams
 
 ## Code Review
 - [Code review по-человечески (часть 1)](https://habr.com/ru/articles/340550/)
+
+
+## Datasets
+- [Data World](https://data.world/)
+- [Kaggle](https://www.kaggle.com/datasets)

@@ -1,6 +1,8 @@
 ## Python Roadmap
 
 
+- [TimeComplexity](https://wiki.python.org/moin/TimeComplexity)
+
 ### Books:
 - [Super Fast Python](https://superfastpython.com/products/)
 
@@ -25,6 +27,12 @@
 
 ### Blogs:
 - [REVSYS Blogs](https://www.revsys.com/tidbits/)
+
+
+### Check
+- [Python programs, usually short, of considerable diffuculty, to prefect particular skills](https://github.com/uunnxx/pytudes)
+- [Lectures on scientific computing with python, as IPython notebooks](https://github.com/uunnxx/scientific-python-lectures)
+- [Fully-functional event loop in 100 LOC of python](https://github.com/uunnxx/simple-event-loop)
 
 
 ### Articles
@@ -56,6 +64,7 @@
 - [Introduction to Multi-Threading vs Multi-Processing (Part 1)](https://medium.com/@jonathantan12/multi-threading-vs-multi-processing-with-python-examples-e56d71b2ed69)
 - [Introduction to Multi-Threading vs Multi-Processing (Part 2)](https://medium.com/@jonathantan12/introduction-to-multi-threading-and-multi-processing-in-python-part-2-0d23428871cb)
 - [Mastering Asynchronous Programming in Python: A Comprehensive Gudie](https://blog.devgenius.io/mastering-asynchronous-programming-in-python-a-comprehensive-guide-ef1e8e5b35db)
+- [Multithreading in Python: the obvious and the incredible](https://dev.to/abstractart/multithreading-in-python-the-obvious-and-the-incredible-1o9c)
 - asyncio
     - [asyncio: Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
     - [Python Async Function](https://blog.finxter.com/python-async-function/)
@@ -269,15 +278,8 @@
 
 
 
-
-
-
-
-
-
 ### Logging
 - LOGURU
-
 - [Logs with the logging package](https://blog.stackademic.com/python-logs-with-the-logging-package-0ea3a033607f)
 - [VizTracer is a Low-overhead Logging / Debugging / Profiling Tool that can Trace and Visualize your Python Code Execution](https://github.com/gaogaotiantian/viztracer)
 
@@ -312,9 +314,12 @@
 ### recom. courses
 - Core Python Paths
 - Python Deep Dive
-- Advanced Python
 - Python - Beyond the Basics
+- Advanced Python
 - Python3 Programming Specialization
+- Secondary
+    - [x] Python 3 Best Practices
+    - [x] TalkPython: Python 3.11: A Guide Tour Through Code
 
 
 

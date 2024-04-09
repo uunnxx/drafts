@@ -7,6 +7,7 @@
 ### Library
 - [A C++ 20 Library for Sequency-Oriented Programming](https://github.com/tcbrindle/flux)
 - [Fast C++ logging library](https://github.com/gabime/spdlog)
+- [Abseil Common Libraries](https://github.com/abseil/abseil-cpp)
 
 
 
@@ -30,3 +31,6 @@
 
 
 
+- Package Managers
+    - [Conan](https://conan.io/)
+    - [vcpkg](https://vcpkg.io/en/index.html)

@@ -13,6 +13,7 @@
 - [Django](https://learnbatta.com/course/django/)
 - [Slugs as primary keys](https://www.revsys.com/tidbits/slugs-primary-keys/)
 - Celery
+    - [Decreasing RAM Usage by 40% Using `jemalloc` with Python & Celery](https://zapier.com/engineering/celery-python-jemalloc/)
     - [Workflow using Django Celery](https://awstip.com/workflow-using-django-celery-cf65092c5add)
     - [TIL: Celery and Django and Docker: Oh My!](https://www.revsys.com/tidbits/celery-and-django-and-docker-oh-my/)
     - [Creating Asynchronous Tasks with Celery and Django](https://realpython.com/courses/asynchronous-tasks-celery-django/)

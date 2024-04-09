@@ -13,3 +13,6 @@
 
 ### Embedded Systems
 - [A bare metal programming guide (ARM microcontrollers)](https://github.com/cpq/bare-metal-programming-guide)
+
+
+- [A simple heap memory allocator in ~200 LOC](https://github.com/uunnxx/heap_allocator)

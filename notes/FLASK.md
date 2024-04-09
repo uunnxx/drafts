@@ -15,3 +15,5 @@
 
 ### Articles
 - [Flask docs: ru](https://proproprogs.ru/flask)
+- [Deploying a Python Flaks App to Kubernetes](https://dev.to/ibmdeveloper/deploying-a-python-flask-application-to-kubernetes-1n76)
+- [Мега-Учебник Flask. Глава 1: Привет, мир! 2014](https://habr.com/ru/articles/804245/)

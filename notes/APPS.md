@@ -5,6 +5,7 @@
     - [github](https://github.com/memcached/memcached)
 - [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call)
 - [Redis](https://redis.io/)
+    - [Redit: fork](https://codeberg.org/redict/redict.io)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [LavinMQ](https://lavinmq.com/)
     - [Docs](https://lavinmq.com/documentation/getting-started)
@@ -37,10 +38,14 @@
         - [gh](https://github.com/cli/cli)
             - [manual](https://cli.github.com/manual/)
     - fossil
+    - [Pijul](https://pijul.com/)
+        - [doc](https://pijul.com/manual/introduction.html)
+        - [hub](https://nest.pijul.com/)
 - string manipulation
     - [String Manipulation `sttr`](https://snapcraft.io/sttr)
 - [A modal keyboard-driven virtual pointer: MOUSLESS](https://github.com/rvaiya/warpd) 
 - [Linux GUI for Yandex.Disk](https://github.com/abbat/ekstertera)
+- [spf: filemanager](https://github.com/MHNightCat/superfile)
 
 ------------------------------------------------------------------------
 - [abduco: Session Management (tmux like)](https://github.com/martanne/abduco)
@@ -50,6 +55,7 @@
 - [Run local CI builds and validate configuration](https://snapcraft.io/circleci)
 - [Visualizer for neural network, deep learning, and machine learning models](https://snapcraft.io/netron)
 - Beekeeper Studio [SQL]
+- [sqldef: Idempotent schema managment for MySQL, PostgreSQL, and more](https://github.com/uunnxx/sqldef)
 
 ------------------------------------------------------------------------
 - https://excalidraw.com/
@@ -119,6 +125,7 @@
 - xwinwrap
 - vintoy
 - Balena Etcher
+- [trash](https://github.com/oberblastmeister/trashy)
 
 
 ------------------------------------------------------------------------

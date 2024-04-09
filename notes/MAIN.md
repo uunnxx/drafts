@@ -160,4 +160,8 @@
     - Slava Russian Dictionary
     - Language Reactor
     - DeepL
+- YouTube
+    - PocketTube
+    - Enhance for YouTube
+    - Return YouTube Dislike
 

@@ -72,6 +72,7 @@ tar -xvzf filename.tar.gz
 
 ## Linux Development
 - [Hiding the kernel from user space](https://lwn.net/Articles/738975/)
+- [Linux Binary Exploitation](https://github.com/uunnxx/BinExp)
 
 
 ### Parallel, Async, Thread Programming
@@ -79,4 +80,5 @@ tar -xvzf filename.tar.gz
 - [Linux Asynchronous IO](https://web.archive.org/web/20150406015143/http://code.google.com/p/kernel/wiki/AIOUserGuide)
 - [Faster IO through `io_uring`](https://kernel-recipes.org/en/2019/talks/faster-io-through-io_uring/)
 - [Does poll/epoll block? How is it different from async IO](https://itecnote.com/tecnote/does-poll-epoll-block-how-is-it-different-from-async-io/)
+
 
