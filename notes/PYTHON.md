@@ -97,6 +97,7 @@
 ### Testing
 - [pytest](https://github.com/pytest-dev/pytest/)
     - [docs](https://docs.pytest.org/en/latest/)
+- [nose](https://nose.readthedocs.io/en/latest/)
 - [tox](https://github.com/tox-dev/tox)
     - [docs](https://tox.wiki/en/4.12.1/user_guide.html)
 - [BDD](https://github.com/behave/behave)
@@ -163,6 +164,7 @@
 
 
 ### OOP
+- [Catalog of Python object-oriented programming articles and links](https://github.com/metaperl/python-oop)
 - [Understanding Classes in Python: From Templates to Objects](https://medium.com/@noransaber685/understanding-classes-in-python-from-templates-to-objects-8fa920aad3a1)
 - [Advanced OOP in Python](https://medium.com/@aserdargun/advanced-oop-in-python-a5f6130da291)
 - [Super Inherit Yoru Python Class](https://elfi-y.medium.com/super-inherit-your-python-class-196369e3377a)

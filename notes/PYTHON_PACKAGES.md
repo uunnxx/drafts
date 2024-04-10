@@ -47,7 +47,7 @@
 
 
 ### Linter
-- [ruff](https://docs.pytest.org/en/latest/)
+- [ruff](https://astral.sh/ruff/)
     - [docs](https://docs.astral.sh/ruff/)
 
 

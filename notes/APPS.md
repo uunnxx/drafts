@@ -6,6 +6,7 @@
 - [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call)
 - [Redis](https://redis.io/)
     - [Redit: fork](https://codeberg.org/redict/redict.io)
+    - [KeyDB: A Multithreaded Fork of Redis](https://github.com/Snapchat/KeyDB)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [LavinMQ](https://lavinmq.com/)
     - [Docs](https://lavinmq.com/documentation/getting-started)
@@ -13,6 +14,7 @@
 - [Prometheus: From metrics to insight](https://prometheus.io/)
 - [Grafana: Operational dashboards for your data](https://grafana.com/)
 - [Test, build, and deploy your apps from anywhere, the same way!](https://github.com/flemay/3musketeers)
+- [Forgejo: self-hosted code (gitea)](https://forgejo.org/)
 
 ## GNU/Linux
 - rake

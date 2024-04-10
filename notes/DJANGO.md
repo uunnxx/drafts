@@ -47,6 +47,8 @@
     - [Mastering Data Serialization in Django: From Built-in to Custom](https://medium.com/@bobbykboseoffice/mastering-data-serialization-in-django-from-built-in-to-custom-c151029deaed)
 - [Настройка и подключение статических файлов в Django](https://pythonru.com/uroki/django-static)
 - [Django 4 Docs :ru](https://proproprogs.ru/django4)
+- Microservices
+    - [Python Microservices with Kafka and Django](https://python.plainenglish.io/microservices-in-python-kafka-and-django-c4e4fc83b7ef)
 
 
 
