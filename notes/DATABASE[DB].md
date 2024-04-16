@@ -60,3 +60,4 @@
 - [Вопросы по SQL, которые часто задают на собеседовании. Часть 1](https://habr.com/ru/articles/790850/)
 - [Вопросы по SQL, которые часто задают на собеседовании. Часть 2](https://habr.com/ru/articles/791208/)
 - [SQL урок 3. запросы sql inner join (объединение таблиц)](https://wudgleyd.ru/pc/perekrestnye-zaprosy-sql-ili-kross-tablicnye-vyrazenia.html?__cf_chl_tk=KiaC5W258jd.zXOhZUQp2XPu3gOBy7qYrJcOA_LXlnQ-1697639975-0-gaNycGzNC_s)
+- [SQL - order of query execution](https://lukianovihor.medium.com/sql-order-of-query-execution-8c7cd926400)

@@ -3,6 +3,7 @@
 ### Libs
 - [The GNU Multiple Precision Arithmetic Library (GMP Arithmetic without limitations)](https://gmplib.org/)
 - [facil.io - The C Web Application Framework](https://facil.io/)
+- [Concurrent library for C (coroutines)](https://github.com/tidwall/neco)
 
 
 ---------------------------------

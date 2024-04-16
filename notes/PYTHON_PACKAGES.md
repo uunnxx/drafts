@@ -1,5 +1,8 @@
 ## Packages:
 
+[hatch: Modern, extensible Python project management](https://hatch.pypa.io/latest/)
+    - [github](https://github.com/pypa/hatch)
+
 ### WEB
 - Frameworks
     - [Django](https://www.djangoproject.com/)

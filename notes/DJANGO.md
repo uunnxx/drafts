@@ -45,6 +45,7 @@
     - [pytest support for django-test-plus](https://www.revsys.com/tidbits/pytest-support-django-test-plus/)
 - Serializers
     - [Mastering Data Serialization in Django: From Built-in to Custom](https://medium.com/@bobbykboseoffice/mastering-data-serialization-in-django-from-built-in-to-custom-c151029deaed)
+    - [All About Django Serializers](https://python.plainenglish.io/learn-advance-django-serializer-concepts-54c6af16233e)
 - [Настройка и подключение статических файлов в Django](https://pythonru.com/uroki/django-static)
 - [Django 4 Docs :ru](https://proproprogs.ru/django4)
 - Microservices
