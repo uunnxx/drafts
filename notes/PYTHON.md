@@ -27,6 +27,7 @@
 
 ### Blogs:
 - [REVSYS Blogs](https://www.revsys.com/tidbits/)
+- [The Invent with Python Blog](https://inventwithpython.com/blog/archives.html)
 
 
 ### Check
