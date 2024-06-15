@@ -11,5 +11,6 @@
 - [Why I Love Elixir As a Long Time Python User](https://dev.to/abdurrahmaanj/why-i-love-elixir-as-a-long-time-python-user-19ph)
 - [Building a game server in elixir](https://dev.to/sushant12/building-a-game-server-in-elixir-27of)
 
+https://mlsdev.medium.com/elixir-vs-ruby-and-phoenix-vs-rails-what-to-choose-and-why-130b34abe3a1
 
 - [hex](https://hex.pm/)

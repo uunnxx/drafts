@@ -4,6 +4,8 @@
 ### Blogs
 - [A Curated List of Engineering Blogs](https://github.com/uunnxx/engineering-blogs)
 - [Alex Dzyoba](https://alex.dzyoba.com/blog/)
+- [M. Herman](https://mherman.org/)
+- [Sahanda Saba](https://sahandsaba.com/)
 
 ### Sites
 - [A Collection of Learning Resources for Curious Software Engineers](https://github.com/charlax/professional-programming?tab=readme-ov-file)
@@ -96,17 +98,20 @@
 - [Crystal](https://crystal-lang.org/)
 - [Scala](https://www.scala-lang.org/)
 - [Idris](https://github.com/idris-lang/Idris2)
+- [Gleam](https://gleam.run/)
+    - [Gleam for Python users](https://gleam.run/cheatsheets/gleam-for-python-users/)
+    - [Source: GitHub](https://github.com/gleam-lang/gleam)
 
 
 
 ## Software Architecture
-- ActivityPub
+- ActivityPub [federated network]
 - Zero Trust Architecture [based on the principle of `never trust, always verify` as opposed to the traditional `trust, but verify`]
 - [Hexagonal Architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 
 
 ### SEARCH
-- [ ] Tail Call Elimination
+- Tail Call Elimination
 
 
 ### Computing
@@ -161,3 +166,8 @@ Diagrams
 ## Datasets
 - [Data World](https://data.world/)
 - [Kaggle](https://www.kaggle.com/datasets)
+
+
+
+## UML
+- [mermaid-cheat-sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)

@@ -1,7 +1,7 @@
 ## Network Related
 
 ### TCP/IP
-- [Basic TCP/IP networking reference guide]
+- Basic TCP/IP networking reference guide
 
 
 ### Articles

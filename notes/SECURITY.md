@@ -1,9 +1,6 @@
 ## Security Related
 
 
-
-
-
 ### Tutorials
 - [Awesome Hacking](https://github.com/uunnxx/Awesome-Hacking/)
 - [7 Lessons, Kick-start your Cybersecurity Learning (Microsoft)](https://github.com/microsoft/Security-101)

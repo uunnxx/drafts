@@ -3,6 +3,7 @@
 
 redep:
     - Arabic
+    - Japanese
 
 
 ### Russian

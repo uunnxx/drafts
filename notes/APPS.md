@@ -15,6 +15,7 @@
 - [Grafana: Operational dashboards for your data](https://grafana.com/)
 - [Test, build, and deploy your apps from anywhere, the same way!](https://github.com/flemay/3musketeers)
 - [Forgejo: self-hosted code (gitea)](https://forgejo.org/)
+- [cloc: count line of content by programming languages `apt install cloc`](https://github.com/AlDanial/cloc)
 
 ## GNU/Linux
 - rake
@@ -80,6 +81,12 @@
 - [minikube]
 - [testcontainers](https://testcontainers.com/)
     - [Local Development of Go Application with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers)
+- [Kubernetes](https://kubernetes.io/)
+- [HashiCorp: Tools](https://developer.hashicorp.com/)
+    - [Nomad](https://developer.hashicorp.com/nomad)
+- [Lightweight Kubernetes](https://k3s.io/)
+- [Rio: An Application Deployment Engine for Kubernetes](https://rio.io/)
+
 
 
 ## Benchmarking
@@ -131,6 +138,8 @@
 - xwinwrap
 - vintoy
 - Balena Etcher
+- [Ventoy](https://github.com/ventoy/Ventoy)
+    - `# sh Ventoy2Disk.sh -i /dev/sdX # -i: install, -I force install, -u: update`
 - [trash](https://github.com/oberblastmeister/trashy)
 
 

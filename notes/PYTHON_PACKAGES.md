@@ -104,6 +104,7 @@
 - [Boltons](https://github.com/mahmoud/boltons)
     - [Docs](https://boltons.readthedocs.io/en/latest/index.html)
 - [typing: Support for type hints](https://docs.python.org/3/library/typing.html)
+- [blist: a list-like type with better asymptomic performance and similar performance on small lists](https://pypi.org/project/blist/)
 
 
 ### Django

@@ -39,6 +39,7 @@
 - [How to Use Docker for Local Development and Testing](https://www.geeksforgeeks.org/how-to-use-docker-for-local-development-and-testing)
 - [Build, Test and Deploy a `flask` REST API Application from GitHub using Jenkins Pipeline Running on Docker](https://www.geeksforgeeks.org/build-test-and-deploy-a-flask-rest-api-application-from-github-using-jenkins-pipeline-running-on-docker/)
 - [Запуск Django-приложения в Docker контейнере](https://pythonru.com/uroki/docker-django)
+- [Шпаргалка по безопасной сборке Docker-образов](https://habr.com/ru/companies/selectel/articles/813047/)
 
 
 ```

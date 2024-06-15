@@ -1,4 +1,13 @@
-How can I see the assembly code for a C++ program ?
+## GCC Related
+
+
+
+-------------
+
+
+#### How can I see the assembly code for a C++ program ?
+
+```
 
 gcc -S main.c
 
@@ -8,7 +17,11 @@ gcc -S main.c
 
 g++ -g -c -Wa,-alh main.c
 
-# => [PEEK INTO THE BINARY]
+```
+
+#### PEEK INTO THE BINARY
+
+```
 
 objdump -d main.out
 objdump -Mintel -drw main.o
@@ -27,8 +40,10 @@ alias disas='objdump -drwCS -Mintel'
 > gcc -g -c main.c
 > objdump -d -Mintel -S main.o
 
+```
 
-# => [USE YOUR DEBUGGER]
+
+#### USE YOUR DEBUGGER
 
 use `disas` command in `GDB`
 
