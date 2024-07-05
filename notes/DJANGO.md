@@ -95,3 +95,12 @@
 - [Django Ninja - Fast Django REST Framework](https://django-ninja.dev/)
     - [Request parsers](https://django-ninja.dev/guides/input/request-parsers/)
 - [Pro-Tip - Breaking up django-ninja views](https://www.revsys.com/tidbits/breaking-up-django-ninja-views/)
+
+
+
+
+[Channels to use WebSockets, create long-time connection]
+pip install channels
+
+Daphne [the server who serves ASGI]
+pip install daphne

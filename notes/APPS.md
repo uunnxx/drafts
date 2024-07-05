@@ -82,6 +82,7 @@
 - [testcontainers](https://testcontainers.com/)
     - [Local Development of Go Application with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers)
 - [Kubernetes](https://kubernetes.io/)
+    - [Kubeshark: The API Traffic Analyzer for kubernetes](https://www.kubeshark.co/)
 - [HashiCorp: Tools](https://developer.hashicorp.com/)
     - [Nomad](https://developer.hashicorp.com/nomad)
 - [Lightweight Kubernetes](https://k3s.io/)
