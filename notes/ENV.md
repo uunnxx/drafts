@@ -1,3 +1,6 @@
+[How do I make my display grayscale?](https://askubuntu.com/questions/1012905/how-do-i-make-my-display-grayscale)
+
+
 
 ```
 # xset r rate 130 40 

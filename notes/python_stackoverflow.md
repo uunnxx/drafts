@@ -11,4 +11,4 @@
 - [In practice, what are the main uses fro the `yield from`](https://stackoverflow.com/questions/9708902/in-practice-what-are-the-main-uses-for-the-yield-from-syntax-in-python-3-3)
 - [Python Progression Path - From Apprentice to Guru](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 - [Understanding Generators in Python](https://stackoverflow.com/questions/1756096/understanding-generators-in-python)
-
+- [How Do I Read From `stdin`](https://stackoverflow.com/questions/1450393/how-do-i-read-from-stdin)

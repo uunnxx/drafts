@@ -337,4 +337,10 @@
 `ls main.py | entr python main.py`
 
 
+#### Poetry config
+```
+# ~/.config/pypoetry/config.toml
 
+[virtualenvs]
+in-project = true
+```

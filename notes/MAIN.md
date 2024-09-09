@@ -144,6 +144,7 @@
 - [Kagi](kagi.com) $25/month
 - [DuckDuckGo](duckduckgo.com)
 - [Grepper](https://www.grepper.com/search.php)
+- [WikiPedia alternative frontend](wikiwand.com)
 
 
 #### Extensions

@@ -61,10 +61,15 @@
 - [sqldef: Idempotent schema managment for MySQL, PostgreSQL, and more](https://github.com/uunnxx/sqldef)
 
 ------------------------------------------------------------------------
-- https://excalidraw.com/
-- https://app.diagrams.net/
-- Postman
-- Insomnia
+- [ExcaliDraw](https://excalidraw.com/)
+- https://app.diagrams.net/ # not working use DrawIO
+    - [DrawIO](https://www.drawio.com/)
+- [Postman](https://www.postman.com/)
+- [Insomnia](https://insomnia.rest/)
+- curl
+    - [cheatsheet: devhints.io](https://devhints.io/curl)
+- [xh: Friendly and fast tool for sending HTTP requests](https://github.com/ducaale/xh)
+
 
 ## Debugger
 - [rr. C/C++ Primary Debugging tool for Linux](https://rr-project.org/)
@@ -195,3 +200,17 @@
 - [RESTer: A REST client for almost any web service](https://chromewebstore.google.com/detail/mokku/llflfcikklhgamfmnjkgpdadpmdplmji)
 - [Talend API Tester](https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)
 - [HTML Validator](https://chromewebstore.google.com/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk)
+
+
+- [Label Studio: OpenSource Data Labeling Platform](https://labelstud.io/)
+
+
+### Emulators
+- Waydroid
+    - [Waydroid Scripts](https://github.com/casualsnek/waydroid_script)
+- [reDroid](https://github.com/remote-android/redroid-doc)
+
+
+### Telegram:
+- [Kotatogram](https://github.com/kotatogram/kotatogram-desktop)
+- [AyuGram](https://github.com/AyuGram/AyuGramDesktop)

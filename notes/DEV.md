@@ -101,6 +101,7 @@
 - [Gleam](https://gleam.run/)
     - [Gleam for Python users](https://gleam.run/cheatsheets/gleam-for-python-users/)
     - [Source: GitHub](https://github.com/gleam-lang/gleam)
+    - [Learn x in y](https://learnxinyminutes.com/docs/gleam/)
 
 
 
