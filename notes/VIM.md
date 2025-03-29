@@ -18,7 +18,7 @@
 
 ### HELP
 - `:h shada`
-
+- [Vim Fold CheatSheet](https://gist.github.com/lestoni/8c74da455cce3d36eb68)
 
 ### Plugins
 - https://github.com/tpope/vim-surround
