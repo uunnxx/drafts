@@ -1,0 +1,145 @@
+Parts of Speech 品詞
+
+I. 自立語・じりつご- words that occur freely
+
+  A. 用言・ようげん – words that conjugate
+    1. 動詞・どうし – verbs
+    2. 形容詞・けいようし – verbal adjectives
+    3. 形容動詞・けいようどうし – nominal adjectives
+
+  B. 無用言・むようげん – words that do not conjugate
+    1. 体言・たいげん – substantives
+      a. 名詞・めいし – nouns
+      b. 代名詞・だいめいし – pronouns
+    2. 非体言・ひたいげん – non-substantives
+      a. 副詞・ふくし – adverbs
+      b. 接続詞・せつぞくし – conjunctions
+      c. 感動詞・かんどうし – interjections
+      d. 連体詞・れんたいし – demonstratives
+
+II. 付属語・ふぞくし – bound words
+
+  A. 助動詞・じょどうし – auxiliary verbs and adjectives
+
+  B. 助詞・じょし – particles
+    1. 格助詞・かくじょし – case particles
+    2. 接続助詞・せつぞくし – conjunctive particles
+    3. 副助詞・ふくじょし – adverbial particles
+    4. 係助詞・かかりじょし – linked particles
+    5. 終助詞・しゅうどうし – sentence-final particles
+
+  Types of Verbs　動詞の種類
+
+    不完全 – defective (lacking one or more stem forms)
+    不規則 – irregular (does not follow any one conjugation)
+    二重活用 – dual conjugation (follows two different conjugation patterns)
+    合併活用 -combined conjugation (the result of two once-independent forms merging into an irregular conjugation)
+    他動詞 – transitive verb (takes a direct object)
+    自動詞 – intransitive verb (does not take a direct object)
+    状態動詞 – stative verb (refers to something’s state of being)
+    動態動詞 – action verb (refers to an action)
+    補助動詞 – subsidiary verb (a verb which can be attached to another verb’s ren’youkei to add to its meaning)
+    助動詞 – auxiliary verb (a verb which must attach to a regular verb and/or adjective to complete its meaning)
+    助形容動詞 – auxiliary adjective (an adjective which must attach to a regular verb and/or adjective to complete its meaning)
+    時制助動詞 – auxiliary verbs of tense
+    相助動詞 – auxiliary verbs of aspect
+    極性助動詞 – auxiliary verbs of polarity
+    待遇助動詞 – auxiliary verbs of register
+    待遇補助動詞 – subsidiary verbs of register
+    待遇動詞 – verbs with inherent register
+    法助動詞 – auxiliary verbs of mood / modal auxiliary verbs
+    法助形容動詞 – auxiliary adjectives of mood / modal auxiliary adjectives
+
+Tenses 時制・じせい
+[express relative time]
+
+  現在・げんざい – present tense (is)
+  過去・かこ – past tense (was)
+  未来・みらい – future tense (will)
+
+Aspects 相・そう
+[express in/completeness]
+
+  未完了・みかんりょう – imperfect aspect (not completed)
+  完了・かんりょう – perfect aspect (completed)
+  継続・けいぞく – continuous aspect (ongoing)
+  存続・そんぞく – perfect continuous aspect
+
+Polarities 極性・きょくせい
+[express validity and falsity]
+
+  肯定・こうてい – affirmative polarity (is)
+  打消・うちけし or 否定・ひてい – negative polarity (is not)
+
+Voices 態・たい
+[expresses the relationship between a verb and its arguments]
+
+  能相・のうそう or 能動・のうどう – active voice (I do)
+  受身・うけみ or 受動・じゅどう – passive voice (It is done, I am …ed)
+  使役・しえき – causative/permissive voice (I make/let do)
+  使役受身・しえきうけみ or 使役受動・しえきじゅどう – causative-passive voice (I am made to do)
+  可能・かのう – potential voice (ability)
+
+Registers/Styles 待遇・たいぐう
+[the treatment of arguments in a sentence by the speaker]
+
+  尊敬・そんけい – honorific register
+  二重尊敬・にじゅうそんけい – double/hyper-honorific register
+  謙譲・けんじょう – humble register
+  丁寧・ていねい – polite register
+  普通 – standard register
+  敬体・けいたい – distal style (polite register)
+  常体・じょうたい – direct style (standard register)
+  ぞんざい – vulgar, contemptuous style
+
+Moods 法・ほう
+[expresses the speaker’s mood regarding/evaluation of an argument (usually the verb)]
+
+  what is
+    直接・ちょくせつ – indicative mood (declares)
+    自発・じはつ -spontaneous mood (unintention/natural course)
+    詠嘆・えいたん – poetic emphatic mood (noticing something special)
+    伝聞・でんぶん – renarrative mood (secondhand information)
+
+  what should be
+    勧誘・かんゆう – hortatory mood (the moods of urging)
+    協勧誘・きょうかんゆう – cohortatory mood* (let us)
+    赴勧誘・ふかんゆう – adhortatory mood* (mild urging for)
+    進勧誘・しんかんゆう – exhortatory mood* (avid urging for)
+    上勧誘・じょうかんゆう – suprahortatory mood* (pleading for)
+    止勧誘・しかんゆう – dehortatory mood* (mild urging against)
+    退勧誘・たいかんゆう – inhortatory mood* (avid urging against)
+    下勧誘・げかんゆう – infrahortatory mood* (pleading against)
+    命令・めいれい – imperative mood (commands)
+    必要・ひつよう – necessitative mood (absolute requirement/needs)
+    意志・いし – volitional mood (intention)
+    希望・きぼう – desiderative mood (I want to)
+    願望・がんぼう – optative mood (I want you/he/she/it/they to)
+
+  what may be
+    推量・すいりょう – inferential mood (probably [based on evidence])
+    疑義・ぎぎ – dubitative mood (probably, might, could possibly [not based on evidence])*
+    仮定・かてい – provisional mood (provisional “if”)
+    反実仮想・はんじつかそう – hypothetical mood (counter-factual “if”) [sometimes called the “subjunctive”]
+    条件・じょうけん – conditional mood (when, conditional “if”) [not to be confused with the conditional mood that is “would”]
+
+Miscellaneous Terms
+
+  婉曲・えんきょく – periphrastic/periphrasis (e.g. “we had a conversation” rather than “we conversed” [when grammatical meaning is expressed by one or more free morphemes instead of by inflectional affixes or derivation]
+  反語 – irony (answer is opposite of what is implied)
+
+Stems 形・けい
+
+|        |                                                                 |
+|  ---   |                               ---                               |
+| 未然形 | irrealis stem                                                   |
+| 連用形 | continuative stem                                               |
+| 終止形 | terminal stem                                                   |
+| 連体形 | attributive stem                                                |
+| 已然形 | realis stem                                                     |
+| 命令形 | imperative stem                                                 |
+| 辞書形 | dictionary stem / lemma (modern)                                |
+| 仮定形 | hypothetical stem (modern)                                      |
+| 推量形 | volitional stem (modern) [not actually a stem]                  |
+| 基本形 | fundamental stem (another term used to refer to the basic form) |
+

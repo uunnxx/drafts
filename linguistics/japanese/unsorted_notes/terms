@@ -1,0 +1,104 @@
+| 日本語 | ふりがな | ROMA-JI | ENGLISH
+| --- | --- | --- | --- |
+| 品詞 | ひんし | hinshi | part of speech / word class
+| 名詞 | めいし | meishi | noun
+| 代名詞 | だいめいし | daimeishi | pronoun
+| 動詞 | どうし | doushi | verb
+| 他動詞 | たどうし | tadoushi | transitive verb
+| 自動詞 | じどうし | jidoushi | intransitive verb
+| 助動詞 | じょどうし | jodoushi | auxiliary verb
+| 形容詞 | けいようし | keiyoushi | adjective
+| 副詞 | ふくし | fukushi | adverb
+| 前置詞 | ぜんちし | zenchishi | preposition
+| 接続詞 | せつぞくし | setsuzokushi | conjunction
+| 間投詞 | かんとうし | kantoushi | interjection
+| 冠詞 | かんし | kanshi | article
+| 不定冠詞 | ふていかんし | futeikanshi | indefinite article
+| 定冠詞 | ていかんし | teikanshi | definite article
+| 疑問詞 | ぎもんし | gimonshi | interrogative / interrogative word / question word
+| 名詞関連用語 | めいしかんれんようご | meishi-kanren yougo | noun-related terms
+| 単数形 | たんすうけい | tansukei | singular
+| 複数形 | ふくすうけい | fukusukei | plural
+| 可算名詞 | かさんめいし | kasanmeishi | countable noun
+| 不可算名詞 | ふかさんめいし | fukasanmeishi | uncountable noun
+| he の所有格 | he のしょゆうかく | he no shoyukaku | the possessive case of he
+| she の目的格 | she のもくてきかく | she no mokutekikaku | the object case of he
+| 形容詞関連用語 | けいようしかんれんようご | keiyoshi-kanren yougo | adjective-related terms
+| 比較 | ひかく | hikaku | comparison
+| 原級 | げんきゅう | genkyu | positive / positive degree
+| 比較級 | ひかくきゅう | hikakukyu | comparative / comparative degree
+| 最上級 | さいじょうきゅう | saijokyu | superlative / superlative degree
+| 形容詞の比較級 | けいようしのひかくきゅう | kaiyoushi no hikakukyu | comparative of an adjective
+| 動詞関連用語 | どうしかんれんようご | doushi-kanren yougo | verb-related terms
+| 動詞の原形 | どうしのげんけい | doushi no genkei | verb root
+| 過去形 | かこけい | kakokei | past form
+| 過去分詞 | かこぶんし | kakobunshi | past participle
+| 三人称 | さんにんしょう | san-ninsho | third person
+| 三人称単数現在 | さんにんしょうたんすうげんざい | san-ninsho tansu genzai | third person singular
+| 三単現 | さんたんげん | san-tan-gen | third person singular
+| 規則変化の動詞 | きそくへんかのどうし | kisokuhenka no doushi | verb with regular conjugation / regular verb
+| 不規則変化の動詞 | ふきそくへんかのどうし | fukisokuhenka no doushi | verb with irregular conjugation / irregular verb
+| 不定詞 | ふていし | futeishi | infinitive
+| 原形不定詞 | げんけいふていし | genkeifuteishi | bare infinitive
+| 動名詞 | どうめいし | doumeishi | gerund
+| 現在分詞 | げんざいぶんし | genzaibunshi | present participle
+| 状態動詞 | じょうたいどうし | joutaidoushi | stative verb / state verb
+| 動作動詞／動作の動詞 | どうさどうし／どうさのどうし | dousadoushi / dousha no doushi | active verb / action verb
+| 群動詞 | ぐんどうし | gundhoushi | phrasal verb
+| 句動詞 | くどうし | kudoushi | phrasal verb
+| 動詞句 | どうしく | doushiku | verb phrase/verbal phrase
+| 副詞関連用語 | ふくしかんれんようご | fukushi-kanren yougo | adverb-related terms
+| 度合いの副詞 | どあいのふくし | doai no fukushi | adverb of degree / degree adverb
+| 頻度の副詞 | ひんどのふくし | hindo no fukushi | adverb of frequency / frequency adverb
+| 句読点 | くとうてん | kutouten | punctuation
+| ピリオド　. | ぴりおど | piriodo | period
+| カンマ , | かんま | kanma | comma
+| クエスチョンマーク ? | くえすちょんまーく | kuesuchon maaku | question mark
+| 感嘆符 ! | かんたんふ | kantanfu | exclamation mark
+| コロン : | ころん | koron | colon
+| セミコロン ; | せみころん | semi koron | semicolon
+| アポストロフィー ' | あぽすとろふぃー | aposutorofi | apostrophe
+| 引用符 " | いんようふ | inyoufu | quotation mark
+| 時制 | じせい | jisei | tense
+| 現在形 | げんざいけい | genzaikei | present tense / present form
+| 過去形 | かこけい | kakokei | past tense / past form
+| 現在進行形 | げんざいしんこうけい | genzaishinkoukei | present continuous tense / present progressive tense
+| 未来形 | みらいけい | miraikei | future tense / future form
+| 現在完了形 | げんざいかんりょうけい | genzaikanryoukei | present perfect tense / present perfect form
+| 過去進行形 | かこけいしんこうけい | kakoshinkoukei | past progressive tense / past progressive form
+| 未来進行形 | みらいしんこうけい | miraishinkoukei | future continuous tense / future continuous form
+| 現在完了進行形 | げんざいかんりょうしんこうけい | genzaikanryoushinkoukei | present perfect continuous tense / present perfect continuous form
+| 過去完了形 | かこかんりょうけい | kakokanryoukei | past perfect tense / past perfect form
+| 未来完了形 | みらいかんりょうけい | miraikanryoukei | future perfect tense / future perfect form
+| 文 | ぶん | bun | sentence
+| 主語 | しゅご | shugo | subject
+| 目的語 | もくてきご | mokutekigo | object
+| 補語 | ほご | hogo | complement
+| 文型 | ぶんけい | bunkei | sentence pattern
+| 能動態 | のうどうたい | noudoutai | active voice
+| 受動態 | じゅどうたい | judoutai | passive voice
+| 構文／文の構造 | こうぶん／ぶんのこうぞう | koubun / bun no kouzou | sentence structure
+| 肯定文 | こうていぶん | koutei-bun | affirmative sentence / positive sentence
+| 否定文 | ひていぶん | hitei-bun | negative sentence
+| 疑問文 | ぎもんぶん | gimon-bun | interrogative sentence / question sentence
+| 感嘆文 | かんたんぶん | kantan-bun | exclamatory sentence
+| 命令文 | めいれいぶん | meirei-bun | imperative sentence
+| 句 | く | ku | phrase
+| 節 | せつ | setsu | clause
+| 名詞句 | めいしく | meishi-ku | nominal phrase / noun phrase
+| 名詞節 | めいしせつ | meishi-setsu | nominal clause / noun clause
+| 形容詞句 | けいようしく | keiyoushi-ku | adjectival phrase / adjective phrase
+| 形容詞節 | かいようしせつ | keiyoushi-setsu | adjectival clause / adjective clause
+| 関係代名詞 | かんけいだいめいし | kankeidaimeishi | relative pronoun
+| 分詞構文 | ぶんしこうぶん | bunshikoubun | participial construction
+| 直接話法 | ちょくせつわほう | chokusetsu-wahou | direct speech
+| 間接話法 | かんせつわほう | kansetsu-waho | indirect speech
+| 時制の一致 | じせいのいっち | jisei no icchi | sequence of tenses
+| 仮定法 | かていほう | kateiho | subjunctive mood
+| 仮定法過去 | かていほうかこ | kateiho-kako | past subjunctive
+| 条件節 | じょうけんせつ | joukensetsu | conditional clause / clause of condition
+| 表現例： | ひょうげんれい | hyougen-rei | example sentences
+| maintain の名詞形は何ですか？ | maintain のめいしけいはなんですか？ | maintain no meishikei wa nandesuka? | What is the noun form of "maintain"?
+| better の原級は何ですか？ | better のげんきゅうはなんですか？ | better no genkyu wa nandesuka? | What is the positive (degree) of "better"?
+| good の比較級は何ですか？ | good のひかくきゅうはなんですか？ | good no hikakukyu wa nandesuka? | What is the comparative (degree) of "good"?
+| good の最上級は何ですか？ | good のさいじょうきゅうはなんですか？ | good no saijokyu wa nandesuka? | What is the superlative (degree) of "good"?
