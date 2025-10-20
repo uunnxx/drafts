@@ -2,7 +2,7 @@
 
 
 ## KVM
-- https://www.christitus.com/vm-setup-in-linux
+- [Setup `Qemu` in Debian Linux](https://www.christitus.com/vm-setup-in-linux)
 
 
 ## Computer Science Related
@@ -14,7 +14,7 @@
 - [CapROS: The Capability-based Reliable Operating System](http://www.capros.org/)
 
 
-#### Android
+#### Android OS
 - [GrapheneOS](https://grapheneos.org/install/)
 
 
@@ -22,13 +22,9 @@
 - [Naive linter for English prose](https://github.com/btford/write-good/)
 
 
-
-
 ## Input methods
 - https://rime.im/ as fcixt5-rime
 - mozc as fcixt5-mozc
-
-
 
 
 # Sh H
@@ -92,8 +88,9 @@
 
 
 ### Etc
-- sens: 2.8
-
+- CS:
+    - sens: 2.8
+        - now: 1.8
 
 
 # VPN
@@ -106,8 +103,6 @@
 | github.com | codeberg.org (gitea) |
 
 
-
-
 | Init | Sender | Receiver | Amount | Date     | Comment |
 |------|--------|----------|--------|----------|---------|
 | Me   | Zorin  | Me       | 2000   |          | Bobon   |
@@ -118,20 +113,9 @@
 
 
 
-- [Discord Screen Share Fix Audio on Linux](https://github.com/Neko-Life/Discord-Screen-Share-Fix-Audio-on-Linux)
-
-
-
-
-[ ] CCNA
-[ ] SECURITY+
-[ ] LINUX
-
-
 
 #### check.
 - Destroy All Software
-
 
 
 ## NOTE
@@ -145,24 +129,3 @@
 - [DuckDuckGo](duckduckgo.com)
 - [Grepper](https://www.grepper.com/search.php)
 - [WikiPedia alternative frontend](wikiwand.com)
-
-
-#### Extensions
-- Dark Reader
-- DeArrow
-- Bitwarden
-- cVim
-- Merge Windows
-- Saka
-- The Marvellous Suspender
-- Education:
-    - Yomichan
-    - rikaikun
-    - Slava Russian Dictionary
-    - Language Reactor
-    - DeepL
-- YouTube
-    - PocketTube
-    - Enhance for YouTube
-    - Return YouTube Dislike
-

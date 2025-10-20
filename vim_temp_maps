@@ -385,14 +385,15 @@ q:               : commandline history Window (puts you in full edit mode) (exit
 " Abbreviations & Maps
 " Maps are commands put onto keys, abbreviations expand typed text [N]
 " Following 4 maps enable text transfer between VIM sessions
-:map   <f7>   :'a,'bw! c:/aaa/x       : save text to file x
-:map   <f8>   :r c:/aaa/x             : retrieve text 
-:map   <f11>  :.w! c:/aaa/xr<CR>      : store current line
-:map   <f12>  :r c:/aaa/xr<CR>        : retrieve current line
+:map   <f7>      :'a,'bw! c:/aaa/x       : save text to file x
+:map   <f8>      :r c:/aaa/x             : retrieve text 
+:map   <f11>     :.w! c:/aaa/xr<CR>      : store current line
+:map   <f12>     :r c:/aaa/xr<CR>        : retrieve current line
 :ab php          : list of abbreviations beginning php
 :map ,           : list of maps beginning ,
 " allow use of F10 for mapping (win32)
 set wak=no       : :h winaltkeys
+
 " For use in Maps
 <CR>             : carriage Return for maps
 <ESC>            : Escape

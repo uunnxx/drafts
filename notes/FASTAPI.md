@@ -2,7 +2,9 @@
 
 
 - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi)
+- [Awesome-FastAPI-Projects](https://github.com/Kludex/awesome-fastapi-projects)
 - [FastAPI template: Feature rich robust FastAPI template](https://github.com/s3rius/FastAPI-template)
+- [FastAPI Best Practice](https://github.com/uunnxx/fastapi-best-practices)
 
 
 ### Docs
@@ -19,6 +21,7 @@
 - [FastAPI: Thread Pool and Event Loop](https://medium.com/@saverio3107/fastapi-thread-pool-and-event-loop-97242f98c506)
 - [FastAPI & Pydantic & SQLAlchemy & More](https://python.plainenglish.io/%EF%B8%8F-fastapi-pydantic-2-4-sqlalchemy-2-0-more-1d50d9948330)
 - [Setting up FastAPI, Ormar and Alembic](https://dev.to/amal/fastapi-ormar-alembic-setup-een)
+- [FastAPI at Lightning Speed ⚡: 10 Full-Stack Optimization Tips](https://leapcell.medium.com/fastapi-at-lightning-speed-10-full-stack-optimization-tips-9edde07f7362)
 
 
 ### Codes

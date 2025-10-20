@@ -1,7 +1,6 @@
 ## GIT Related
-
-
 - [git cheat sheet](https://github.com/uunnxx/git-cheat-sheet)
+- [git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)
 
 
 ### Learn
@@ -19,6 +18,8 @@
 - [A Successful Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Using get-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
 - [Everything you need to know about GIT](https://dev.to/basementdevs/everything-that-you-need-to-know-about-git-2440)
+- [Getting Things Done Book](https://www.freecodecamp.org/news/gitting-things-done-book/)
+- [How to Use Git Cherry Pick and Avoid Duplicate Commits](https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/)
 
 
 

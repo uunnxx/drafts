@@ -1,9 +1,3 @@
-
-
-
-
-
-
 - [adb over Wi-Fi: how to keep fixed port](https://stackoverflow.com/questions/65991502/adb-over-wi-fi-android-11-on-windows-how-to-keep-a-fixed-port-or-connect-aut)
     `adb connect <device_ip>:$(nmap $IP -p 37000-44000 | awk "/\/tcp/" | cut -d/ -f1)`
 

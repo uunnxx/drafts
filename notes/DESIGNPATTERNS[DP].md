@@ -161,3 +161,7 @@
 
 
 
+
+
+
+- [Pattern: API Gateway](https://microservices.io/patterns/apigateway.html)

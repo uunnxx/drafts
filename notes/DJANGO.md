@@ -1,8 +1,21 @@
 ## Django Related
 
 - [awesome django](https://github.com/wsvincent/awesome-django)
+- [awesome-django](https://github.com/shahraizali/awesome-django)
+- [awesome-django-interface](https://github.com/iamfoysal/Awesome-Django-Admin-interface)
 - [I Love Django](https://paulonteri.com/thoughts/love-django#django-rest-framework)
 - [Django API Domains: A pragmatic styleguide for Django API Projects](https://github.com/phalt/django-api-domains)
+
+
+------------------------------------------------------------------------------------
+
+
+- [django-cotton](https://django-cotton.com/)
+    - [github](https://github.com/wrabit/django-cotton)
+- [shadcn-django](https://github.com/SarthakJariwala/shadcn-django)
+- [django-template](https://github.com/wemake-services/wemake-django-template)
+- [django-split-settings](https://github.com/wemake-services/django-split-settings)
+- [django-test-migrations](https://github.com/wemake-services/django-test-migrations)
 
 
 ### Docs
@@ -11,6 +24,7 @@
 
 ### Articles
 - [Django](https://learnbatta.com/course/django/)
+- [Djnago News](https://django-news.com/)
 - [Slugs as primary keys](https://www.revsys.com/tidbits/slugs-primary-keys/)
 - Celery
     - [Decreasing RAM Usage by 40% Using `jemalloc` with Python & Celery](https://zapier.com/engineering/celery-python-jemalloc/)
@@ -19,6 +33,7 @@
     - [Creating Asynchronous Tasks with Celery and Django](https://realpython.com/courses/asynchronous-tasks-celery-django/)
 - [Full Stack Todo WebApp with React and Django](https://dev.to/thekalderon/full-stack-todo-webapp-with-react-and-python-django-4472)
 - [A Comprehensive Guide to Structuring Django Projects: Best Practices and Example](https://medium.com/@akshatgadodia/a-comprehensive-guide-to-structuring-django-projects-best-practices-and-example-afb77d8497d5)
+- [Send Email without Celery](https://nemecek.be/blog/158/django-how-to-send-email-without-celery?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_131)
 - Django Admin
     - [The Django Admin site](https://docs.djangoproject.com/en/5.0/ref/contrib/admin/#hooking-adminsite-instances-into-your-urlconf)
     - [5 ways to make Django Admin safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8)
@@ -28,6 +43,7 @@
 - Views
     - [Class Based Views](https://www.django-rest-framework.org/api-guide/views/#class-based-views)
     - [Function Based Views](https://www.django-rest-framework.org/api-guide/views/#function-based-views)
+    - [What are Django class-based-views & should you use them?](https://dennisivy.com/django-class-based-views)
 - MVT
     - [Django MVT: An Introduction to the Model-View-Template Architecture of Django App](https://dev.to/akolade/django-mvt-an-introduction-to-the-model-view-template-architecture-of-a-django-app-23b9)
 - Models
@@ -50,6 +66,10 @@
 - [Django 4 Docs :ru](https://proproprogs.ru/django4)
 - Microservices
     - [Python Microservices with Kafka and Django](https://python.plainenglish.io/microservices-in-python-kafka-and-django-c4e4fc83b7ef)
+
+
+### Blogs
+- [Dennis Ivy](https://dennisivy.com/)
 
 
 
@@ -98,9 +118,10 @@
 
 
 
-
-[Channels to use WebSockets, create long-time connection]
+```shell
+# [Channels to use WebSockets, create long-time connection]
 pip install channels
 
-Daphne [the server who serves ASGI]
+# Daphne [the server who serves ASGI]
 pip install daphne
+```

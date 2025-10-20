@@ -1,7 +1,7 @@
 ## Linux / Unix Related
 
 
-### APPs
+### Apps
 - firejail
     - https://wiki.archlinux.org/title/Firejail
     - https://firejail.wordpress.com/
@@ -15,7 +15,7 @@
 
 ### Links
 - https://github.com/sinedoke/eudyptula
-- [](https://ops.tips/)
+- [OPS Tips](https://ops.tips/)
 - [Strace в Linux: история, устройство и использование](https://habr.com/ru/company/badoo/blog/493856/)
 - [Using C to inspect Linux syscalls](https://ops.tips/gists/using-c-to-inspect-linux-syscalls/)
 - Linux Epoll Alternative
@@ -30,39 +30,8 @@
 - [Hummingbird init system for Linux based operating systems](https://github.com/Sweets/hummingbird)
 
 
-### SECURITY
+### Security
 - [Malware Samples | Linux Papers](https://www.vx-underground.org/)
-
-
-### Etc
-- Get Key Codes: `xev | grep button`
-
-
-> Find the process id that is using the port 8080
-
-```
-netstat -lnp | grep 8080
-lsof -i :8080
-lsof -iPn :8080
-```
-
-### Archives:
-- tar
-- tar.gz
-- gz
-- lzx
-- bz2
-- zip
-- rar
-- 7z
-- xz
-
-> Extract archive
-
-```
-tar -xvjf filename.tar.bz2
-tar -xvzf filename.tar.gz
-```
 
 
 
@@ -80,5 +49,3 @@ tar -xvzf filename.tar.gz
 - [Linux Asynchronous IO](https://web.archive.org/web/20150406015143/http://code.google.com/p/kernel/wiki/AIOUserGuide)
 - [Faster IO through `io_uring`](https://kernel-recipes.org/en/2019/talks/faster-io-through-io_uring/)
 - [Does poll/epoll block? How is it different from async IO](https://itecnote.com/tecnote/does-poll-epoll-block-how-is-it-different-from-async-io/)
-
-

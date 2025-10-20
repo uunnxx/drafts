@@ -39,6 +39,7 @@
 
 ### Etc.
 - [Secrets Patterns DB](https://github.com/mazen160/secrets-patterns-db)
+- [BurpSuit Related Collections](https://github.com/PortSwigger/bambdas)
 
 
 ### IoT

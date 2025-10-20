@@ -1,6 +1,3 @@
-
-
-
 ### Articles
 
 - [Modern Android Development in 2024](https://devjorgecastro.medium.com/modern-android-development-in-2024-b70f194938bd)

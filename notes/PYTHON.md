@@ -24,6 +24,9 @@
 - [Operators and Expressions](https://python.swaroopch.com/op_exp.html)
 - [FreeCodeCamp](https://www.freecodecamp.org/news/tag/python)
 
+## DP
+- [A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
+
 
 ### Blogs:
 - [REVSYS Blogs](https://www.revsys.com/tidbits/)
@@ -56,16 +59,26 @@
     - [How to Catch Multiple Exceptions in Python](https://rollbar.com/blog/python-catching-multiple-exceptions/)
 - `map`
     - [How to use the Python `map` Function](https://www.digitalocean.com/community/tutorials/how-to-use-the-python-map-function)
+- [uvloop: Blazing fast Python networking](https://magic.io/blog/uvloop-blazing-fast-python-networking/)
+- [Python Bytes](https://readmedium.com/en/python-bytes-92ba69ddafba)
+- [5 Best Practices for Python Exceptino Handling](https://readmedium.com/en/5-best-practices-for-python-exception-handling-5e54b876a20)
+- [Exploring Python's Lesser-Knows Standard Libraries](https://blog.devgenius.io/exploring-pythons-lesser-known-standard-libraries-670c509bf062)
+- [Generator Functions](https://pub.aimind.so/subtle-aspects-of-pythons-generator-function-3a244e197da)
 
 
 #### Parallel, Coroutines and Concurrency
-- [Python Concurrency Guides](https://superfastpython.com/python-concurrency-guides/)
 - [A Curious Course on Coroutines and Concurrency](https://www.dabeaz.com/coroutines/)
 - [An In-Depth Guide to `asyncio` and `await` in Python](https://medium.com/@danielwume/an-in-depth-guide-to-asyncio-and-await-in-python-059c3ecc9d96)
 - [Introduction to Multi-Threading vs Multi-Processing (Part 1)](https://medium.com/@jonathantan12/multi-threading-vs-multi-processing-with-python-examples-e56d71b2ed69)
 - [Introduction to Multi-Threading vs Multi-Processing (Part 2)](https://medium.com/@jonathantan12/introduction-to-multi-threading-and-multi-processing-in-python-part-2-0d23428871cb)
 - [Mastering Asynchronous Programming in Python: A Comprehensive Gudie](https://blog.devgenius.io/mastering-asynchronous-programming-in-python-a-comprehensive-guide-ef1e8e5b35db)
 - [Multithreading in Python: the obvious and the incredible](https://dev.to/abstractart/multithreading-in-python-the-obvious-and-the-incredible-1o9c)
+- [Python Concurrency Guides](https://superfastpython.com/python-concurrency-guides/)
+- [Python Multiprocessing: The Complete Guide](https://superfastpython.com/multiprocessing-in-python/)
+- [Python Threading: The Complete Guide](https://superfastpython.com/threading-in-python/)
+- [Thread-Safe Queue in Python](https://superfastpython.com/thread-queue)
+- [Python Concurrency Learning Paths](https://superfastpython.com/learning-paths/)
+- [Faster File I/O in Python ...once you add concurrency](https://superfastpython.com/concurrent-file-io-in-python/)
 - asyncio
     - [asyncio: Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
     - [Python Async Function](https://blog.finxter.com/python-async-function/)
@@ -76,7 +89,9 @@
     - [Python behind the scenes: how async/await works in Python](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/)
     - [A Hitchhikers Guide to Asynchronous Programming](https://www.pythonsheets.com/appendix/python-concurrent.html)
     - [Asynchronous Context Manager in Python](https://superfastpython.com/asynchronous-context-manager/#:~:text=Context%20Manager%20vs%20Asynchronous%20Context%20Manager,-Both%20classical%20context&text=They%20both%20attempt%20to%20achieve,and%20__aexit__%20methods.)
-- [Faster File I/O in Python ...once you add concurrency](https://superfastpython.com/concurrent-file-io-in-python/)
+    - [AsyncIO: `gather()` Timeout](https://superfastpython.com/asyncio-gather-timeout/)
+    - [AsyncIO: `gather()` Exception in Task Does Not Cancel](https://superfastpython.com/asyncio-gather-exception-not-cancel/)
+    - [Python Asyncio: The Complete Guide](https://superfastpython.com/python-asyncio/)
 - [Creating an Asynchronous Task Queue using Python](https://python.plainenglish.io/creating-an-asynchronous-task-queue-using-python-d4ac20ced12d)
 - [3 ways to run a Python function asynchronous](https://medium.com/@alexobidiegwu/3-ways-to-run-a-python-function-asynchronously-b00e860fed6d)
 - [Speed up Your Python Program with Concurrency](https://realpython.com/python-concurrency/)
@@ -96,18 +111,9 @@
 
 
 ### Testing
-- [pytest](https://github.com/pytest-dev/pytest/)
-    - [docs](https://docs.pytest.org/en/latest/)
-- [nose](https://nose.readthedocs.io/en/latest/)
-- [tox](https://github.com/tox-dev/tox)
-    - [docs](https://tox.wiki/en/4.12.1/user_guide.html)
-- [BDD](https://github.com/behave/behave)
-- [Faker](https://github.com/joke2k/faker)
 - [Wraps any WSGI Application and Makes it Easy to Send Test Requests](https://github.com/Pylons/webtest)
 - [Pro-Tip - Sentinel values in Python](https://www.revsys.com/tidbits/sentinel-values-python/)
 - [TIL: Testing `import` file mismatch](https://www.revsys.com/tidbits/testing-import-file-mismatch/)
-
-
 
 
 #### ORM
@@ -262,6 +268,9 @@
 - [mypy: Type Hints Cheat Sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
 - [Python Type Checking](https://realpython.com/python-type-checking/)
 - [Python typing module - Use type checkers effectively](https://www.digitalocean.com/community/tutorials/python-typing-module)
+- [Advanced Type Annotations in Python: part 1](https://readmedium.com/en/advanced-type-annotations-in-python-part-1-3c9a592e394)
+- [Advanced Type Annotations in Python: part 2](https://readmedium.com/advanced-type-annotations-in-python-part-2-58e0b756aede)
+
 
 
 
@@ -272,6 +281,7 @@
 
 - [Descriptor Guide](https://docs.python.org/3/howto/descriptor.html)
 - [Python's Most Powerful Decorator](https://towardsdatascience.com/pythons-most-powerful-decorator-6bc39e6a8dd8)
+- [Decorators in Python That Can Cut Your Code in Half](https://readmedium.com/en/decorators-in-python-that-can-cut-your-code-in-half-86388341feab)
 
 - [Use a Dictionary to Control Function Calling](https://ruepprich.com/python-use-a-dictionary-to-control-function-calling/)
 
@@ -307,6 +317,7 @@
     - check the source of the lib
 - [Python Developer's Guide to Character Encoding](https://dev.to/honeybadger/python-developers-guide-to-character-encoding-2e8i)
 - [Mastering List Manipulation and Filtering in Python](https://dev.to/scofieldidehen/mastering-list-manipulation-and-filtering-in-python-dm2)
+- [Speech Toolkit](https://github.com/speechbrain/speechbrain)
 
 
 ### Embedded Systems & Etc.

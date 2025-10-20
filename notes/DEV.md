@@ -1,11 +1,20 @@
 ## DEV Related
 
 
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [awesome-certificates](https://github.com/PanXProject/awesome-certificates)
+- [awesome-diy-software](https://github.com/cweagans/awesome-diy-software)
+- [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)
+
+
 ### Blogs
 - [A Curated List of Engineering Blogs](https://github.com/uunnxx/engineering-blogs)
 - [Alex Dzyoba](https://alex.dzyoba.com/blog/)
 - [M. Herman](https://mherman.org/)
 - [Sahanda Saba](https://sahandsaba.com/)
+- [CloudAMQP](https://www.cloudamqp.com/blog/index.html)
+- [Raturi.in](https://tech.raturi.in/archive)
+
 
 ### Sites
 - [A Collection of Learning Resources for Curious Software Engineers](https://github.com/charlax/professional-programming?tab=readme-ov-file)
@@ -40,6 +49,7 @@
 - http://rebekahheacock.org/
 - [Exponentiation with minimum number of multiplication](https://scribe.rip/swlh/exponentiation-with-minimum-number-of-multiplication-122f50fcff49)
 - [Internal Pointers](https://www.internalpointers.com/)
+- [Trunk-Based Development](https://www.freecodecamp.org/news/what-is-trunk-based-development/)
 
 
 ### Resources
@@ -60,9 +70,6 @@
     - [GCSE Computer Science](https://bournetocode.com/projects/GCSE_Computing_Fundamentals/index.html)
     - [Fundamentals of programming](https://bournetocode.com/projects/AQA_A_Theory/pages/OOP.html)
 - [Write down the problem. Think real hard. Write down the solution.(note: worthy of attention)](https://marquis08.github.io/)
-
-
-
 
 
 ### QA
@@ -93,6 +100,7 @@
 - [Zig is a general-purpose programming language](https://ziglang.org)
 - [Nim is a statically typed compiled systems programming language](https://nim-lang.org)
 - [IO](https://iolanguage.org)
+    - [Eerie](https://github.com/IoLanguage/eerie)
 - [Carbon](https://github.com/carbon-language/carbon-lang)
 - [V](https://vlang.io/)
 - [Crystal](https://crystal-lang.org/)
@@ -104,7 +112,6 @@
     - [Learn x in y](https://learnxinyminutes.com/docs/gleam/)
 
 
-
 ## Software Architecture
 - ActivityPub [federated network]
 - Zero Trust Architecture [based on the principle of `never trust, always verify` as opposed to the traditional `trust, but verify`]
@@ -112,7 +119,7 @@
 
 
 ### SEARCH
-- Tail Call Elimination
+- [ ] Tail Call Elimination
 
 
 ### Computing
@@ -120,18 +127,21 @@
 
 
 ### Fundamentals All Software Engineers Should Learn:
-- Data Structures and Algorithms
-- Programming Paradigms (OOP and Functional)
-- Testing Procedures (Unit, Integration and Functional Testing)
-- Security (OWASP top 10)
-- Networking
-- Operating Systems
-- System Design
-- Cloud Computing
+- [ ] Data Structures and Algorithms
+- [ ] Programming Paradigms (OOP and Functional)
+- [ ] Testing Procedures (Unit, Integration and Functional Testing)
+- [ ] Security (OWASP top 10)
+- [ ] Networking
+- [ ] Operating Systems
+- [ ] System Design
+- [ ] Cloud Computing
+- [ ] CCNA
+- [ ] SECURITY+
+- [ ] LINUX
+- [ ] IPC: Inter-Process Communication
 
 
 ### Data Structures
-```
 - Linear
     - Array
     - Linked List
@@ -141,20 +151,9 @@
     - Tree
     - Table
     - Graph
-```
-
--------------------------------------------------------------------------------
-
-- IPC: Inter-Process Communication
-
-
-Diagrams
-    - https://mermaid.js.org
 
 
 
-
-- [Virtual Address Space](https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/virtual-address-spaces)
 
 
 ## LocalStack Related
@@ -169,6 +168,10 @@ Diagrams
 - [Kaggle](https://www.kaggle.com/datasets)
 
 
-
-## UML
+## Diagrams && UML
+- [Mermaid: Diagramming and charting tool](https://mermaid.js.org)
 - [mermaid-cheat-sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
+
+
+--- 
+- [Virtual Address Space](https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/virtual-address-spaces)

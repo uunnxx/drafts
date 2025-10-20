@@ -17,7 +17,7 @@
     - [docs](https://docs.rs/mio/latest/mio/)
 - [Bulid Reliable Network Applications without Compromising Speed](https://tokio.rs)
 - [A CLI task runner defined by a simple markdown file](https://github.com/jacobdeichert/mask)
-- [https://github.com/levkk/pgcat](Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.)
+- [Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support.](https://github.com/levkk/pgcat)
 
 ## Course:
 

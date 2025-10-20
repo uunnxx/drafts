@@ -2,6 +2,8 @@
 
 [hatch: Modern, extensible Python project management](https://hatch.pypa.io/latest/)
     - [github](https://github.com/pypa/hatch)
+- [SimpleJWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html)
+    - [github](https://github.com/jazzband/djangorestframework-simplejwt)
 
 ### WEB
 - Frameworks
@@ -17,6 +19,11 @@
 - [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 - [scrapy](https://scrapy.org/)
 - [scapy](https://scapy.net/)
+- [django-ninja](https://github.com/vitalik/django-ninja)
+
+- [Starlette](https://www.starlette.io/)
+- [uvicorn](https://www.uvicorn.org/)
+- [gunicorn](https://github.com/benoitc/gunicorn)
 
 
 ### NETWORK
@@ -37,12 +44,34 @@
 - [Piccolo: A Powerful Async ORM, Query Builder, and Admin GUI](https://piccolo-orm.com/)
 - [PsycoPG: PostgreSQL Adapter](https://www.psycopg.org/)
 - [Pure-Python Implementation of the AMQP 0-9-1 Protocol](https://pika.readthedocs.io/en/stable/)
+    - [github](https://github.com/pika/pika)
 - [PyMongo: MongoDB](https://pymongo.readthedocs.io/en/stable/)
 - [sqlmodel](https://github.com/tiangolo/sqlmodel)
+- [sqlmodel](https://github.com/fastapi/sqlmodel)
+
+
+### Testing
+- [pytest](https://github.com/pytest-dev/pytest/)
+    - [docs](https://docs.pytest.org/en/latest/)
+- [pytest-testmoon](https://github.com/tarpas/pytest-testmon)
+- [nose](https://nose.readthedocs.io/en/latest/)
+- [tox](https://github.com/tox-dev/tox)
+    - [docs](https://tox.wiki/en/4.12.1/user_guide.html)
+- [BDD](https://github.com/behave/behave)
+- [Faker](https://github.com/joke2k/faker)
+
 
 
 ### LOGGING
 - [loguru - logging](https://github.com/Delgan/loguru)
+- [structlog](https://github.com/hynek/structlog)
+    - [docs](https://www.structlog.org/en/stable/index.html)
+
+### Profiler
+- [Stack Profiler](https://github.com/joerick/pyinstrument)
+
+### Documentation
+- [scalar](https://github.com/scalar/scalar)
 
 
 ### CACHE
@@ -105,11 +134,19 @@
     - [Docs](https://boltons.readthedocs.io/en/latest/index.html)
 - [typing: Support for type hints](https://docs.python.org/3/library/typing.html)
 - [blist: a list-like type with better asymptomic performance and similar performance on small lists](https://pypi.org/project/blist/)
+- [benedict: dict subclass with keylist/keypath support](https://github.com/fabiocaccamo/python-benedict)
+- [fsutil: high-level file-system operations](https://github.com/fabiocaccamo/python-fsutil)
 
 
 ### Django
 - [Django Channels HTTP/WebSocket Server](https://github.com/django/daphne)
 - [Django Logs | grc colorization](https://github.com/garabik/grc/issues/142)
+
+
+### Authentication
+- [Social Auth](https://github.com/python-social-auth/social-app-django)
+- [authlib](https://github.com/authlib/authlib)
+- [django-allauth](https://github.com/pennersr/django-allauth)
 
 
 ### Telegram:
@@ -123,6 +160,7 @@
 - [Library that measures teh width of unicode strings rednered to a terminal](https://github.com/jquast/wcwidth)
 
 
+
 ### NLTK
 - [NLTK Playlist](https://www.youtube.com/watch?v=QpzMWQvxXWk&list=PL7RwtdVQXQ8o6CYe1Teo7FzkrQQoT0c9i)
 - [NLKT Python Tutorial](https://www.youtube.com/watch?v=XFoehWRzG-I)
@@ -130,6 +168,9 @@
 
 ### Etc
 - [Lazy f-strings for everyone](https://github.com/pomponchik/fazy)
+- [FactoryBoy](https://github.com/FactoryBoy/factory_boy)
+- [Federation](https://github.com/jaywink/federation)
+- [Configuration Management for Python](https://github.com/dynaconf/dynaconf)
 
 
 
@@ -144,3 +185,6 @@
 
 - [contextlib]
     - [suppress](https://docs.python.org/3/library/contextlib.html#contextlib.suppress)
+
+
+- [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
