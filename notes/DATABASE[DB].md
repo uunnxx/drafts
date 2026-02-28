@@ -70,3 +70,12 @@
 
 ### Coding Interviews
 - [SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/)
+
+
+
+
+
+
+## Etc
+- [Restaurant Management System](https://github.com/leyviya/restaurant-management-system-mssql)
+- [Course Monitoring System](https://github.com/abhishek-0713/Course-Monitoring-System-Java)

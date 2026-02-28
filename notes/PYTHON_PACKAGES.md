@@ -15,6 +15,7 @@
         - [github](https://github.com/nameko/nameko)
     - [falcon](https://falcon.readthedocs.io/en/stable/index.html)
 - [Playwright](https://playwright.dev/python/)
+    - [Patchright]
 - [Selenium](https://www.selenium.dev/)
 - [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 - [scrapy](https://scrapy.org/)
